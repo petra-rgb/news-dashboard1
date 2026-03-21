@@ -560,7 +560,20 @@ if df.empty:
 df_display = df.drop(columns=["full_text", "headline_norm"], errors="ignore").copy()
 
 df_display.to_csv(RAW_OUTPUT_FILE, index=False)
-df_display.to_csv(ARTICLES_OUTPUT_FILE, index=False)
+if ARTICLES_OUTPUT_FILE.exists():
+    old_df = pd.read_csv(ARTICLES_OUTPUT_FILE)
+    combined = pd.concat([old_df, df_display], ignore_index=True)
+else:
+    combined = df_display.copy()
+
+# remove duplicates again (important!)
+combined = combined.drop_duplicates(subset=["url"])
+combined["published_date"] = pd.to_datetime(combined["published_date"], errors="coerce")
+
+# sort
+combined = combined.sort_values("published_date", ascending=False)
+
+combined.to_csv(ARTICLES_OUTPUT_FILE, index=False)
 export_markdown_report(df_display, MARKDOWN_OUTPUT_FILE)
 
 print(f"\nSaved raw articles to: {RAW_OUTPUT_FILE}")
