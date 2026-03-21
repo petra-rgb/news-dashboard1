@@ -190,6 +190,17 @@ st.caption("News discovery + topic selection workspace")
 # SIDEBAR
 # -------------------------
 st.sidebar.header("Filters")
+st.sidebar.subheader("📅 Date Filter")
+
+min_date = df["published_date"].min().date()
+max_date = df["published_date"].max().date()
+
+date_range = st.sidebar.date_input(
+    "Select date range",
+    value=(min_date, max_date),
+    min_value=min_date,
+    max_value=max_date
+)
 
 all_topics = sorted(set(t for topics in df["topics_list"] for t in topics))
 all_sources = sorted(df["source"].dropna().unique().tolist())
@@ -212,6 +223,12 @@ if search:
     filtered = filtered[
         filtered["headline"].str.contains(search, case=False, na=False) |
         filtered["summary"].str.contains(search, case=False, na=False)
+    ]
+if isinstance(date_range, tuple) and len(date_range) == 2:
+    start_date, end_date = date_range
+    filtered = filtered[
+        (filtered["published_date"].dt.date >= start_date) &
+        (filtered["published_date"].dt.date <= end_date)
     ]
 
 filtered = filtered.sort_values("published_date", ascending=False)
