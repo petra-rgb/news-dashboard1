@@ -32,6 +32,19 @@ selected_sources = st.sidebar.multiselect("Sources", all_sources)
 search_text = st.sidebar.text_input("Search headline")
 
 filtered = df.copy()
+st.sidebar.subheader("📅 Date Filter")
+
+min_date = df["published_date"].min()
+max_date = df["published_date"].max()
+
+start_date, end_date = st.sidebar.date_input(
+    "Select date range",
+    [min_date.date(), max_date.date()]
+)
+filtered = df[
+    (df["published_date"].dt.date >= start_date) &
+    (df["published_date"].dt.date <= end_date)
+]
 
 if selected_topics:
     filtered = filtered[
