@@ -574,15 +574,16 @@ best_feeds = (
     .drop_duplicates(subset=["source"], keep="first")
     [["source", "feed_url", "entry_count", "recent_count", "bozo", "score"]]
 )
-display(best_feeds.sort_values("recent_count", ascending=False))
+print(best_feeds.sort_values("recent_count", ascending=False).to_string(index=False))
 
 print("\nArticles collected by source:")
-display(
+articles_by_source = (
     df_display.groupby("source")
     .size()
     .reset_index(name="count")
     .sort_values("count", ascending=False)
 )
+print(articles_by_source.to_string(index=False))
 
 print("\nArticles collected by topic:")
 topic_counts = (
@@ -592,4 +593,9 @@ topic_counts = (
     .size()
     .reset_index(name="count")
     .sort_values("count", ascending=False)
+)
+print(topic_counts.to_string(index=False))
+
+print("\nPreview:")
+print(df_display.head(30).to_string(index=False))
 )
