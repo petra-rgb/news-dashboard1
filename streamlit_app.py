@@ -5,10 +5,10 @@ st.set_page_config(page_title="Daily Intelligence Dashboard", layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("articles_tagged.csv")
+    df = pd.read_csv("daily_output/articles_tagged.csv")
     df["published_date"] = pd.to_datetime(df["published_date"], errors="coerce")
     df["topics"] = df["topics"].fillna("")
-    df["summary"] = df["summary"].fillna("")
+    df["summary"] = df.get("summary", "").fillna("")
     df["source"] = df["source"].fillna("")
     df["headline"] = df["headline"].fillna("")
     df["url"] = df["url"].fillna("")
