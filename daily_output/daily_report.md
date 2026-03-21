@@ -1,6 +1,6 @@
 # Daily Intelligence Report
 
-Generated: 2026-03-21 22:19 UTC
+Generated: 2026-03-21 22:31 UTC
 
 ## AI
 
@@ -340,6 +340,13 @@ Generated: 2026-03-21 22:19 UTC
 
 ## Science
 
+### New research explores the paradox of firms' unique technologies
+- Source: Phys.org
+- Published: 2026-03-21 22:30
+- Topics: Science
+- Link: https://phys.org/news/2026-03-explores-paradox-firms-unique-technologies.html
+- Summary: A company's ability to be technologically unique is an asset, but it can also be a costly, isolating characteristic. A new study published in Strategic Management Journal provides empirical evidence of this paradox, offering documentation of technologically unique payoffs, as well as the double penalty of being a contrarian company.
+
 ### Limited jobs block social mobility opportunities for young people in coastal and rural areas, study shows
 - Source: Phys.org
 - Published: 2026-03-21 22:00
@@ -451,13 +458,6 @@ Generated: 2026-03-21 22:19 UTC
 - Topics: Science
 - Link: https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 - Summary: Physicists have directly visualized the fundamental electronic building blocks of flat-band quantum materials, a class of systems in which electron motion is effectively quenched and strong interactions give rise to emergent phases of matter. In a study published in Nature Physics, Qimiao Si's group at Rice University, in collaboration with researchers at the Weizmann Institute of Science, identified compact molecular orbitals that act as the key electronic agents governing the exotic behavior o
-
-### Addressing the Achilles' heel of marine protected areas
-- Source: Phys.org
-- Published: 2026-03-21 02:50
-- Topics: Science
-- Link: https://phys.org/news/2026-03-achilles-heel-marine-areas.html
-- Summary: New research led by James Cook University (JCU) emphasizes that the success of marine protected areas (MPAs) depends largely on understanding and influencing people's behaviors within their borders. The study demonstrates that effective conservation relies on compliance—a critically underappreciated issue that needs to be systematically and adaptively addressed.
 
 ### Impact of comorbid diseases and associated factors on tuberculosis treatment outcomes among tuberculosis patients in South West Oromia, Ethiopia: a retrospective cohort study
 - Source: Nature
