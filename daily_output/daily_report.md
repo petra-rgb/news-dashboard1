@@ -1,6 +1,6 @@
 # Daily Intelligence Report
 
-Generated: 2026-03-21 22:31 UTC
+Generated: 2026-03-21 22:38 UTC
 
 ## AI
 
@@ -147,18 +147,11 @@ Generated: 2026-03-21 22:31 UTC
 - Summary: The U.S. Army faces a critical modernization crossroads in field artillery. The KNDS RCH 155 offers a transformative answer.
 
 ### High-speed combat drone production starts at new US Anduril plant in days
-- Source: Defense News
+- Source: C4ISRNET
 - Published: 2026-03-19 23:46
 - Topics: Defense
-- Link: https://www.defensenews.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
+- Link: https://www.c4isrnet.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
 - Summary: Anduril Industries will begin building its new loyal wingman drones in the coming days at a new facility in Ohio.
-
-### Two US counter-mine ships based in the Middle East are now in Singapore, Navy says
-- Source: Defense News
-- Published: 2026-03-19 22:34
-- Topics: Defense
-- Link: https://www.defensenews.com/news/your-navy/2026/03/19/two-us-counter-mine-ships-based-in-the-middle-east-are-now-in-singapore-navy-says/
-- Summary: The USS Santa Barbara and USS Tulsa, which are homeported in Bahrain, arrived in Singapore this week.
 
 ## MedTech
 
@@ -525,17 +518,17 @@ Generated: 2026-03-21 22:31 UTC
 - Link: https://www.science.org/content/article/hormone-linked-morning-sickness-may-help-reduce-alcohol-intake
 - Summary: GDF15, which is thought to contribute to nausea during pregnancy, may keep our drinking in check, researchers propose
 
-### Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-45135-7
-
 ### Near work affects ocular higher order aberrations in children—a longitudinal study before and after COVID-19: The Tokyo Myopia Study
 - Source: Nature
 - Published: 2026-03-20 00:00
 - Topics: Science
 - Link: https://www.nature.com/articles/s41598-026-44635-w
+
+### Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study
+- Source: Nature
+- Published: 2026-03-20 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-45135-7
 
 ## Other
 
@@ -637,29 +630,23 @@ Generated: 2026-03-21 22:31 UTC
 - Link: https://phys.org/news/2026-03-surges-california-arizona.html
 - Summary: A burst of unusual March heat is hitting the United States this week and into next, busting previous monthly heat records by wide margins. While heat is most acutely felt by people exposed to it, graphics and charts convey the scale of this extreme event. Temperatures in the West remain far above what's typical for March, a sign the early season heat is not letting up. Compared with the average highs for March between 1991 and 2020, temperatures across some parts of Oklahoma, Nebraska, northern 
 
-### VR-guided deep breathing during needle procedures in children
+### A multivariate decomposition analysis of urban–rural disparities in contraceptive use among women in Ethiopia
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44390-y
-
-### SHP2 improves ovarian morphology and steroidogenic function in a rat PCOS model by modulating IRE1α/XBP1/NLRP3-mediated granulosa cell pyroptosis
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43536-2
-
-### Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44288-9
+- Link: https://www.nature.com/articles/s41598-026-41767-x
 
 ### Single-nucleus ATAC-seq analysis resolves chromatin and transcriptional features of fibrolamellar carcinoma
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44899-2
+
+### SHP2 improves ovarian morphology and steroidogenic function in a rat PCOS model by modulating IRE1α/XBP1/NLRP3-mediated granulosa cell pyroptosis
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-43536-2
 
 ### Atorvastatin reduces recurrent decompensation events in advanced cirrhosis in a randomized placebo-controlled trial
 - Source: Nature
@@ -691,11 +678,35 @@ Generated: 2026-03-21 22:31 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44129-9
 
-### A multivariate decomposition analysis of urban–rural disparities in contraceptive use among women in Ethiopia
+### VR-guided deep breathing during needle procedures in children
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-41767-x
+- Link: https://www.nature.com/articles/s41598-026-44390-y
+
+### Urine microscopy can identify cholemic nephropathy as a distinct form of kidney dysfunction in patients with acute on chronic liver failure
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-42552-6
+
+### Performance of a GPU- and time-efficient pseudo-3D network for magnetic resonance image super-resolution and motion artifact reduction
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-43804-1
+
+### Histopathologic responses of the dental pulp to an experimental calcium aluminate–calcium silicate based capping material in comparison to mineral trioxide aggregate
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-41284-x
+
+### Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44288-9
 
 ### AI-based detection of Certas Plus shunt valve settings in CT scans
 - Source: Nature
@@ -708,24 +719,6 @@ Generated: 2026-03-21 22:31 UTC
 - Published: 2026-03-21 00:00
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-41412-7
-
-### Performance of a GPU- and time-efficient pseudo-3D network for magnetic resonance image super-resolution and motion artifact reduction
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43804-1
-
-### Urine microscopy can identify cholemic nephropathy as a distinct form of kidney dysfunction in patients with acute on chronic liver failure
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-42552-6
-
-### Histopathologic responses of the dental pulp to an experimental calcium aluminate–calcium silicate based capping material in comparison to mineral trioxide aggregate
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-41284-x
 
 ### TCF4 trinucleotide repeat expansion drives distinct proteomic signatures in Fuchs endothelial corneal dystrophy
 - Source: Nature
@@ -794,10 +787,10 @@ Generated: 2026-03-21 22:31 UTC
 - Summary: Two suspected Iranian spies have been arrested after attempting to enter Britain’s nuclear submarine base in Scotland, the Sun newspaper reported.
 
 ### Ukraine deploys units to 5 Middle East countries to intercept drones
-- Source: Defense News
+- Source: C4ISRNET
 - Published: 2026-03-20 17:37
 - Topics: Other
-- Link: https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/
+- Link: https://www.c4isrnet.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/
 - Summary: Zelenskyy has said Kyiv wants money and tech in return for its help in the Middle East, adding that the U.S. was among the nations that sought Kyiv’s help.
 
 ### WordPress.com now lets AI agents write and publish posts, and more
@@ -898,18 +891,6 @@ Generated: 2026-03-21 22:31 UTC
 - Link: https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/
 - Summary: On this special, crossover episode of our members-only armed services podcasts, some of our hosts sat down to discuss their experiences with indirect fire and bombardment. With the ongoing conflict in the Middle East, they rehash some of their own personal stories, provide context on today&#8217;s threat environment, and share some advice for troops both downrange and at home.Image: Sgt. Albert Juarez via DVIDS The post What It Was Like to Be Under Incoming Fire from the War on Terror to Today a
 
-### Fixel-based analysis reveals whole-brain white matter microstructural alterations in axial spondyloarthritis
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-45157-1
-
-### Disease burden and associated factors among caregivers of children with congenital heart disease at tertiary hospitals in Addis Ababa, Ethiopia
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44249-2
-
 ### Collagen-specific molecular chaperone Hsp47 in inguinal white adipose tissue promotes high-fat diet-induced inflammatory gene expression in male mice
 - Source: Nature
 - Published: 2026-03-20 00:00
@@ -928,9 +909,21 @@ Generated: 2026-03-21 22:31 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44767-z
 
+### Fixel-based analysis reveals whole-brain white matter microstructural alterations in axial spondyloarthritis
+- Source: Nature
+- Published: 2026-03-20 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-45157-1
+
+### Disease burden and associated factors among caregivers of children with congenital heart disease at tertiary hospitals in Addis Ababa, Ethiopia
+- Source: Nature
+- Published: 2026-03-20 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44249-2
+
 ### Apache helicopter shoots down drones in Europe for first time in combat exercise
-- Source: Defense News
+- Source: C4ISRNET
 - Published: 2026-03-19 22:43
 - Topics: Other
-- Link: https://www.defensenews.com/news/your-military/2026/03/19/apache-helicopter-shoots-down-drones-in-europe-for-first-time-in-combat-exercise/
+- Link: https://www.c4isrnet.com/news/your-military/2026/03/19/apache-helicopter-shoots-down-drones-in-europe-for-first-time-in-combat-exercise/
 - Summary: U.S. soldiers used Apache helicopters to pursue and attack drones in an air-to-air combat training exercise this week.
