@@ -14,20 +14,6 @@ st.set_page_config(page_title="Daily Intelligence Dashboard", layout="wide")
 # If your pipeline writes into daily_output/, use "daily_output/articles_tagged.csv"
 CSV_PATH = "daily_output/articles_tagged.csv"
 
-STOPWORDS = {
-    "the", "a", "an", "and", "or", "but", "for", "to", "of", "in", "on", "at", "by",
-    "with", "from", "as", "is", "are", "was", "were", "be", "been", "being", "this",
-    "that", "these", "those", "it", "its", "their", "his", "her", "they", "them",
-    "will", "would", "could", "should", "about", "after", "before", "during", "into",
-    "over", "under", "new", "says", "say", "said", "report", "reports", "study",
-    "research", "news", "today", "latest", "analysis", "update"
-}
-
-GENERIC_TOPIC_WORDS = {
-    "science", "startup", "startups", "funding", "space", "defense", "defence",
-    "biotech", "medtech", "medical", "technology", "tech", "ai"
-}
-
 # -------------------------
 # LOAD DATA
 # -------------------------
@@ -51,38 +37,68 @@ def load_data():
     return df
 
 
-def tokenize(text: str):
+STOPWORDS = {
+    "the","a","an","and","or","but","for","to","of","in","on","at","by",
+    "with","from","as","is","are","was","were","be","been","being",
+    "this","that","these","those","it","its","their","his","her",
+    "they","them","will","would","could","should","about","after",
+    "before","during","into","over","under","new","says","said",
+    "report","reports","study","research","news","today","latest",
+    "analysis","update","among","associated","fully","building",
+    "young","photos","can"
+}
+
+GENERIC_WORDS = {
+    "science","startup","startups","funding","space","defense","defence",
+    "biotech","medtech","medical","technology","tech","ai",
+    "company","companies","researchers","scientists"
+}
+
+BAD_LABEL_WORDS = STOPWORDS | GENERIC_WORDS
+
+
+def tokenize(text):
     text = str(text).lower()
     text = re.sub(r"[^a-z0-9\s-]", " ", text)
-    raw_tokens = text.split()
-
     tokens = []
-    for token in raw_tokens:
-        token = token.strip("-")
-        if len(token) < 3:
+    for t in text.split():
+        if len(t) < 4:
             continue
-        if token in STOPWORDS:
+        if t in STOPWORDS:
             continue
-        if token.isdigit():
-            continue
-        tokens.append(token)
-
+        tokens.append(t)
     return tokens
 
 
-def token_set(text: str):
+def token_set(text):
     return set(tokenize(text))
 
 
-def jaccard_similarity(a: set, b: set):
+def jaccard_similarity(a, b):
     if not a or not b:
         return 0.0
     return len(a & b) / len(a | b)
 
 
-def cluster_articles(df: pd.DataFrame, similarity_threshold=0.20, min_shared_tokens=2):
+def make_cluster_label(cluster_df):
+    tokens = []
+    for text in cluster_df["cluster_text"]:
+        tokens += tokenize(text)
+
+    counts = Counter(t for t in tokens if t not in BAD_LABEL_WORDS)
+
+    words = [w for w, c in counts.items() if c >= 2]
+    words = sorted(words, key=lambda w: (-counts[w], w))
+
+    if len(words) >= 2:
+        return " / ".join(w.title() for w in words[:3])
+
+    return cluster_df.iloc[0]["headline"]
+
+
+def cluster_articles(df, similarity_threshold=0.28, min_shared_tokens=3):
     if df.empty:
-        return pd.DataFrame(), {}
+        return pd.DataFrame(), {}, pd.DataFrame()
 
     work = df.copy().reset_index(drop=False).rename(columns={"index": "original_index"})
     work["token_set"] = work["cluster_text"].apply(token_set)
@@ -95,81 +111,61 @@ def cluster_articles(df: pd.DataFrame, similarity_threshold=0.20, min_shared_tok
 
         for cluster in clusters:
             same_topic = row["primary_topic"] == cluster["primary_topic"]
-            similarity = jaccard_similarity(row["token_set"], cluster["token_union"])
+            sim = jaccard_similarity(row["token_set"], cluster["token_union"])
             shared = len(row["token_set"] & cluster["token_union"])
 
-            if same_topic and similarity >= similarity_threshold and shared >= min_shared_tokens:
+            if same_topic and sim >= similarity_threshold and shared >= min_shared_tokens:
                 cluster["rows"].append(row)
-                cluster["token_union"] = cluster["token_union"] | row["token_set"]
+                cluster["token_union"] |= row["token_set"]
                 article_to_cluster[row["original_index"]] = cluster["cluster_id"]
                 placed = True
                 break
 
         if not placed:
-            new_cluster = {
-                "cluster_id": f"cluster_{len(clusters) + 1}",
+            cid = f"cluster_{len(clusters)+1}"
+            clusters.append({
+                "cluster_id": cid,
                 "primary_topic": row["primary_topic"],
                 "rows": [row],
                 "token_union": set(row["token_set"]),
-            }
-            clusters.append(new_cluster)
-            article_to_cluster[row["original_index"]] = new_cluster["cluster_id"]
+            })
+            article_to_cluster[row["original_index"]] = cid
 
+    now = pd.Timestamp.utcnow()
     cluster_rows = []
-
-    now_utc = pd.Timestamp.utcnow()
+    singles = []
 
     for cluster in clusters:
-        rows = cluster["rows"]
-        cluster_df = pd.DataFrame(rows)
+        cdf = pd.DataFrame(cluster["rows"])
+        count = len(cdf)
+        sources = cdf["source"].nunique()
+        latest = cdf["published_date"].max()
 
-        article_count = len(cluster_df)
-        source_count = cluster_df["source"].nunique()
-        latest_date = cluster_df["published_date"].max()
+        hours = (now - latest).total_seconds() / 3600 if pd.notnull(latest) else 999
+        recency = max(0, 24 - min(hours, 24)) / 24
 
-        all_tokens = []
-        for tokens in cluster_df["cluster_text"].apply(tokenize):
-            all_tokens.extend(tokens)
+        score = count * 4 + sources * 3 + recency
 
-        token_counts = Counter(
-            t for t in all_tokens if t not in GENERIC_TOPIC_WORDS
-        )
-
-        top_terms = [word for word, _ in token_counts.most_common(4)]
-        if top_terms:
-            label = " / ".join(w.title() for w in top_terms[:3])
-        else:
-            label = cluster_df.iloc[0]["headline"][:80]
-
-        representative_headline = cluster_df.iloc[0]["headline"]
-
-        hours_since_latest = 999
-        if pd.notnull(latest_date):
-            hours_since_latest = max(
-                1,
-                (now_utc - latest_date).total_seconds() / 3600
-            )
-
-        recency_bonus = max(0, 24 - min(hours_since_latest, 24)) / 24
-        score = article_count * 3 + source_count * 2 + recency_bonus
-
-        cluster_rows.append({
+        row = {
             "cluster_id": cluster["cluster_id"],
-            "label": label,
+            "label": make_cluster_label(cdf),
             "primary_topic": cluster["primary_topic"],
-            "article_count": article_count,
-            "source_count": source_count,
-            "latest_date": latest_date,
+            "article_count": count,
+            "source_count": sources,
+            "latest_date": latest,
             "score": score,
-            "representative_headline": representative_headline,
-        })
+            "representative_headline": cdf.iloc[0]["headline"],
+        }
 
-    trending_df = pd.DataFrame(cluster_rows).sort_values(
-        ["score", "article_count", "source_count", "latest_date"],
-        ascending=[False, False, False, False]
-    )
+        if count >= 2:
+            cluster_rows.append(row)
+        else:
+            singles.append(row)
 
-    return trending_df, article_to_cluster
+    trending = pd.DataFrame(cluster_rows).sort_values("score", ascending=False)
+    singles_df = pd.DataFrame(singles).sort_values("latest_date", ascending=False)
+
+    return trending, article_to_cluster, singles_df
 
 
 def render_article_card(row):
@@ -225,60 +221,43 @@ filtered = filtered.sort_values("published_date", ascending=False)
 # -------------------------
 st.subheader("🔥 Trending Topics")
 
-trending_df, article_to_cluster = cluster_articles(filtered)
+trending_df, article_to_cluster, singles_df = cluster_articles(filtered)
 
 if trending_df.empty:
-    st.info("No trending topics found for the current filters.")
+    st.info("No strong trends found.")
 else:
-    top_clusters = trending_df.head(8).copy()
+    st.caption("Only multi-article trends (2+ articles) shown.")
 
-    selected_cluster_id = st.session_state.get("selected_cluster_id")
+    cols = st.columns(2)
 
-    cluster_cols = st.columns(2)
-    for i, (_, cluster) in enumerate(top_clusters.iterrows()):
-        with cluster_cols[i % 2]:
-            st.markdown(
-                f"""
-                **{cluster['label']}**  
-                Topic: {cluster['primary_topic']}  
-                Articles: {cluster['article_count']} | Sources: {cluster['source_count']}
-                """
-            )
-            if st.button(
-                f"Open topic: {cluster['label']}",
-                key=f"open_{cluster['cluster_id']}",
-                use_container_width=True
-            ):
+    for i, (_, cluster) in enumerate(trending_df.head(6).iterrows()):
+        with cols[i % 2]:
+            st.markdown(f"### {cluster['label']}")
+            st.write(f"**Topic:** {cluster['primary_topic']}")
+            st.write(f"**Articles:** {cluster['article_count']} | Sources: {cluster['source_count']}")
+
+            if st.button("Open topic", key=cluster["cluster_id"]):
                 st.session_state["selected_cluster_id"] = cluster["cluster_id"]
 
-    selected_cluster_id = st.session_state.get("selected_cluster_id")
+selected = st.session_state.get("selected_cluster_id")
 
-    if selected_cluster_id:
-        selected_cluster_meta = trending_df[
-            trending_df["cluster_id"] == selected_cluster_id
-        ]
+if selected:
+    meta = trending_df[trending_df["cluster_id"] == selected].iloc[0]
+    related_idx = [i for i, cid in article_to_cluster.items() if cid == selected]
+    related = filtered.loc[related_idx].sort_values("published_date", ascending=False)
 
-        if not selected_cluster_meta.empty:
-            meta = selected_cluster_meta.iloc[0]
+    st.divider()
+    st.subheader(f"🧩 {meta['label']}")
 
-            related_indices = [
-                idx for idx, cid in article_to_cluster.items() if cid == selected_cluster_id
-            ]
-            related_articles = filtered.loc[related_indices].sort_values(
-                "published_date", ascending=False
-            )
+    for _, row in related.iterrows():
+        render_article_card(row)
 
-            st.divider()
-            st.subheader(f"🧩 Topic Cluster: {meta['label']}")
-            st.write(
-                f"**Primary topic:** {meta['primary_topic']}  \n"
-                f"**Articles:** {meta['article_count']}  \n"
-                f"**Sources:** {meta['source_count']}"
-            )
+st.divider()
 
-            st.markdown("**Related articles**")
-            for _, row in related_articles.iterrows():
-                render_article_card(row)
+st.subheader("📝 Single Articles (Not Trending)")
+
+for _, row in singles_df.head(10).iterrows():
+    st.markdown(f"- {row['representative_headline']}")
 
 st.divider()
 
