@@ -593,4 +593,3 @@ topic_counts = (
     .reset_index(name="count")
     .sort_values("count", ascending=False)
 )
-display(topic_counts)
