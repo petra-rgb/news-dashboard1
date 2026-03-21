@@ -1,6 +1,6 @@
 # Daily Intelligence Report
 
-Generated: 2026-03-21 22:38 UTC
+Generated: 2026-03-21 22:44 UTC
 
 ## AI
 
@@ -147,10 +147,10 @@ Generated: 2026-03-21 22:38 UTC
 - Summary: The U.S. Army faces a critical modernization crossroads in field artillery. The KNDS RCH 155 offers a transformative answer.
 
 ### High-speed combat drone production starts at new US Anduril plant in days
-- Source: C4ISRNET
+- Source: Defense News
 - Published: 2026-03-19 23:46
 - Topics: Defense
-- Link: https://www.c4isrnet.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
+- Link: https://www.defensenews.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
 - Summary: Anduril Industries will begin building its new loyal wingman drones in the coming days at a new facility in Ohio.
 
 ## MedTech
@@ -452,17 +452,17 @@ Generated: 2026-03-21 22:38 UTC
 - Link: https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 - Summary: Physicists have directly visualized the fundamental electronic building blocks of flat-band quantum materials, a class of systems in which electron motion is effectively quenched and strong interactions give rise to emergent phases of matter. In a study published in Nature Physics, Qimiao Si's group at Rice University, in collaboration with researchers at the Weizmann Institute of Science, identified compact molecular orbitals that act as the key electronic agents governing the exotic behavior o
 
-### Impact of comorbid diseases and associated factors on tuberculosis treatment outcomes among tuberculosis patients in South West Oromia, Ethiopia: a retrospective cohort study
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-44604-3
-
 ### Reproducible magnetophosphene thresholds induced by transcranial alternating magnetic stimulation in humans: a replication study
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Science
 - Link: https://www.nature.com/articles/s41598-026-44440-5
+
+### Impact of comorbid diseases and associated factors on tuberculosis treatment outcomes among tuberculosis patients in South West Oromia, Ethiopia: a retrospective cohort study
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-44604-3
 
 ### Malnutrition and its multidimensional determinants in institutionalized older adults: a cross-sectional study from resource-limited nursing homes in China
 - Source: Nature
@@ -518,17 +518,17 @@ Generated: 2026-03-21 22:38 UTC
 - Link: https://www.science.org/content/article/hormone-linked-morning-sickness-may-help-reduce-alcohol-intake
 - Summary: GDF15, which is thought to contribute to nausea during pregnancy, may keep our drinking in check, researchers propose
 
-### Near work affects ocular higher order aberrations in children—a longitudinal study before and after COVID-19: The Tokyo Myopia Study
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-44635-w
-
 ### Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study
 - Source: Nature
 - Published: 2026-03-20 00:00
 - Topics: Science
 - Link: https://www.nature.com/articles/s41598-026-45135-7
+
+### Near work affects ocular higher order aberrations in children—a longitudinal study before and after COVID-19: The Tokyo Myopia Study
+- Source: Nature
+- Published: 2026-03-20 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-44635-w
 
 ## Other
 
@@ -630,41 +630,11 @@ Generated: 2026-03-21 22:38 UTC
 - Link: https://phys.org/news/2026-03-surges-california-arizona.html
 - Summary: A burst of unusual March heat is hitting the United States this week and into next, busting previous monthly heat records by wide margins. While heat is most acutely felt by people exposed to it, graphics and charts convey the scale of this extreme event. Temperatures in the West remain far above what's typical for March, a sign the early season heat is not letting up. Compared with the average highs for March between 1991 and 2020, temperatures across some parts of Oklahoma, Nebraska, northern 
 
-### A multivariate decomposition analysis of urban–rural disparities in contraceptive use among women in Ethiopia
+### Performance of a GPU- and time-efficient pseudo-3D network for magnetic resonance image super-resolution and motion artifact reduction
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-41767-x
-
-### Single-nucleus ATAC-seq analysis resolves chromatin and transcriptional features of fibrolamellar carcinoma
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44899-2
-
-### SHP2 improves ovarian morphology and steroidogenic function in a rat PCOS model by modulating IRE1α/XBP1/NLRP3-mediated granulosa cell pyroptosis
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43536-2
-
-### Atorvastatin reduces recurrent decompensation events in advanced cirrhosis in a randomized placebo-controlled trial
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-41326-4
-
-### A predictive model for PICC-related thrombosis in sepsis patients using XGBoost algorithm
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44999-z
-
-### A digital mindfulness intervention improves sleep efficiency and heart rate variability in healthy adults
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44902-w
+- Link: https://www.nature.com/articles/s41598-026-43804-1
 
 ### Association of ACAG with short-term mortality in liver failure patients: a retrospective analysis based on the MIMIC-IV database
 - Source: Nature
@@ -672,17 +642,29 @@ Generated: 2026-03-21 22:38 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-39253-5
 
-### White matter microstructure and its association with visuospatial processing development during early infancy
+### A digital mindfulness intervention improves sleep efficiency and heart rate variability in healthy adults
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44129-9
+- Link: https://www.nature.com/articles/s41598-026-44902-w
 
-### VR-guided deep breathing during needle procedures in children
+### A predictive model for PICC-related thrombosis in sepsis patients using XGBoost algorithm
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44390-y
+- Link: https://www.nature.com/articles/s41598-026-44999-z
+
+### Atorvastatin reduces recurrent decompensation events in advanced cirrhosis in a randomized placebo-controlled trial
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-41326-4
+
+### Baicalein inhibits human neutrophil myeloperoxidase and protects mice from LPS-induced lung inflammation
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-43806-z
 
 ### Urine microscopy can identify cholemic nephropathy as a distinct form of kidney dysfunction in patients with acute on chronic liver failure
 - Source: Nature
@@ -690,11 +672,23 @@ Generated: 2026-03-21 22:38 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-42552-6
 
-### Performance of a GPU- and time-efficient pseudo-3D network for magnetic resonance image super-resolution and motion artifact reduction
+### Single-nucleus ATAC-seq analysis resolves chromatin and transcriptional features of fibrolamellar carcinoma
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43804-1
+- Link: https://www.nature.com/articles/s41598-026-44899-2
+
+### White matter microstructure and its association with visuospatial processing development during early infancy
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44129-9
+
+### Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44288-9
 
 ### Histopathologic responses of the dental pulp to an experimental calcium aluminate–calcium silicate based capping material in comparison to mineral trioxide aggregate
 - Source: Nature
@@ -702,11 +696,17 @@ Generated: 2026-03-21 22:38 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-41284-x
 
-### Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes
+### SHP2 improves ovarian morphology and steroidogenic function in a rat PCOS model by modulating IRE1α/XBP1/NLRP3-mediated granulosa cell pyroptosis
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44288-9
+- Link: https://www.nature.com/articles/s41598-026-43536-2
+
+### VR-guided deep breathing during needle procedures in children
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44390-y
 
 ### AI-based detection of Certas Plus shunt valve settings in CT scans
 - Source: Nature
@@ -732,17 +732,17 @@ Generated: 2026-03-21 22:38 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44491-8
 
-### Baicalein inhibits human neutrophil myeloperoxidase and protects mice from LPS-induced lung inflammation
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43806-z
-
 ### Pomiferin protects against sepsis-associated acute liver and kidney injury via inhibition of NF-κB activation, oxidative stress, and cytochrome-c
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-45186-w
+
+### A multivariate decomposition analysis of urban–rural disparities in contraceptive use among women in Ethiopia
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-41767-x
 
 ### Officina Stellare wins $2 million contract for lasercom ground station in Spain
 - Source: SpaceNews
@@ -897,18 +897,6 @@ Generated: 2026-03-21 22:38 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-45003-4
 
-### The DAG/PKC/CREB1/TGF-β1 axis drives shear-wave elastography stiffness and malignant progression in triple-negative breast cancer via lipid metabolic reprogramming
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41419-026-08625-0
-
-### Lipid alterations and endothelial dysfunction are associated with multiple sclerosis pathophysiology
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44767-z
-
 ### Fixel-based analysis reveals whole-brain white matter microstructural alterations in axial spondyloarthritis
 - Source: Nature
 - Published: 2026-03-20 00:00
@@ -921,9 +909,14 @@ Generated: 2026-03-21 22:38 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44249-2
 
-### Apache helicopter shoots down drones in Europe for first time in combat exercise
-- Source: C4ISRNET
-- Published: 2026-03-19 22:43
+### Lipid alterations and endothelial dysfunction are associated with multiple sclerosis pathophysiology
+- Source: Nature
+- Published: 2026-03-20 00:00
 - Topics: Other
-- Link: https://www.c4isrnet.com/news/your-military/2026/03/19/apache-helicopter-shoots-down-drones-in-europe-for-first-time-in-combat-exercise/
-- Summary: U.S. soldiers used Apache helicopters to pursue and attack drones in an air-to-air combat training exercise this week.
+- Link: https://www.nature.com/articles/s41598-026-44767-z
+
+### The DAG/PKC/CREB1/TGF-β1 axis drives shear-wave elastography stiffness and malignant progression in triple-negative breast cancer via lipid metabolic reprogramming
+- Source: Nature
+- Published: 2026-03-20 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41419-026-08625-0

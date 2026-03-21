@@ -1,7 +1,7 @@
 source,feed_url,entry_count,recent_count,bozo,score
 Phys.org,https://phys.org/rss-feed/,30,30,False,3030
 Science,https://www.science.org/rss/news_current.xml,10,4,False,410
-Defense News,https://www.defensenews.com/arc/outboundfeeds/rss/,25,12,False,1225
+Defense News,https://www.defensenews.com/arc/outboundfeeds/rss/,25,11,False,1125
 TechCrunch,https://techcrunch.com/feed/,20,20,False,2020
 TechCrunch,https://techcrunch.com/category/startups/feed/,18,4,False,418
 TechCrunch,https://techcrunch.com/category/venture/feed/,20,2,False,220
@@ -31,7 +31,7 @@ Satellite Today,https://www.satellitetoday.com/category/launch/feed/,10,0,False,
 Breaking Defense,https://breakingdefense.com/feed/,15,7,False,715
 Breaking Defense,https://breakingdefense.com/category/air/feed/,15,3,False,315
 Breaking Defense,https://breakingdefense.com/category/space/feed/,15,2,False,215
-C4ISRNET,https://www.c4isrnet.com/arc/outboundfeeds/rss/,25,6,False,625
+C4ISRNET,https://www.c4isrnet.com/arc/outboundfeeds/rss/,25,5,False,525
 War on the Rocks,https://warontherocks.com/feed/,100,4,1,450
 National Defense Magazine,https://www.nationaldefensemagazine.org/rss,0,0,1,-50
 National Defense Magazine,https://www.nationaldefensemagazine.org/feed,0,0,1,-50
