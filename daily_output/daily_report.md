@@ -1,8 +1,14 @@
 # Daily Intelligence Report
 
-Generated: 2026-03-21 22:44 UTC
+Generated: 2026-03-22 07:52 UTC
 
 ## AI
+
+### Deep learning approach to super-resolution correction of brain MRI motion artifacts for accurate hippocampal volumetry
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: AI
+- Link: https://www.nature.com/articles/s41598-026-44834-5
 
 ### Publisher pulls horror novel ‘Shy Girl’ over AI concerns
 - Source: TechCrunch
@@ -49,10 +55,10 @@ Generated: 2026-03-21 22:44 UTC
 - Summary: Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an "unacceptable risk to national security" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.
 
 ### US countered drone threat over ‘strategic’ installation in early hours of Operation Epic Fury: Guillot
-- Source: C4ISRNET
+- Source: Defense News
 - Published: 2026-03-20 22:55
 - Topics: Defense
-- Link: https://www.c4isrnet.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/
+- Link: https://www.defensenews.com/news/your-military/2026/03/20/us-countered-drone-threat-over-strategic-installation-in-early-hours-of-operation-epic-fury-guillot/
 - Summary: Forces used a Fly-Away Kit to counter the threat over a U.S. installation, according to the commander of U.S. Northern Command.
 
 ### UK approves US use of British bases to strike Iran missile sites targeting ships
@@ -132,27 +138,6 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://www.defensenews.com/global/asia-pacific/2026/03/20/japans-new-ugly-duckling-electronic-warfare-aircraft-takes-to-the-sky/
 - Summary: With Japan ramping up its electronic-warfare spending, the question is how many of the planes the nation will ultimately want.
 
-### What the Donroe Doctrine Could Mean for China’s Economic Statecraft
-- Source: War on the Rocks
-- Published: 2026-03-20 07:15
-- Topics: Defense
-- Link: https://warontherocks.com/2026/03/what-the-donroe-doctrine-could-mean-for-chinas-economic-statecraft/
-- Summary: In the first few months of 2026, the Trump administration has embarked on military interventions in Iran and Venezuela and threatened possible annexation of Greenland. Meanwhile, German Chancellor Friedrich Merz&#8217;s February trip to Beijing followed on the heels of the first state visit to China by a British leader in eight years. As the United States and China prepare for their much-touted summit in late March, Beijing is weighing its options in the face of recent American actions and the n
-
-### The case for the US Army to procure the KNDS RCH 155 howitzer
-- Source: Defense News
-- Published: 2026-03-20 00:00
-- Topics: Defense
-- Link: https://www.defensenews.com/opinion/2026/03/20/the-case-for-the-us-army-to-procure-the-knds-rch-155-howitzer/
-- Summary: The U.S. Army faces a critical modernization crossroads in field artillery. The KNDS RCH 155 offers a transformative answer.
-
-### High-speed combat drone production starts at new US Anduril plant in days
-- Source: Defense News
-- Published: 2026-03-19 23:46
-- Topics: Defense
-- Link: https://www.defensenews.com/unmanned/2026/03/19/high-speed-combat-drone-production-starts-at-new-us-anduril-plant-in-days/
-- Summary: Anduril Industries will begin building its new loyal wingman drones in the coming days at a new facility in Ohio.
-
 ## MedTech
 
 ### Rocket Lab launches eighth Synspective radar imaging satellite
@@ -222,14 +207,14 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://www.labiotech.eu/podcast/how-leyden-labs-is-revolutionizing-flu-protection-with-its-intranasal-antibody-spray/
 - Summary: Today we welcome Koenraad Wiedhaup, Co-Founder and CEO of Leyden Labs, and Clarissa Koch, the company's Chief Scientific Officer. The post How Leyden Labs is revolutionizing flu protection with its intranasal antibody spray appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and cl
 
-### Inside Austria’s Small But Mighty Space Ecosystem
-- Source: Payload Space
-- Published: 2026-03-20 05:40
-- Topics: Startups, Funding
-- Link: https://payloadspace.com/inside-austrias-small-but-mighty-space-ecosystem/
-- Summary: Austria's space industry is in the midst of a renaissance, with bigger funding deals and more startup activity. The post Inside Austria’s Small But Mighty Space Ecosystem appeared first on Payload .
-
 ## Funding
+
+### Some European Launcher Challenge funding remains in limbo
+- Source: SpaceNews
+- Published: 2026-03-22 00:53
+- Topics: Space, Funding
+- Link: https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/
+- Summary: Nearly 140 million euros ($162 million) that European Space Agency member states allocated to a program to support launch vehicle development remains in limbo and could be lost. The post Some European Launcher Challenge funding remains in limbo appeared first on SpaceNews .
 
 ### Why Wall Street wasn’t won over by Nvidia’s big conference
 - Source: TechCrunch
@@ -266,14 +251,14 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/
 - Summary: Kayhan Space is branching out from providing orbital intelligence used to coordinate satellite fleets with a new software platform that turns that data into business insights for investors and insurers. The post Kayhan targets investors, insurers with expanded orbital intelligence platform appeared first on SpaceNews .
 
-### Inside Austria’s Small But Mighty Space Ecosystem
-- Source: Payload Space
-- Published: 2026-03-20 05:40
-- Topics: Startups, Funding
-- Link: https://payloadspace.com/inside-austrias-small-but-mighty-space-ecosystem/
-- Summary: Austria's space industry is in the midst of a renaissance, with bigger funding deals and more startup activity. The post Inside Austria’s Small But Mighty Space Ecosystem appeared first on Payload .
-
 ## Space
+
+### Some European Launcher Challenge funding remains in limbo
+- Source: SpaceNews
+- Published: 2026-03-22 00:53
+- Topics: Space, Funding
+- Link: https://spacenews.com/some-european-launcher-challenge-funding-remains-in-limbo/
+- Summary: Nearly 140 million euros ($162 million) that European Space Agency member states allocated to a program to support launch vehicle development remains in limbo and could be lost. The post Some European Launcher Challenge funding remains in limbo appeared first on SpaceNews .
 
 ### Artemis 2 returns to the pad for April launch attempt
 - Source: SpaceNews
@@ -324,14 +309,27 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://spacenews.com/kayhan-targets-investors-insurers-with-expanded-orbital-intelligence-platform/
 - Summary: Kayhan Space is branching out from providing orbital intelligence used to coordinate satellite fleets with a new software platform that turns that data into business insights for investors and insurers. The post Kayhan targets investors, insurers with expanded orbital intelligence platform appeared first on SpaceNews .
 
-### Blue Origin joins the orbital data center race
-- Source: SpaceNews
-- Published: 2026-03-19 23:30
-- Topics: Space
-- Link: https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/
-- Summary: Blue Origin is the latest company to propose an orbital data center system, filing plans for a constellation of up to 51,600 satellites. The post Blue Origin joins the orbital data center race appeared first on SpaceNews .
-
 ## Science
+
+### Gender conformity starts young, and boys and girls fall in line in different ways
+- Source: Phys.org
+- Published: 2026-03-22 00:30
+- Topics: Science
+- Link: https://phys.org/news/2026-03-gender-conformity-young-boys-girls.html
+- Summary: Many people have felt the subtle pressure to be "man enough" or "woman enough" in the eyes of others. And research has shown this pressure can have personal and social consequences.
+
+### Comparative clinical study of total thoracoscopic surgery and thoracoscopy-assisted small-incision surgery for multiple rib fractures
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-37976-z
+
+### Light-based technique creates artificial structures that mimic the scaffolding of cells
+- Source: Phys.org
+- Published: 2026-03-21 23:00
+- Topics: Science
+- Link: https://phys.org/news/2026-03-based-technique-artificial-mimic-scaffolding.html
+- Summary: A laser-based system that can create mesh-like structures in a dish that resemble the cytoskeletons of cells has been developed by two RIKEN researchers. They demonstrated its usefulness for research by exploring how two proteins interacted with artificial cytoskeletons. The results are published in Nature Communications.
 
 ### New research explores the paradox of firms' unique technologies
 - Source: Phys.org
@@ -452,11 +450,11 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 - Summary: Physicists have directly visualized the fundamental electronic building blocks of flat-band quantum materials, a class of systems in which electron motion is effectively quenched and strong interactions give rise to emergent phases of matter. In a study published in Nature Physics, Qimiao Si's group at Rice University, in collaboration with researchers at the Weizmann Institute of Science, identified compact molecular orbitals that act as the key electronic agents governing the exotic behavior o
 
-### Reproducible magnetophosphene thresholds induced by transcranial alternating magnetic stimulation in humans: a replication study
+### Role of ethnicity in the determination of the transverse sigmoid sinus Junction (TSSJ): A prospective hospital-based radiological study in adult Sabah, East Malaysia
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-44440-5
+- Link: https://www.nature.com/articles/s41598-026-44484-7
 
 ### Impact of comorbid diseases and associated factors on tuberculosis treatment outcomes among tuberculosis patients in South West Oromia, Ethiopia: a retrospective cohort study
 - Source: Nature
@@ -464,17 +462,17 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Science
 - Link: https://www.nature.com/articles/s41598-026-44604-3
 
+### Reproducible magnetophosphene thresholds induced by transcranial alternating magnetic stimulation in humans: a replication study
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-44440-5
+
 ### Malnutrition and its multidimensional determinants in institutionalized older adults: a cross-sectional study from resource-limited nursing homes in China
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Science
 - Link: https://www.nature.com/articles/s41598-026-44248-3
-
-### Role of ethnicity in the determination of the transverse sigmoid sinus Junction (TSSJ): A prospective hospital-based radiological study in adult Sabah, East Malaysia
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-44484-7
 
 ### Why scientists can’t get a laugh
 - Source: TechCrunch
@@ -504,33 +502,44 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/
 - Summary: This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over&#8230;
 
-### Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists?
-- Source: War on the Rocks
-- Published: 2026-03-20 07:30
-- Topics: Science
-- Link: https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/
-- Summary: On June 30, 2025, as part of the process of normalizing relations with Damascus following the overthrow of Syrian President Bashar al-Assad, the Trump administration overhauled the sanctions imposed on Syria to facilitate the rebuilding of that war-ravaged country. In the course of revising these sanctions, however, 266 employees of the Scientific Studies and Research Center, the heart of the Assad regime&#8217;s chemical weapons complex, were removed without explanation from the U.S. Department
-
-### Hormone linked to morning sickness may help reduce alcohol intake
-- Source: Science
-- Published: 2026-03-20 02:15
-- Topics: Science
-- Link: https://www.science.org/content/article/hormone-linked-morning-sickness-may-help-reduce-alcohol-intake
-- Summary: GDF15, which is thought to contribute to nausea during pregnancy, may keep our drinking in check, researchers propose
-
-### Long-term dynamic effect of body mass index on adverse cardiovascular outcomes with targeted maximum likelihood estimation method: result from the KNOW-CKD study
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-45135-7
-
-### Near work affects ocular higher order aberrations in children—a longitudinal study before and after COVID-19: The Tokyo Myopia Study
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-44635-w
-
 ## Other
+
+### Are AI tokens the new signing bonus or just a cost of doing business?
+- Source: TechCrunch
+- Published: 2026-03-22 06:20
+- Topics: Other
+- Link: https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/
+- Summary: Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.
+
+### The effects of inspiratory muscle training on respiratory function and aerobic capacity in sedentary adolescents: A single-blind randomized controlled trial
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44416-5
+
+### Comparative greenness assessment for the simultaneous estimation of diclofenac and methocarbamol in their tablets applying synchronous fluorimetry
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-41615-y
+
+### Genetic predisposition to coffee consumption and the association with the early risk of atherosclerosis
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44122-2
+
+### Excess cardiovascular morbidity in psoriatic arthritis and cardioprotective effects of biologic dmards: a propensity-matched analysis
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-38565-w
+
+### Abdominal obesity in India: sex stratified multilevel estimates across 707 districts from a nationally representative cross-sectional survey
+- Source: Nature
+- Published: 2026-03-22 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-42458-3
 
 ### Newly discovered photos show astronaut Neil Armstrong after the Gemini 8 emergency
 - Source: Phys.org
@@ -616,37 +625,11 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://phys.org/news/2026-03-youth-foster-strong-emotional-incarceration.html
 - Summary: Youth in foster care often experience family instability, which can disrupt the continuity of their relationships and social connections. Therefore, the strength and stability of their social support networks can play a critical role in shaping their lives.
 
-### Satellite radar shows Alaska glaciers melt three extra weeks for each 1°C of summer warming
-- Source: Phys.org
-- Published: 2026-03-21 10:30
-- Topics: Other
-- Link: https://phys.org/news/2026-03-satellite-radar-alaska-glaciers-extra.html
-- Summary: Alaska's glaciers respond to climate change by melting for three additional weeks with every 1 degree Celsius increase in the average summer temperature, data from satellite-mounted radars show.
-
-### March heat surges past 100 in California and Arizona, smashing records
-- Source: Phys.org
-- Published: 2026-03-21 10:07
-- Topics: Other
-- Link: https://phys.org/news/2026-03-surges-california-arizona.html
-- Summary: A burst of unusual March heat is hitting the United States this week and into next, busting previous monthly heat records by wide margins. While heat is most acutely felt by people exposed to it, graphics and charts convey the scale of this extreme event. Temperatures in the West remain far above what's typical for March, a sign the early season heat is not letting up. Compared with the average highs for March between 1991 and 2020, temperatures across some parts of Oklahoma, Nebraska, northern 
-
-### Performance of a GPU- and time-efficient pseudo-3D network for magnetic resonance image super-resolution and motion artifact reduction
+### Atorvastatin reduces recurrent decompensation events in advanced cirrhosis in a randomized placebo-controlled trial
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43804-1
-
-### Association of ACAG with short-term mortality in liver failure patients: a retrospective analysis based on the MIMIC-IV database
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-39253-5
-
-### A digital mindfulness intervention improves sleep efficiency and heart rate variability in healthy adults
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44902-w
+- Link: https://www.nature.com/articles/s41598-026-41326-4
 
 ### A predictive model for PICC-related thrombosis in sepsis patients using XGBoost algorithm
 - Source: Nature
@@ -654,23 +637,23 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44999-z
 
-### Atorvastatin reduces recurrent decompensation events in advanced cirrhosis in a randomized placebo-controlled trial
+### A digital mindfulness intervention improves sleep efficiency and heart rate variability in healthy adults
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-41326-4
+- Link: https://www.nature.com/articles/s41598-026-44902-w
 
-### Baicalein inhibits human neutrophil myeloperoxidase and protects mice from LPS-induced lung inflammation
+### Association of ACAG with short-term mortality in liver failure patients: a retrospective analysis based on the MIMIC-IV database
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43806-z
+- Link: https://www.nature.com/articles/s41598-026-39253-5
 
-### Urine microscopy can identify cholemic nephropathy as a distinct form of kidney dysfunction in patients with acute on chronic liver failure
+### White matter microstructure and its association with visuospatial processing development during early infancy
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-42552-6
+- Link: https://www.nature.com/articles/s41598-026-44129-9
 
 ### Single-nucleus ATAC-seq analysis resolves chromatin and transcriptional features of fibrolamellar carcinoma
 - Source: Nature
@@ -678,11 +661,17 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-44899-2
 
-### White matter microstructure and its association with visuospatial processing development during early infancy
+### Prevalence and associated factors of pseudoexfoliation syndrome among cataract patients attending comprehensive specialized hospitals in Northwest Ethiopia
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44129-9
+- Link: https://www.nature.com/articles/s41598-026-44491-8
+
+### SHP2 improves ovarian morphology and steroidogenic function in a rat PCOS model by modulating IRE1α/XBP1/NLRP3-mediated granulosa cell pyroptosis
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-43536-2
 
 ### Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes
 - Source: Nature
@@ -696,23 +685,11 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-41284-x
 
-### SHP2 improves ovarian morphology and steroidogenic function in a rat PCOS model by modulating IRE1α/XBP1/NLRP3-mediated granulosa cell pyroptosis
+### TCF4 trinucleotide repeat expansion drives distinct proteomic signatures in Fuchs endothelial corneal dystrophy
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43536-2
-
-### VR-guided deep breathing during needle procedures in children
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44390-y
-
-### AI-based detection of Certas Plus shunt valve settings in CT scans
-- Source: Nature
-- Published: 2026-03-21 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-45388-2
+- Link: https://www.nature.com/articles/s41598-026-43789-x
 
 ### Clinical and hemodynamic evaluation of schistosomiasis-associated pulmonary arterial hypertension from Egyptian pulmonary hypertension centers: epidemiology, risk factors, and survival determinants
 - Source: Nature
@@ -720,17 +697,29 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-41412-7
 
-### TCF4 trinucleotide repeat expansion drives distinct proteomic signatures in Fuchs endothelial corneal dystrophy
+### A multivariate decomposition analysis of urban–rural disparities in contraceptive use among women in Ethiopia
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-43789-x
+- Link: https://www.nature.com/articles/s41598-026-41767-x
 
-### Prevalence and associated factors of pseudoexfoliation syndrome among cataract patients attending comprehensive specialized hospitals in Northwest Ethiopia
+### Performance of a GPU- and time-efficient pseudo-3D network for magnetic resonance image super-resolution and motion artifact reduction
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44491-8
+- Link: https://www.nature.com/articles/s41598-026-43804-1
+
+### Baicalein inhibits human neutrophil myeloperoxidase and protects mice from LPS-induced lung inflammation
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-43806-z
+
+### VR-guided deep breathing during needle procedures in children
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-44390-y
 
 ### Pomiferin protects against sepsis-associated acute liver and kidney injury via inhibition of NF-κB activation, oxidative stress, and cytochrome-c
 - Source: Nature
@@ -738,11 +727,17 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Other
 - Link: https://www.nature.com/articles/s41598-026-45186-w
 
-### A multivariate decomposition analysis of urban–rural disparities in contraceptive use among women in Ethiopia
+### Urine microscopy can identify cholemic nephropathy as a distinct form of kidney dysfunction in patients with acute on chronic liver failure
 - Source: Nature
 - Published: 2026-03-21 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-41767-x
+- Link: https://www.nature.com/articles/s41598-026-42552-6
+
+### AI-based detection of Certas Plus shunt valve settings in CT scans
+- Source: Nature
+- Published: 2026-03-21 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-45388-2
 
 ### Officina Stellare wins $2 million contract for lasercom ground station in Spain
 - Source: SpaceNews
@@ -787,10 +782,10 @@ Generated: 2026-03-21 22:44 UTC
 - Summary: Two suspected Iranian spies have been arrested after attempting to enter Britain’s nuclear submarine base in Scotland, the Sun newspaper reported.
 
 ### Ukraine deploys units to 5 Middle East countries to intercept drones
-- Source: C4ISRNET
+- Source: Defense News
 - Published: 2026-03-20 17:37
 - Topics: Other
-- Link: https://www.c4isrnet.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/
+- Link: https://www.defensenews.com/global/mideast-africa/2026/03/20/ukraine-deploys-units-to-5-middle-east-countries-to-intercept-drones/
 - Summary: Zelenskyy has said Kyiv wants money and tech in return for its help in the Middle East, adding that the U.S. was among the nations that sought Kyiv’s help.
 
 ### WordPress.com now lets AI agents write and publish posts, and more
@@ -828,18 +823,11 @@ Generated: 2026-03-21 22:44 UTC
 - Link: https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/
 - Summary: A cyberattack on a U.S. car breathalyzer company has left drivers across the United States reportedly stranded and unable to start their vehicles.
 
-### Amazon working on new smartphone with Alexa at its core, report says
-- Source: TechCrunch
-- Published: 2026-03-20 14:51
-- Topics: Other
-- Link: https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/
-- Summary: The device is being developed by the company's Devices and Services division, and it would feature personalized features aimed at making it easier to use Amazon's suite of apps, including Amazon shopping, Prime Video, and Prime Music, according to Reuters.
-
 ### Marines test ‘cruise control’ swim feature on amphibious vehicle prototype
-- Source: C4ISRNET
+- Source: Defense News
 - Published: 2026-03-20 13:51
 - Topics: Other
-- Link: https://www.c4isrnet.com/news/your-military/2026/03/20/marines-test-cruise-control-swim-feature-on-amphibious-vehicle-prototype/
+- Link: https://www.defensenews.com/news/your-military/2026/03/20/marines-test-cruise-control-swim-feature-on-amphibious-vehicle-prototype/
 - Summary: The vehicles vying to replace the Marine Corps’ aging light armored vehicle fleet swam for the first time earlier this year.
 
 ### Marine lance corporal develops $10 solution to $5,600 antenna problem
@@ -890,33 +878,3 @@ Generated: 2026-03-21 22:44 UTC
 - Topics: Other
 - Link: https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/
 - Summary: On this special, crossover episode of our members-only armed services podcasts, some of our hosts sat down to discuss their experiences with indirect fire and bombardment. With the ongoing conflict in the Middle East, they rehash some of their own personal stories, provide context on today&#8217;s threat environment, and share some advice for troops both downrange and at home.Image: Sgt. Albert Juarez via DVIDS The post What It Was Like to Be Under Incoming Fire from the War on Terror to Today a
-
-### Collagen-specific molecular chaperone Hsp47 in inguinal white adipose tissue promotes high-fat diet-induced inflammatory gene expression in male mice
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-45003-4
-
-### Fixel-based analysis reveals whole-brain white matter microstructural alterations in axial spondyloarthritis
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-45157-1
-
-### Disease burden and associated factors among caregivers of children with congenital heart disease at tertiary hospitals in Addis Ababa, Ethiopia
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44249-2
-
-### Lipid alterations and endothelial dysfunction are associated with multiple sclerosis pathophysiology
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-44767-z
-
-### The DAG/PKC/CREB1/TGF-β1 axis drives shear-wave elastography stiffness and malignant progression in triple-negative breast cancer via lipid metabolic reprogramming
-- Source: Nature
-- Published: 2026-03-20 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41419-026-08625-0
