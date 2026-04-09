@@ -1,26 +1,26 @@
 source,feed_url,entry_count,recent_count,bozo,score
 Phys.org,https://phys.org/rss-feed/,30,30,False,3030
-Science,https://www.science.org/rss/news_current.xml,10,4,False,410
-Defense News,https://www.defensenews.com/arc/outboundfeeds/rss/,25,11,False,1125
+Science,https://www.science.org/rss/news_current.xml,10,1,False,110
+Defense News,https://www.defensenews.com/arc/outboundfeeds/rss/,25,12,False,1225
 TechCrunch,https://techcrunch.com/feed/,20,20,False,2020
-TechCrunch,https://techcrunch.com/category/startups/feed/,18,10,False,1018
-TechCrunch,https://techcrunch.com/category/venture/feed/,14,6,False,614
+TechCrunch,https://techcrunch.com/category/startups/feed/,18,9,False,918
+TechCrunch,https://techcrunch.com/category/venture/feed/,14,4,False,414
 TechCrunch,https://techcrunch.com/category/ai/feed/,0,0,1,-50
-Nature,https://www.nature.com/nature.rss,75,12,False,1275
+Nature,https://www.nature.com/nature.rss,75,38,False,3875
 Nature,https://www.nature.com/subjects/news.rss,0,0,1,-50
-Nature,https://www.nature.com/subjects/biotechnology.rss,30,14,False,1430
+Nature,https://www.nature.com/subjects/biotechnology.rss,30,27,False,2730
 Nature,https://www.nature.com/subjects/medical-research.rss,30,30,False,3030
-Labiotech,https://www.labiotech.eu/feed/,12,2,False,212
+Labiotech,https://www.labiotech.eu/feed/,12,3,False,312
 Labiotech,https://www.labiotech.eu/trends-news/feed/,12,0,False,12
-Labiotech,https://www.labiotech.eu/in-depth/feed/,12,2,False,212
+Labiotech,https://www.labiotech.eu/in-depth/feed/,12,3,False,312
 EU-Startups,https://www.eu-startups.com/feed/,0,0,1,-50
 EU-Startups,https://www.eu-startups.com/category/funding/feed/,0,0,1,-50
 EU-Startups,https://www.eu-startups.com/category/startups/feed/,0,0,1,-50
 MIT Technology Review,https://www.technologyreview.com/feed/,10,5,False,510
-MIT Technology Review,https://www.technologyreview.com/topic/artificial-intelligence/feed/,10,3,False,310
+MIT Technology Review,https://www.technologyreview.com/topic/artificial-intelligence/feed/,10,2,False,210
 MIT Technology Review,https://www.technologyreview.com/topic/biomedicine/feed/,0,0,False,0
 MIT Technology Review,https://www.technologyreview.com/topic/space/feed/,10,0,False,10
-SpaceNews,https://spacenews.com/feed/,24,14,False,1424
+SpaceNews,https://spacenews.com/feed/,24,19,False,1924
 SpaceNews,https://spacenews.com/category/launch/feed/,0,0,1,-50
 SpaceNews,https://spacenews.com/category/commercial/feed/,0,0,1,-50
 Payload Space,https://payloadspace.com/feed/,13,6,False,613
@@ -28,11 +28,11 @@ Payload Space,https://payloadspace.com/category/news/feed/,0,0,1,-50
 Satellite Today,https://www.satellitetoday.com/feed/,10,10,False,1010
 Satellite Today,https://www.satellitetoday.com/category/business/feed/,0,0,1,-50
 Satellite Today,https://www.satellitetoday.com/category/launch/feed/,10,0,False,10
-Breaking Defense,https://breakingdefense.com/feed/,15,10,False,1015
-Breaking Defense,https://breakingdefense.com/category/air/feed/,15,7,False,715
-Breaking Defense,https://breakingdefense.com/category/space/feed/,15,1,False,115
-C4ISRNET,https://www.c4isrnet.com/arc/outboundfeeds/rss/,25,2,False,225
-War on the Rocks,https://warontherocks.com/feed/,100,8,1,850
+Breaking Defense,https://breakingdefense.com/feed/,15,14,False,1415
+Breaking Defense,https://breakingdefense.com/category/air/feed/,15,6,False,615
+Breaking Defense,https://breakingdefense.com/category/space/feed/,15,2,False,215
+C4ISRNET,https://www.c4isrnet.com/arc/outboundfeeds/rss/,25,0,False,25
+War on the Rocks,https://warontherocks.com/feed/,100,6,1,650
 National Defense Magazine,https://www.nationaldefensemagazine.org/rss,0,0,1,-50
 National Defense Magazine,https://www.nationaldefensemagazine.org/feed,0,0,1,-50
 National Defense Magazine,https://www.nationaldefensemagazine.org/articles/feed,0,0,1,-50
