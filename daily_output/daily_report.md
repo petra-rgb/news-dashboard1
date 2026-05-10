@@ -1,8 +1,27 @@
 # Daily Intelligence Report
 
-Generated: 2026-05-09 07:29 UTC
+Generated: 2026-05-10 07:52 UTC
 
 ## AI
+
+### AI cuts wildlife tracking time from months to days
+- Source: Phys.org
+- Published: 2026-05-09 14:00
+- Topics: AI
+- Link: https://phys.org/news/2026-05-ai-wildlife-tracking-months-days.html
+- Summary: Artificial intelligence can dramatically speed up the painstaking work of tracking wildlife with remote cameras, cutting analysis time from months or even a year to just days while producing nearly the same scientific conclusions as humans.
+
+### SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: AI
+- Link: https://www.nature.com/articles/s41746-026-02709-z
+
+### Comparative analysis of large language models and clinicians in thyroid eye disease using structured questionnaires
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: AI
+- Link: https://www.nature.com/articles/s41598-026-48930-4
 
 ### Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman
 - Source: MIT Technology Review
@@ -11,51 +30,14 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/
 - Summary: In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into donating $38 million to the company. He claimed that they’d promised to maintain&#8230;
 
-### Framework for artificial intelligence implementation research in healthcare: synthesizing current evidence on barriers and facilitators
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science, AI
-- Link: https://www.nature.com/articles/s41746-026-02705-3
-
-### The future of robotic surgery in the age of artificial intelligence
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: AI
-- Link: https://www.nature.com/articles/s41585-026-01153-8
-
-### Deep learning models for acute kidney injury prediction: multi-center external validation and evaluation under simulated continuous monitoring conditions
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: AI
-- Link: https://www.nature.com/articles/s41746-026-02722-2
-
-### Evaluation of image quality between hybrid iterative reconstruction and deep learning reconstruction in low dose abdominopelvic CT in low body mass index individuals
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: AI
-- Link: https://www.nature.com/articles/s41598-026-52554-z
-
-### Benchmarking large language models on persian surgical subspecialty board examinations: a comparative study of ChatGPT-4o, ChatGPT-5, and Gemini 2.5 Flash
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science, AI
-- Link: https://www.nature.com/articles/s41598-026-51934-9
-
-### OpenAI launches new voice intelligence features in its API
-- Source: TechCrunch
-- Published: 2026-05-07 22:24
-- Topics: AI
-- Link: https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/
-- Summary: The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.
-
-### Top Pentagon tech officials optimistic Mythos-style AI tools will improve cyber defense
-- Source: Breaking Defense
-- Published: 2026-05-07 19:45
-- Topics: Defense, AI
-- Link: https://breakingdefense.com/2026/05/top-pentagon-tech-officials-optimistic-mythos-style-ai-tools-will-improve-cyber-defense/
-- Summary: Mythos is just the first of a new generation of AIs that can patch vulnerable code at superhuman speed, said Pentagon CTO Emil Michael and Cyber Policy chief Katie Sutton, downplaying the uniqueness of Anthropic.
-
 ## Defense
+
+### Bee more specific: New radar tech could improve identification and tracking of key pollinators
+- Source: Phys.org
+- Published: 2026-05-09 17:00
+- Topics: Science, Defense
+- Link: https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html
+- Summary: Scientists from Trinity and Technical University of Denmark have developed a new radar-based technique that could address a critical gap in global conservation efforts, by transforming how we identify and track the insects that are actually responsible for pollinating plants.
 
 ### Asteroid Apophis will skim past Earth in 2029, and a new joint mission plans to watch every change
 - Source: Phys.org
@@ -77,13 +59,6 @@ Generated: 2026-05-09 07:29 UTC
 - Topics: Defense
 - Link: https://breakingdefense.com/2026/05/poland-becomes-first-nation-to-sign-eu-safe-loans-expects-billions-for-defense/
 - Summary: Poland is now on track to receive over $51 billion in EU loans for its military, after overcoming domestic political hurdles.
-
-### From flying discs to glowing orbs, these newly opened Pentagon files point somewhere stranger than expected
-- Source: Phys.org
-- Published: 2026-05-08 17:36
-- Topics: Defense
-- Link: https://phys.org/news/2026-05-flying-discs-orbs-newly-pentagon.html
-- Summary: The Pentagon on Friday released a first batch of secret files documenting reported sightings of unidentified flying objects—some dating back to the 1940s—fanning speculation over whether alien life exists.
 
 ### Poland says hackers breached water treatment plants, and the US is facing the same threat
 - Source: TechCrunch
@@ -141,119 +116,14 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/
 - Summary: The Turkish government has been working on hypersonic technologies and liquid-propellant propulsion systems for nearly a decade.
 
-### As Adversaries Integrate, U.S. Partners Bypass Washington
-- Source: War on the Rocks
-- Published: 2026-05-08 07:30
-- Topics: Defense
-- Link: https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/
-- Summary: The drones hitting Gulf Arab states daily since the United States and Israel launched large-scale military operations against Iran in February are not merely Iranian. They are originally Iranian, yes. But these designs and production processes were improved and refined by Russia through years of battlefield testing against Ukrainian defenses. So, they were returned to Tehran from Moscow. Confronted with a threat that Ukraine has spent four years learning to counter, the United States found itsel
-
-### Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?
-- Source: War on the Rocks
-- Published: 2026-05-08 07:15
-- Topics: Defense, Science
-- Link: https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/
-- Summary: On the eve of the U.S.-Israeli strikes on Iran, 56 tankers sailed through the Strait of Hormuz. Two days later, Lloyd&#8217;s List, the maritime industry&#8217;s journal of record, counted just seven tankers and a single gas carrier &#8212; all small and three of them shadow-fleet vessels &#8212; with hundreds more drifting in the Gulf of Oman. One of the world&#8217;s most important maritime chokepoints had not been mined, blockaded, or seized by a navy. Rather, it had been priced shut by a han
-
-### As the US Army adds drones to formations, here’s how one base trains its operators
-- Source: Defense News
-- Published: 2026-05-08 00:04
-- Topics: Defense
-- Link: https://www.defensenews.com/news/your-military/2026/05/08/as-the-us-army-adds-drones-to-formations-heres-how-one-base-trains-its-operators/
-- Summary: Fort Stewart soldiers are figuring out how to train on unmanned systems after the base stood up the Marne Unmanned Center of Excellence.
-
-### US and Iran exchange fire as Trump says war will ‘be over quickly’
-- Source: Defense News
-- Published: 2026-05-07 23:49
-- Topics: Defense
-- Link: https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/
-- Summary: U.S. forces launched retaliatory strikes against Iranian military facilities Thursday after Iran fired missiles and drones at three U.S. Navy vessels.
-
-### Top Pentagon tech officials optimistic Mythos-style AI tools will improve cyber defense
-- Source: Breaking Defense
-- Published: 2026-05-07 19:45
-- Topics: Defense, AI
-- Link: https://breakingdefense.com/2026/05/top-pentagon-tech-officials-optimistic-mythos-style-ai-tools-will-improve-cyber-defense/
-- Summary: Mythos is just the first of a new generation of AIs that can patch vulnerable code at superhuman speed, said Pentagon CTO Emil Michael and Cyber Policy chief Katie Sutton, downplaying the uniqueness of Anthropic.
-
-### How does budget reconciliation work? Here’s everything you need to know.
-- Source: Breaking Defense
-- Published: 2026-05-07 18:47
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/05/how-reconciliation-could-affect-pentagon-funding/
-- Summary: Valerie Insinna outlines how Congress draws up a military spending plan for the year ahead.
-
-### Saab CEO optimistic Ukraine Gripen deal could be finalized this year
-- Source: Breaking Defense
-- Published: 2026-05-07 18:07
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/05/saab-ceo-optimistic-ukraine-gripen-deal-could-be-finalized-this-year/
-- Summary: A top Ukrainian official said Kyiv was &#8220;ready&#8221; for the big fighter jet deal, but Sweden&#8217;s defense minister suggested challenges remain.
-
-### ASELSAN at SAHA 2026: Introducing next-generation multi-domain defense systems
-- Source: Breaking Defense
-- Published: 2026-05-07 18:03
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/05/aselsan-at-saha-2026-introducing-next-generation-multi-domain-defense-systems/
-- Summary: [Sponsored] Unveiled at SAHA 2026, ASELSAN’s latest portfolio reflects a layered and integrated defense architecture, bringing together electronic warfare, counter-UAV, airborne and naval capabilities within a unified operational framework.
-
-### The next Army chief won’t inherit a force, he’ll inherit an argument
-- Source: Breaking Defense
-- Published: 2026-05-07 17:13
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/05/the-next-army-chief-wont-inherit-a-force-hell-inherit-an-argument/
-- Summary: The next Army chief needs to show that land power is still vital and relevant for modern warfare that&#8217;s heavily focused on drones, writes John G. Ferrari in this op-ed.
-
-### Europe defense autonomy is in reach at €50 billion a year: German experts
-- Source: Defense News
-- Published: 2026-05-07 16:46
-- Topics: Defense, Science
-- Link: https://www.defensenews.com/global/europe/2026/05/07/europe-defense-autonomy-is-in-reach-at-50-billion-a-year-german-experts/
-- Summary: A new paper identifies “ten central capability gaps” Europe needs to plug to be able to act autonomously, without U.S. military assistance.
-
-### A small town in Germany braces for end to decades of life with US troops
-- Source: Defense News
-- Published: 2026-05-07 16:42
-- Topics: Defense
-- Link: https://www.defensenews.com/news/your-military/2026/05/07/a-small-town-in-germany-braces-for-end-to-decades-of-life-with-us-troops/
-- Summary: A picturesque Bavarian town has hosted U.S. forces since the end of WWII and could bear the brunt of the U.S. military's withdrawal from Germany.
-
-### Pentagon turns to AI targeting to help troops shoot drones
-- Source: Defense News
-- Published: 2026-05-07 15:28
-- Topics: Defense
-- Link: https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/
-- Summary: The technology can detect threats and distinguish them from non-threats, such as birds, faster than a human operator can.
-
-### Driscoll reveals new plan to buy cheaper interceptors with Army-owned IP
-- Source: Breaking Defense
-- Published: 2026-05-07 13:56
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/05/driscoll-reveals-new-plan-to-buy-cheaper-interceptors-with-army-owned-ip/
-- Summary: Army Secretary Dan Driscoll explained that the plan is for the Army to break down the interceptor into subsegments and buy them — and their IP — separately, allowing the Army sole ownership of the interceptor.
-
-### Kongsberg Q1 orders more than double, company eyes US expansion
-- Source: Breaking Defense
-- Published: 2026-05-07 12:11
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/05/kongsberg-q1-orders-more-than-double-eyes-us-expansion/
-- Summary: Across the last quarter, other key contracts included the firm’s joint selection along with Salt Ship Design to deliver a design concept for standardised vessels to the Royal Norwegian Navy.
-
-### The Pentagon Needs a Playbook for Munitions Surge Production
-- Source: War on the Rocks
-- Published: 2026-05-07 08:00
-- Topics: Defense
-- Link: https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/
-- Summary: The Tomahawk Land Attack Missiles the U.S. military fired during Operation Epic Fury take months to put on contract and years to produce.Whether driven by U.S. military operations or support to partners, the challenge of quickly replenishing U.S. munitions is not new. Exquisite munitions often take an exquisite amount of time to manufacture and deliver. Defense officials, in turn, frequently want to compress that time as much as possible, seeking to restock fast and mitigate future risks.The Rus
-
-### What 300 Emails Say About Americans and the Army’s Direct Commission Program
-- Source: War on the Rocks
-- Published: 2026-05-07 07:30
-- Topics: Defense, Science
-- Link: https://warontherocks.com/what-300-emails-say-about-americans-and-the-armys-direct-commission-program/
-- Summary: For nine months in 2024 and 2025, I had an additional duty &#8212; monitoring an inbox that connected potential direct commission candidates with the Army&#8217;s individual branches. I served on the Army Reserve&#8217;s senior leadership team, helping to stand up a brokerage between mid-career professionals and the decentralized branch pipelines that controlled direct commission slots.During that time, I personally reviewed over 300 inquiries from accomplished professionals &#8212; data scienti
-
 ## MedTech
+
+### This tiny grain-of-rice sensor gives robots a new sense and changes what delicate tools can detect
+- Source: Phys.org
+- Published: 2026-05-09 09:20
+- Topics: MedTech, Science
+- Link: https://phys.org/news/2026-05-tiny-grain-rice-sensor-robots.html
+- Summary: Researchers have developed a sensor about the size of a grain of rice that can measure forces and twisting motions in all directions using light instead of traditional electronics. The new sensor could help robotic tools and medical devices "feel" what they are touching, especially at very small scales.
 
 ### How a repurposed medical device is helping us investigate ancient climate tipping points
 - Source: Phys.org
@@ -262,20 +132,27 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://phys.org/news/2026-05-repurposed-medical-device-ancient-climate.html
 - Summary: Imagine being tasked with counting every blade of grass in a field, noting every single species as you go. This is not far from the challenge many scientists face when analyzing microscopic samples packed with thousands of tiny particles.
 
-### SatVu Positions Thermal Imaging as the Missing EO Layer
-- Source: Payload Space
-- Published: 2026-05-08 06:15
-- Topics: MedTech
-- Link: https://payloadspace.com/satvu-positions-thermal-imaging-as-the-missing-eo-layer/
-- Summary: SatVu is officially back in business. The post SatVu Positions Thermal Imaging as the Missing EO Layer appeared first on Payload .
-
-### Comparative analysis of wearable-derived gait features with intrinsic risk indicators for fall risk prediction in older adults
+### Digital health interventions for psychological outcomes among adolescents and young adults with cancer: a systematic review and meta-analysis
 - Source: Nature
-- Published: 2026-05-08 00:00
+- Published: 2026-05-09 00:00
 - Topics: MedTech
-- Link: https://www.nature.com/articles/s41598-026-51776-5
+- Link: https://www.nature.com/articles/s41746-026-02719-x
 
 ## Biotech
+
+### CRISPR safeguard changes how engineered microbes can be controlled
+- Source: Phys.org
+- Published: 2026-05-09 20:00
+- Topics: Biotech
+- Link: https://phys.org/news/2026-05-crispr-safeguard-microbes.html
+- Summary: Engineered microorganisms are widely used in industrial biotechnology and biopharmaceutical applications, including the production of biofuels, sustainable chemicals, and therapeutic compounds. However, concerns remain regarding the unintended environmental release and uncontrolled proliferation of genetically engineered microbes. For this reason, biocontainment technologies, which are designed to prevent microorganisms from surviving outside controlled environments, have become increasingly imp
+
+### Saturday Citations: Psychedelic therapeutics; interoception and well-being; a hidden linguistic bias
+- Source: Phys.org
+- Published: 2026-05-09 12:30
+- Topics: Biotech, Science
+- Link: https://phys.org/news/2026-05-saturday-citations-psychedelic-therapeutics-interoception.html
+- Summary: This week, researchers reported that the human brain is capable of sophisticated language processing while in an unconscious state during general anesthesia. An informatics and computing professor found that the Climate TRACE consortium has underestimated vehicle carbon emissions in cities by a staggering 70%. And archaeologists excavated and photoscanned a prehistoric man-made island located in a Scottish loch.
 
 ### The biggest biotech funding rounds in April 2026
 - Source: Labiotech
@@ -284,14 +161,21 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.labiotech.eu/in-depth/biotech-funding-rounds-april-2026/
 - Summary: Kailera Therapeutics, Nektar Therapeutics, and Hemab Therapeutics bagged the biggest biotech funding rounds overall in April 2026. The post The biggest biotech funding rounds in April 2026 appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG
 
-### The rise of trispecific antibodies: Biopharma’s next big bet after bispecifics
-- Source: Labiotech
-- Published: 2026-05-07 12:49
-- Topics: Biotech
-- Link: https://www.labiotech.eu/in-depth/trispecific-antibodies-field-review/
-- Summary: Discover the field of trispecific antibodies, which are currently generating strong interest across the biopharma industry. The post The rise of trispecific antibodies: Biopharma&#8217;s next big bet after bispecifics appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear cr
-
 ## Startups
+
+### Fintech startup Parker files for bankruptcy
+- Source: TechCrunch
+- Published: 2026-05-09 20:32
+- Topics: Startups
+- Link: https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/
+- Summary: Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.
+
+### Communication gaps may hinder social innovation
+- Source: Phys.org
+- Published: 2026-05-09 20:30
+- Topics: Science, Startups
+- Link: https://phys.org/news/2026-05-communication-gaps-hinder-social.html
+- Summary: New research from the Durham University Management and Marketing Department shows that misunderstandings between investors and founders are a major reason why social innovation ventures fail to grow. In many cases, they collapse altogether.
 
 ### Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027
 - Source: TechCrunch
@@ -328,49 +212,14 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.eu-startups.com/2026/05/delft-based-frostbyte-secures-a-cool-e1-3-million-to-scale-cryogenic-electronics-for-quantum-computing/
 - Summary: FrostByte, a Delft-based startup developing cryogenic electronics solutions for quantum technologies, has raised €1.3 million in funding from InnovationQuarter Capital, Graduate Ventures, Paeonia Group, UNIIQ and an angel investor. With this investment, Graduate Ventures reaches a milestone, marking its 80th investment The company plans to use this capital to further expand its team, scale production [&#8230;] The post Delft-based FrostByte secures a cool €1.3 million to scale cryogenic electron
 
-### UK semiconductor startup Quinas Technology secures investment approval from Malta Government Venture Capital
-- Source: EU-Startups
-- Published: 2026-05-08 06:15
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/
-- Summary: Quinas Technology, a London-based DeepTech semiconductor startup developing memory technologies for AI, data centres, edge computing and advanced digital systems, has secured investment approval from Malta Government Venture Capital (MGVC). On 7 May 2026, the MGVC approved the investment under its co-investment framework to support the growth of the UK-based company. The funding, the amount [&#8230;] The post UK semiconductor startup Quinas Technology secures investment approval from Malta Gover
-
-### The fax machine is the bottleneck in US healthcare, and VCs are starting to notice
-- Source: TechCrunch
-- Published: 2026-05-08 04:42
-- Topics: Startups
-- Link: https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/
-- Summary: Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.
-
-### Skyroot Secures $60M in Funding, Becoming India’s First Space ‘Unicorn’
-- Source: Satellite Today
-- Published: 2026-05-07 20:59
-- Topics: Startups, Funding
-- Link: https://www.satellitetoday.com/finance/2026/05/07/skyroot-secures-60m-in-funding-becoming-indias-first-space-unicorn/
-- Summary: Skyroot Aerospace, the Indian launch startup, has secured another $60 million in funding. The company is one of the rising stars in India’s space economy and becomes the nation&#8217;s first [&#8230;] The post Skyroot Secures $60M in Funding, Becoming India&#8217;s First Space &#8216;Unicorn&#8217; appeared first on Via Satellite .
-
-### Tallinn’s Skeleton Technologies announces €33 million first close of pre-IPO round as it prepares for 2027 US IPO
-- Source: EU-Startups
-- Published: 2026-05-07 10:13
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/05/tallinns-skeleton-technologies-announces-e33-million-first-close-of-pre-ipo-round-ahead-of-planned-2027-us-ipo/
-- Summary: Skeleton Technologies, a Tallinn-based AI infrastructure and grid power systems provider, today announced the first close of a larger funding round at €33 million. This brings its total venture capital funding to €392 million in preparation for its planned initial public offering (IPO) in the United States in 2027. The new round expands Skeleton’s investor [&#8230;] The post Tallinn’s Skeleton Technologies announces €33 million first close of pre-IPO round as it prepares for 2027 US IPO appeared
-
-### London-based CodeWords raises €7.6 million to help businesses run on AI autopilot
-- Source: EU-Startups
-- Published: 2026-05-07 07:58
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/05/london-based-codewords-raises-e7-6-million-to-help-businesses-run-on-ai-autopilot/
-- Summary: CodeWords, a London-based AI agent platform that lets users run their business on autopilot, has raised a €7.6 million ($9 million) Seed round to fund the expansion of its go-to-market and engineering teams. The round was led by Visionaries, with participation from Firstminute Capital (which first backed the company at pre-Seed), Sequel, and Illusian, the [&#8230;] The post London-based CodeWords raises €7.6 million to help businesses run on AI autopilot appeared first on EU-Startups .
-
-### Making labs smarter for scientific breakthroughs
-- Source: Labiotech
-- Published: 2026-05-07 07:52
-- Topics: Startups
-- Link: https://www.labiotech.eu/podcast/making-labs-smarter-for-scientific-breakthroughs/
-- Summary: Today, we dive into the future of lab management with Ryan Cawood, CEO and co-founder of Lab Thread. The post Making labs smarter for scientific breakthroughs appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG and Labiotech.eu with appropr
-
 ## Funding
+
+### Nvidia has already committed $40B to equity AI deals this year
+- Source: TechCrunch
+- Published: 2026-05-09 14:43
+- Topics: Funding
+- Link: https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/
+- Summary: Nvidia continues to be a big investor in the AI ecosystem.
 
 ### Mother Ventures is looking at moms as the ‘economic engine’
 - Source: TechCrunch
@@ -428,48 +277,6 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.eu-startups.com/2026/05/delft-based-frostbyte-secures-a-cool-e1-3-million-to-scale-cryogenic-electronics-for-quantum-computing/
 - Summary: FrostByte, a Delft-based startup developing cryogenic electronics solutions for quantum technologies, has raised €1.3 million in funding from InnovationQuarter Capital, Graduate Ventures, Paeonia Group, UNIIQ and an angel investor. With this investment, Graduate Ventures reaches a milestone, marking its 80th investment The company plans to use this capital to further expand its team, scale production [&#8230;] The post Delft-based FrostByte secures a cool €1.3 million to scale cryogenic electron
 
-### UK semiconductor startup Quinas Technology secures investment approval from Malta Government Venture Capital
-- Source: EU-Startups
-- Published: 2026-05-08 06:15
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/05/uk-semiconductor-startup-quinas-technology-secures-investment-approval-from-malta-government-venture-capital/
-- Summary: Quinas Technology, a London-based DeepTech semiconductor startup developing memory technologies for AI, data centres, edge computing and advanced digital systems, has secured investment approval from Malta Government Venture Capital (MGVC). On 7 May 2026, the MGVC approved the investment under its co-investment framework to support the growth of the UK-based company. The funding, the amount [&#8230;] The post UK semiconductor startup Quinas Technology secures investment approval from Malta Gover
-
-### Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B
-- Source: TechCrunch
-- Published: 2026-05-07 23:11
-- Topics: Funding
-- Link: https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/
-- Summary: The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.
-
-### Skyroot Secures $60M in Funding, Becoming India’s First Space ‘Unicorn’
-- Source: Satellite Today
-- Published: 2026-05-07 20:59
-- Topics: Startups, Funding
-- Link: https://www.satellitetoday.com/finance/2026/05/07/skyroot-secures-60m-in-funding-becoming-indias-first-space-unicorn/
-- Summary: Skyroot Aerospace, the Indian launch startup, has secured another $60 million in funding. The company is one of the rising stars in India’s space economy and becomes the nation&#8217;s first [&#8230;] The post Skyroot Secures $60M in Funding, Becoming India&#8217;s First Space &#8216;Unicorn&#8217; appeared first on Via Satellite .
-
-### HawkEye 360 Raises $416M, Pricing at High End for IPO
-- Source: Satellite Today
-- Published: 2026-05-07 20:03
-- Topics: Funding
-- Link: https://www.satellitetoday.com/finance/2026/05/07/hawkeye-360-raises-416m-pricing-at-high-end-for-ipo/
-- Summary: HawkEye 360 raised $416 million in its initial public offering (IPO) on Thursday, becoming the second space company to go public this year. The signals intelligence company began trading on [&#8230;] The post HawkEye 360 Raises $416M, Pricing at High End for IPO appeared first on Via Satellite .
-
-### Tallinn’s Skeleton Technologies announces €33 million first close of pre-IPO round as it prepares for 2027 US IPO
-- Source: EU-Startups
-- Published: 2026-05-07 10:13
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/05/tallinns-skeleton-technologies-announces-e33-million-first-close-of-pre-ipo-round-ahead-of-planned-2027-us-ipo/
-- Summary: Skeleton Technologies, a Tallinn-based AI infrastructure and grid power systems provider, today announced the first close of a larger funding round at €33 million. This brings its total venture capital funding to €392 million in preparation for its planned initial public offering (IPO) in the United States in 2027. The new round expands Skeleton’s investor [&#8230;] The post Tallinn’s Skeleton Technologies announces €33 million first close of pre-IPO round as it prepares for 2027 US IPO appeared
-
-### London-based CodeWords raises €7.6 million to help businesses run on AI autopilot
-- Source: EU-Startups
-- Published: 2026-05-07 07:58
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/05/london-based-codewords-raises-e7-6-million-to-help-businesses-run-on-ai-autopilot/
-- Summary: CodeWords, a London-based AI agent platform that lets users run their business on autopilot, has raised a €7.6 million ($9 million) Seed round to fund the expansion of its go-to-market and engineering teams. The round was led by Visionaries, with participation from Firstminute Capital (which first backed the company at pre-Seed), Sequel, and Illusian, the [&#8230;] The post London-based CodeWords raises €7.6 million to help businesses run on AI autopilot appeared first on EU-Startups .
-
 ## Space
 
 ### Operational AI is Hitting the Limits of Earth Observation Data
@@ -500,14 +307,84 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://payloadspace.com/rocket-lab-to-acquire-motiv-space-systems/
 - Summary: Rocket Lab will acquire space robotics company Motiv Space Systems. The acquisition, announced Thursday evening in conjunction with Rocket Lab’s Q1 earnings, will achieve two goals: Motiv is expected to be rebranded as Rocket Lab Robotics when the acquisition closes, which is scheduled for Q2. Other news: Rocket Lab announced a few other pieces of… The post Rocket Lab To Acquire Motiv Space Systems appeared first on Payload .
 
-### Spire Says New German Facility Can Produce Up to 100 Satellites Per Year
-- Source: Satellite Today
-- Published: 2026-05-07 20:01
-- Topics: Space
-- Link: https://www.satellitetoday.com/manufacturing/2026/05/07/spire-says-new-german-facility-can-produce-up-to-100-satellites-per-year/
-- Summary: Spire has opened a new satellite manufacturing facility in Munich the company says has the capacity to produce up to 100 satellites per year. The facility is designed for end-to-end [&#8230;] The post Spire Says New German Facility Can Produce Up to 100 Satellites Per Year appeared first on Via Satellite .
-
 ## Science
+
+### Researchers develop a biodegradable wash that can remove pesticides and keep fruit fresh longer
+- Source: Phys.org
+- Published: 2026-05-10 00:30
+- Topics: Science
+- Link: https://phys.org/news/2026-05-biodegradable-pesticides-fruit-fresh-longer.html
+- Summary: Many grocery shoppers know the routine: bring fruit and vegetables home, rinse them, dry them and hope they stay fresh long enough to be eaten. But fresh produce is delicate. Grapes shrivel, apple slices brown and berries can spoil quickly.
+
+### Communication gaps may hinder social innovation
+- Source: Phys.org
+- Published: 2026-05-09 20:30
+- Topics: Science, Startups
+- Link: https://phys.org/news/2026-05-communication-gaps-hinder-social.html
+- Summary: New research from the Durham University Management and Marketing Department shows that misunderstandings between investors and founders are a major reason why social innovation ventures fail to grow. In many cases, they collapse altogether.
+
+### Heavy Atlantic rain can block African aerosols from fertilizing Amazon, study finds
+- Source: Phys.org
+- Published: 2026-05-09 19:00
+- Topics: Science
+- Link: https://phys.org/news/2026-05-heavy-atlantic-block-african-aerosols.html
+- Summary: How are cold air masses advancing in the United States connected to fertilizers carried by "flying rivers" from Africa that nourish the soils of the Brazilian Amazon? An article published in Geophysical Research Letters reveals an atmospheric connection between these distant regions.
+
+### Scientists trace latest interstellar comet's home to a cold, isolated corner of the Milky Way
+- Source: Phys.org
+- Published: 2026-05-09 17:50
+- Topics: Science
+- Link: https://phys.org/news/2026-04-scientists-latest-interstellar-comet-home.html
+- Summary: The comet that rambled past us from another star last year likely originated in a cold, isolated corner of the galaxy that had yet to gel into its own solar system, astronomers reported Thursday.
+
+### Bee more specific: New radar tech could improve identification and tracking of key pollinators
+- Source: Phys.org
+- Published: 2026-05-09 17:00
+- Topics: Science, Defense
+- Link: https://phys.org/news/2026-05-bee-specific-radar-tech-identification.html
+- Summary: Scientists from Trinity and Technical University of Denmark have developed a new radar-based technique that could address a critical gap in global conservation efforts, by transforming how we identify and track the insects that are actually responsible for pollinating plants.
+
+### The ocean is fighting climate change: How people are trying to help it
+- Source: Phys.org
+- Published: 2026-05-09 16:30
+- Topics: Science
+- Link: https://phys.org/news/2026-05-ocean-climate-people.html
+- Summary: We replaced the stove with plywood, turning the kitchen of the dive boat into an impromptu research lab. Plugging in wires and connecting tubing, we assembled a scientific instrument within the cramped cabin. Then we cast off into Halifax Harbor, Canada, surveying the turquoise waters for signs of an unusual test: could we use the ocean itself to remove carbon dioxide from the air?
+
+### Non-rotating early galaxy is a surprise to astronomers
+- Source: Phys.org
+- Published: 2026-05-09 15:00
+- Topics: Science
+- Link: https://phys.org/news/2026-05-rotating-early-galaxy-astronomers.html
+- Summary: Astronomers using the James Webb Space Telescope have made a surprising discovery about a galaxy long, long ago and far, far away: It isn't rotating. That's something only seen in the most massive, mature galaxies that are closer to us in space and time, said Ben Forrest, a research scientist in the Department of Physics and Astronomy at the University of California, Davis, and first author on the paper published May 4 in Nature Astronomy.
+
+### Black hole jets measured in real time, revealing 10,000-sun power
+- Source: Phys.org
+- Published: 2026-05-09 14:50
+- Topics: Science
+- Link: https://phys.org/news/2026-04-astronomers-mind-power-black-hole.html
+- Summary: For the first time, scientists have measured the instantaneous mind-blowing power of jets blasting from a black hole.
+
+### Genetics link Angola's 'ghost elephants' to populations hundreds of miles away
+- Source: Phys.org
+- Published: 2026-05-09 13:00
+- Topics: Science
+- Link: https://phys.org/news/2026-05-genetics-link-angola-ghost-elephants.html
+- Summary: For more than a decade, conservation biologist Steve Boyes searched for "ghost elephants"—nocturnal giants rumored to roam a remote, high-altitude wetland in eastern Angola. When a motion-sensor camera finally captured their image in 2024, Boyes turned to Stanford scientists for help answering a deeper question: Who are these elephants, and where did they come from?
+
+### Saturday Citations: Psychedelic therapeutics; interoception and well-being; a hidden linguistic bias
+- Source: Phys.org
+- Published: 2026-05-09 12:30
+- Topics: Biotech, Science
+- Link: https://phys.org/news/2026-05-saturday-citations-psychedelic-therapeutics-interoception.html
+- Summary: This week, researchers reported that the human brain is capable of sophisticated language processing while in an unconscious state during general anesthesia. An informatics and computing professor found that the Climate TRACE consortium has underestimated vehicle carbon emissions in cities by a staggering 70%. And archaeologists excavated and photoscanned a prehistoric man-made island located in a Scottish loch.
+
+### This tiny grain-of-rice sensor gives robots a new sense and changes what delicate tools can detect
+- Source: Phys.org
+- Published: 2026-05-09 09:20
+- Topics: MedTech, Science
+- Link: https://phys.org/news/2026-05-tiny-grain-rice-sensor-robots.html
+- Summary: Researchers have developed a sensor about the size of a grain of rice that can measure forces and twisting motions in all directions using light instead of traditional electronics. The new sensor could help robotic tools and medical devices "feel" what they are touching, especially at very small scales.
 
 ### How a repurposed medical device is helping us investigate ancient climate tipping points
 - Source: Phys.org
@@ -515,6 +392,60 @@ Generated: 2026-05-09 07:29 UTC
 - Topics: MedTech, Science
 - Link: https://phys.org/news/2026-05-repurposed-medical-device-ancient-climate.html
 - Summary: Imagine being tasked with counting every blade of grass in a field, noting every single species as you go. This is not far from the challenge many scientists face when analyzing microscopic samples packed with thousands of tiny particles.
+
+### Independent association between relative fat mass and total bone mineral density in U.S. adolescents: a cross-sectional study adjusting for Appendicular Lean Mass Index
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-52209-z
+
+### One-year longitudinal cohort study of chemosensory recovery and plasma biomarker dynamics in SARS-CoV-2 survivors
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-50671-3
+
+### Assessing postural loads and musculoskeletal disorders in saffron harvesters: a prospective repeated-measures observational study using an agricultural-specific tool
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-52379-w
+
+### Comparison of gingival phenotype among adult male naswar users, cigarette smokers and non-tobacco users: a cross-sectional study
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-52426-6
+
+### Interpreting hand grip strength in hospital employees with post-COVID syndrome compared to non-infected controls: a case-control study
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-51666-w
+
+### Sedentary time during pregnancy and fetal malpresentation in the Japan Environment and Children’s Study
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s43856-026-01635-1
+
+### Unused medicines among households in internally displacement (IDP) camps in Ethiopia: an explanatory sequential mixed-methods study
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-52079-5
+
+### Correlation study of infrapatellar fat pad EI in assessing clinical symptoms of knee osteoarthritis
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41598-026-46880-5
+
+### Developmental origins of exceptional health and survival: a four-generation family cohort study
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Science
+- Link: https://www.nature.com/articles/s41467-026-72433-5
 
 ### Cyclone Gabrielle exposed the risks of forestry slash: New research suggests little has changed
 - Source: Phys.org
@@ -537,132 +468,6 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/
 - Summary: The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.
 
-### Anion swap unlocks sevenfold CO₂ capture in polyionic liquids
-- Source: Phys.org
-- Published: 2026-05-08 20:20
-- Topics: Science
-- Link: https://phys.org/news/2026-05-anion-swap-sevenfold-capture-polyionic.html
-- Summary: A joint research team from Nitto Boseki Co., Ltd. (Nittobo) and Tohoku University has revealed that polyionic liquids (PILs) can achieve high carbon dioxide (CO₂) adsorption when their counter anions are exchanged. This discovery provides a critical new design guideline for the development of high-performance CO2 recovery devices and gas separation membranes.
-
-### Plants evolved distinct functions for two forms of a fundamental signaling molecule, study shows
-- Source: Phys.org
-- Published: 2026-05-08 18:00
-- Topics: Science
-- Link: https://phys.org/news/2026-05-evolved-distinct-functions-fundamental-molecule.html
-- Summary: The molecule cAMP, which plays essential roles in mammalian cells, is less well understood in plants. In a new Science Advances paper, researchers from the Institute of Science and Technology Austria (ISTA) and international collaborators demonstrate that plants use two forms of cAMP in parallel to regulate normal cellular processes and respond to stress, while maintaining crosstalk between them.
-
-### Antarctica sea ice collapse driven by triple whammy of climate chaos, scientists find
-- Source: Phys.org
-- Published: 2026-05-08 18:00
-- Topics: Science
-- Link: https://phys.org/news/2026-05-antarctica-sea-ice-collapse-driven.html
-- Summary: Antarctica is being ravaged by a triple-whammy of climate chaos that has melted sea ice to record lows, a new study has revealed. For decades, the frozen wilderness at the bottom of the world defied global warming trends, with ice levels actually growing—until 2015 when it suddenly reversed.
-
-### The moon's largest impact crater scattered something priceless—and Artemis may be heading straight into it
-- Source: Phys.org
-- Published: 2026-05-08 17:50
-- Topics: Science
-- Link: https://phys.org/news/2026-05-moon-largest-impact-crater-priceless.html
-- Summary: A new study, published in Science Advances, has refined some important details about the moon's largest and oldest impact crater, which stretches more than 1,200 miles (2,000 km) on the far side of the moon. The new details can help guide some of the planning for NASA's upcoming Artemis mission to the moon, which is planned for 2028.
-
-### Metamorphosis in newts proves costly, with one sex paying a heavier price
-- Source: Phys.org
-- Published: 2026-05-08 17:40
-- Topics: Science
-- Link: https://phys.org/news/2026-05-metamorphosis-newts-sex-paying-heavier.html
-- Summary: Metamorphosis, that profound transformation enabling certain animals to shift between habitats such as from an aquatic to a terrestrial environment, is generally viewed in terms of its benefits. A team of researchers from the University of Liège has now demonstrated that it also entails a direct and immediate cost for the individuals undergoing it, a cost that varies by sex and could influence long-term evolutionary trade-offs. The study is published in the journal BMC Biology.
-
-### Spaceflight leaves astronauts' joints unchanged after 18 days on ISS, early data suggest
-- Source: Phys.org
-- Published: 2026-05-08 17:40
-- Topics: Science
-- Link: https://phys.org/news/2026-05-spaceflight-astronauts-joints-unchanged-days.html
-- Summary: Researchers at National Jewish Health have published new findings demonstrating that short-duration spaceflight may not significantly impact lower extremity joint structures, while also identifying a promising, noninvasive tool to monitor astronaut musculoskeletal health on future long-duration missions.
-
-### Vast atmospheric waves on Venus are caused by largest known 'hydraulic jump'
-- Source: Phys.org
-- Published: 2026-05-08 17:20
-- Topics: Science
-- Link: https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html
-- Summary: The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used numerical models to show that an enormous 6,000-kilometer-wide atmospheric wave front, which circumnavigates the planet for days at a time, is caused by a large "hydraulic jump." This is when a fluid abruptly slows down, changing from shallow and fast to deep and slow.
-
-### Scientists split gentoo penguins into four species, one totally new to science
-- Source: Phys.org
-- Published: 2026-05-08 17:00
-- Topics: Science
-- Link: https://phys.org/news/2026-05-scientists-gentoo-penguins-species-totally.html
-- Summary: The four-foot-tall Emperor penguin of Antarctica may be the most iconic member of this unique family of birds, but 17 other species of penguins populate the Southern Hemisphere, many of them confined to isolated islands that make them hard to study.
-
-### Old bottles and battery acid can drive production of valuable industrial chemicals
-- Source: Phys.org
-- Published: 2026-05-08 16:40
-- Topics: Science
-- Link: https://phys.org/news/2026-05-bottles-battery-acid-production-valuable.html
-- Summary: Battery acid from old cars, with a little help from a catalyst, can give plastic waste a new purpose, using it to drive the production of useful chemicals, powered by sunlight alone. A recent study by researchers at the University of Cambridge found a way to turn everyday plastics such as PET from water bottles, nylon, and polyurethane into useful chemical feedstocks.
-
-### Why infected stink bugs lift their wings: Hidden parasite escape caught on camera
-- Source: Phys.org
-- Published: 2026-05-08 16:20
-- Topics: Science
-- Link: https://phys.org/news/2026-05-infected-bugs-wings-hidden-parasite.html
-- Summary: Male strepsipterans develop inside a host insect during their larval stage and, upon reaching the adult stage, emerge from the host body to begin a free-living phase. In a new study, researchers at University of Tsukuba directly observed the emergence behavior of male strepsipterans parasitizing stink bugs, where emergence sites are concealed beneath the host's wings, and found that, during emergence, the host exhibits a characteristic wing-raising behavior.
-
-### Lab-evolved cyanobacteria survive minute-by-minute light swings, offering clues to hardier crops
-- Source: Phys.org
-- Published: 2026-05-08 16:00
-- Topics: Science
-- Link: https://phys.org/news/2026-05-lab-evolved-cyanobacteria-survive-minute.html
-- Summary: Plant scientist Dario Leister and his team are investigating how cyanobacteria adapt to rapidly changing light intensities. This could help optimize photosynthesis in crops. Photosynthesis is one of the most complex processes in nature. However, plants use only a fraction of the available light spectrum and are highly sensitive to environmental stressors such as changing light intensities, heat and drought. As climate change intensifies these stresses, safeguarding crop productivity is becoming 
-
-### Dinosaur dental fossils reveal bird-like parental care bonds
-- Source: Phys.org
-- Published: 2026-05-08 15:40
-- Topics: Science
-- Link: https://phys.org/news/2026-05-dinosaur-dental-fossils-reveal-bird.html
-- Summary: Baby dinosaurs were likely fed more nutritious food than their adult counterparts, a finding that could offer insights into their social evolution, suggests a new study. Paleontologists uncovered this finding by studying wear on the fossilized teeth of Maiasaura peeblesorum, a duck-billed dinosaur species that lived about 75 to 80 million years ago during the Late Cretaceous. First discovered in Montana, these large, herbivorous dinosaurs lived in herds and were thought to have been highly socia
-
-### Nanoparticles overcome drug-resistant cancer via sequential drug release and photothermal therapy
-- Source: Phys.org
-- Published: 2026-05-08 15:20
-- Topics: Science
-- Link: https://phys.org/news/2026-05-nanoparticles-drug-resistant-cancer-sequential.html
-- Summary: Cancer cells frequently develop the ability to expel anticancer drugs before they can work—a phenomenon called multidrug resistance (MDR)—which is one of the leading reasons why chemotherapy fails in patients. Research published in the Journal of Controlled Release addresses that problem with a fundamentally new strategy: instead of simply increasing drug doses or switching drugs, researchers engineered nanoparticles that first disable the cancer cell's drug-expulsion mechanism, and only then re
-
-### Plants survived the dinosaur-killing asteroid by duplicating genomes, study suggests
-- Source: Phys.org
-- Published: 2026-05-08 15:00
-- Topics: Science
-- Link: https://phys.org/news/2026-05-survived-dinosaur-asteroid-duplicating-genomes.html
-- Summary: When an asteroid as big as Mount Everest struck Earth 66 million years ago, it wiped out all non-avian dinosaurs and roughly a third of life on the planet. But many plants survived the devastation. In a new study published in Cell, researchers reveal that the accidental duplications of genomes—a natural phenomenon—might have helped many flowering plants survive some of the most extreme environmental upheavals in Earth's history.
-
-### TikTok algorithm showed a pro-Republican bias during the last US presidential election
-- Source: Phys.org
-- Published: 2026-05-08 14:50
-- Topics: Science
-- Link: https://phys.org/news/2026-05-tiktok-algorithm-pro-republican-bias.html
-- Summary: TikTok's algorithm did not treat Democrats and Republicans equally during the 2024 US presidential election. According to a paper published in Nature, its recommendation system showed a Republican-leaning skew in three states. The journal's editors have also published a Research Briefing in the same issue covering the study.
-
-### New task-setting study shows that male bumblebees are more active and adaptable
-- Source: Phys.org
-- Published: 2026-05-08 14:20
-- Topics: Science
-- Link: https://phys.org/news/2026-05-task-male-bumblebees.html
-- Summary: Male bumblebees are more active and flexible in behavior than female bees, new University of Chester–led research has found, after creating tasks to analyze how the insects explore, recognize colors and learn to earn rewards. The study by researchers from the University of Chester in collaboration with Toyota Motor Manufacturing UK Ltd (Deeside), Newcastle University and the University of Sheffield has highlighted how the different roles of female workers and male drones shape their behavior and
-
-### How a strange fruit fly became a bloodthirsty underwater hunter
-- Source: Phys.org
-- Published: 2026-05-08 13:40
-- Topics: Science
-- Link: https://phys.org/news/2026-05-strange-fruit-fly-bloodthirsty-underwater.html
-- Summary: A carnivorous fruit fly living in bubbling African streams may sound like a fever dream. However, with the help of DNA analysis of a pinned insect from a museum in Zurich, researchers have managed to draw an evolutionary map of a mysterious species that has not been seen since 1981.
-
-### One fifth of flowering plant evolutionary history is at risk of extinction, experts warn
-- Source: Phys.org
-- Published: 2026-05-08 13:20
-- Topics: Science
-- Link: https://phys.org/news/2026-05-evolutionary-history-extinction-experts.html
-- Summary: In a new study published in the journal Science, researchers from the Royal Botanic Gardens, Kew, ZSL (Zoological Society of London) and their international collaborators including Boise State University present the first global assessment of risk to the angiosperm (flowering plants) tree of life, warning that more than a fifth of all angiosperm evolutionary history is at risk of extinction.
-
 ### Turkey touts propellant breakthrough for Yıldırımhan long-range ballistic missile
 - Source: Defense News
 - Published: 2026-05-08 11:14
@@ -677,98 +482,138 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/
 - Summary: Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming&#8230;
 
-### Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?
-- Source: War on the Rocks
-- Published: 2026-05-08 07:15
-- Topics: Defense, Science
-- Link: https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/
-- Summary: On the eve of the U.S.-Israeli strikes on Iran, 56 tankers sailed through the Strait of Hormuz. Two days later, Lloyd&#8217;s List, the maritime industry&#8217;s journal of record, counted just seven tankers and a single gas carrier &#8212; all small and three of them shadow-fleet vessels &#8212; with hundreds more drifting in the Gulf of Oman. One of the world&#8217;s most important maritime chokepoints had not been mined, blockaded, or seized by a navy. Rather, it had been priced shut by a han
-
-### Computer scientist to lead storied DOE lab through ‘exciting and threatening’ AI revolution
-- Source: Science
-- Published: 2026-05-08 03:01
-- Topics: Science
-- Link: https://www.science.org/content/article/computer-scientist-lead-storied-doe-lab-through-exciting-and-threatening-ai-revolution
-- Summary: Katherine Yelick will become director of the Department of Energy’s Lawrence Berkeley National Laboratory on 1 July
-
-### As researchers aim for universal AI disclosure guidelines, the devil is in the details
-- Source: Science
-- Published: 2026-05-08 01:10
-- Topics: Science
-- Link: https://www.science.org/content/article/researchers-aim-universal-ai-disclosure-guidelines-devil-details
-- Summary: Integrity conference attendees debated when and how authors should declare AI use in papers
-
-### A cross-sectional study on the quality of IgA nephropathy videos on short video platforms
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-52584-7
-
-### Framework for artificial intelligence implementation research in healthcare: synthesizing current evidence on barriers and facilitators
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science, AI
-- Link: https://www.nature.com/articles/s41746-026-02705-3
-
-### Outcomes and mortality predictors after tracheostomy in intensive care unit patients with infectious diseases: A 5-year retrospective cohort study from Brazil
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-51458-2
-
-### Assessing maternal knowledge of neonatal danger signs in Egypt: a cross-sectional study
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-50756-z
-
-### Social jet lag and visual acuity decline in junior high students: a retrospective cohort study
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-51107-8
-
-### Benchmarking large language models on persian surgical subspecialty board examinations: a comparative study of ChatGPT-4o, ChatGPT-5, and Gemini 2.5 Flash
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science, AI
-- Link: https://www.nature.com/articles/s41598-026-51934-9
-
-### Clinical utility of the mini nutritional assessment short form in predicting stroke-associated pneumonia in acute stroke patients: a prospective cohort study
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-50651-7
-
-### Europe defense autonomy is in reach at €50 billion a year: German experts
-- Source: Defense News
-- Published: 2026-05-07 16:46
-- Topics: Defense, Science
-- Link: https://www.defensenews.com/global/europe/2026/05/07/europe-defense-autonomy-is-in-reach-at-50-billion-a-year-german-experts/
-- Summary: A new paper identifies “ten central capability gaps” Europe needs to plug to be able to act autonomously, without U.S. military assistance.
-
-### South Korea Pushes to Commercialize Quantum Research
-- Source: Payload Space
-- Published: 2026-05-07 12:53
-- Topics: Science
-- Link: https://payloadspace.com/south-korea-pushes-to-commercialize-quantum-research/
-- Summary: The quantum age is upon us, and South Korea is angling for a seat at the table. The post South Korea Pushes to Commercialize Quantum Research appeared first on Payload .
-
-### Magic mushroom compound shows promise against cocaine addiction
-- Source: Science
-- Published: 2026-05-07 11:15
-- Topics: Science
-- Link: https://www.science.org/content/article/magic-mushroom-compound-shows-promise-against-cocaine-addiction
-- Summary: Small study that prioritized Black and low-income participants yields “remarkable” results
-
-### What 300 Emails Say About Americans and the Army’s Direct Commission Program
-- Source: War on the Rocks
-- Published: 2026-05-07 07:30
-- Topics: Defense, Science
-- Link: https://warontherocks.com/what-300-emails-say-about-americans-and-the-armys-direct-commission-program/
-- Summary: For nine months in 2024 and 2025, I had an additional duty &#8212; monitoring an inbox that connected potential direct commission candidates with the Army&#8217;s individual branches. I served on the Army Reserve&#8217;s senior leadership team, helping to stand up a brokerage between mid-career professionals and the decentralized branch pipelines that controlled direct commission slots.During that time, I personally reviewed over 300 inquiries from accomplished professionals &#8212; data scienti
-
 ## Other
+
+### Voice AI in India is hard. Wispr Flow is betting on it anyway.
+- Source: TechCrunch
+- Published: 2026-05-10 02:00
+- Topics: Other
+- Link: https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/
+- Summary: Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.
+
+### Association between early chemoprophylaxis versus no chemoprophylaxis and risk of venous thromboembolism and bleeding complications after same-day spine surgery for central cord syndrome: a retrospective cohort analysis
+- Source: Nature
+- Published: 2026-05-10 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41393-026-01216-y
+
+### Multi-dimensional MRI representation and privileged learning approaches to functional outcome prediction for ischemic stroke patients
+- Source: Nature
+- Published: 2026-05-10 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41746-026-02708-0
+
+### Conspiracy theories meet real news: How QAnon tries to hijack the Internet
+- Source: Phys.org
+- Published: 2026-05-09 23:00
+- Topics: Other
+- Link: https://phys.org/news/2026-05-conspiracy-theories-real-news-qanon.html
+- Summary: "When people think of extremists, they tend to think of neo-Nazis," said Francesco Campisi, a lecturer at Université de Montréal's School of Criminology. "But there are many other fringe groups that may not be violent yet can give rise to extremism."
+
+### So you’ve heard these AI terms and nodded along; let’s fix that
+- Source: TechCrunch
+- Published: 2026-05-09 21:45
+- Topics: Other
+- Link: https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
+- Summary: The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
+
+### How river DNA can track fish, frogs, fungi and human feces all at once
+- Source: Phys.org
+- Published: 2026-05-09 21:00
+- Topics: Other
+- Link: https://phys.org/news/2026-05-river-dna-track-fish-frogs.html
+- Summary: A single scoop of water from an Irish river has revealed evidence not only of Ireland's only frog species—as expected—but also signs of the dreaded B. dendrobatidis fungus, marking the first time this devastating amphibian disease has been spotted in the country and exposing a previously unknown risk to Ireland's frog population.
+
+### 'Ghost of the forest' returns to Kenya as conservationists reintroduce rare antelope into the wild
+- Source: Phys.org
+- Published: 2026-05-09 20:00
+- Topics: Other
+- Link: https://phys.org/news/2026-05-ghost-forest-kenya-conservationists-reintroduce.html
+- Summary: The mountain bongo has become the "ghost of the forest," hard to spot amid the dense shrubs due to its ability to camouflage.
+
+### GM agrees to pay $12.75M in California driver privacy settlement
+- Source: TechCrunch
+- Published: 2026-05-09 19:05
+- Topics: Other
+- Link: https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/
+- Summary: General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.
+
+### Organic luminescent radicals enable bright circularly polarized light in the near-infrared region
+- Source: Phys.org
+- Published: 2026-05-09 18:00
+- Topics: Other
+- Link: https://phys.org/news/2026-05-luminescent-radicals-enable-bright-circularly.html
+- Summary: Circularly polarized light has properties that make it useful in a growing range of technologies, from next-generation 3D displays to bioimaging tools that can detect signals deep within living tissues. One way to produce this kind of light is with the help of chiral molecules—compounds that have a mirror-image form to which they cannot be perfectly superimposed. Among these, small organic molecules (SOMs) offer tunable emission wavelengths.
+
+### Ganymede's unique magnetic field may be powered by ongoing core formation—not a cooling core
+- Source: Phys.org
+- Published: 2026-05-09 16:10
+- Topics: Other
+- Link: https://phys.org/news/2026-05-ganymede-unique-magnetic-field-powered.html
+- Summary: Ganymede is not only Jupiter's largest moon, but also the largest in our solar system and one of the few that hosts a massive ice ocean. Adding to this planet-like moon's uniqueness is the fact that among the hundreds of moons in our solar system, Ganymede is the only one that generates its own magnetic field. While the prevailing view was that Ganymede generates this magnetic field through convection in an already-formed core, there are still uncertainties surrounding this idea.
+
+### The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally
+- Source: TechCrunch
+- Published: 2026-05-09 15:45
+- Topics: Other
+- Link: https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/
+- Summary: In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.
+
+### A snapshot of food insecurity among immigrants
+- Source: Phys.org
+- Published: 2026-05-09 13:30
+- Topics: Other
+- Link: https://phys.org/news/2026-05-snapshot-food-insecurity-immigrants.html
+- Summary: When you hear the term "food insecurity," what do you imagine? Do you equate it with poor dietary practices—in other words, eating badly? And do you believe the solution is getting people to better plan, shop for and prepare healthy meals?
+
+### A close brush with Mars will reshape NASA's Psyche journey in a way few missions attempt
+- Source: Phys.org
+- Published: 2026-05-09 12:48
+- Topics: Other
+- Link: https://phys.org/news/2026-05-mars-reshape-nasa-psyche-journey.html
+- Summary: NASA's Psyche spacecraft will get a boost from Mars on Friday, May 15, passing just 2,800 miles (4,500 kilometers) from the planet's surface at some 12,333 mph (19,848 kph). The spacecraft will harness the planet's gravitational pull to speed up and adjust its trajectory toward the metal-rich asteroid Psyche, one of the more unusual objects in our solar system.
+
+### What is the 'gray rock' method for dealing with narcissists or difficult family members?
+- Source: Phys.org
+- Published: 2026-05-09 12:30
+- Topics: Other
+- Link: https://phys.org/news/2026-05-gray-method-narcissists-difficult-family.html
+- Summary: If you're dealing with a relationship marked by conflict, criticism or manipulation—be it with a parent, co-parent or colleague—chances are you've come across the "gray rock" method on social media or advice blogs.
+
+### New catalyst unlocks carbon-free ammonia heat for steel, cement and chemicals
+- Source: Phys.org
+- Published: 2026-05-09 12:00
+- Topics: Other
+- Link: https://phys.org/news/2026-05-catalyst-carbon-free-ammonia-steel.html
+- Summary: A single-atom platinum catalyst lights ammonia at 200 °C and keeps it burning steadily at 1,100 °C with low NOx, generating high-grade, carbon-free heat for steel, cement and chemicals.
+
+### What to know about the predictions for a potentially record-breaking El Nino
+- Source: Phys.org
+- Published: 2026-05-09 10:00
+- Topics: Other
+- Link: https://phys.org/news/2026-05-potentially-el-nino.html
+- Summary: Seasonal models are predicting an El Niño climate pattern that could be the strongest on record, bringing with it more extreme weather.
+
+### Lonely Jupiter-like planet 900 light years away tells us more about gas giants
+- Source: Phys.org
+- Published: 2026-05-09 09:50
+- Topics: Other
+- Link: https://phys.org/news/2026-05-lonely-jupiter-planet-years-gas.html
+- Summary: One night last fall, University of Cincinnati astrophysics graduate Paul Smith waited anxiously for data to start rolling across his computer screen from the James Webb Space Telescope a million miles from Earth.
+
+### Workplace hurdles block immigrants from turning foreign credentials into matching jobs
+- Source: Phys.org
+- Published: 2026-05-09 09:05
+- Topics: Other
+- Link: https://phys.org/news/2026-05-workplace-hurdles-block-immigrants-foreign.html
+- Summary: From seasonal farmhands to health care workers to high-level software analysts, immigrant workers play a significant role in companies and industries across Canada and around the globe.
+
+### After USDA request, Indiana plant biologist locked out of lab by school
+- Source: Science
+- Published: 2026-05-09 01:55
+- Topics: Other
+- Link: https://www.science.org/content/article/after-usda-request-indiana-plant-biologist-locked-out-lab-school
+- Summary: Move comes after Roger Innes complained about the government’s prosecution of Chinese postdocs
 
 ### Why climate action stalls, despite widespread popular support
 - Source: Phys.org
@@ -776,6 +621,102 @@ Generated: 2026-05-09 07:29 UTC
 - Topics: Other
 - Link: https://phys.org/news/2026-05-climate-action-stalls-widespread-popular.html
 - Summary: What's the link between the global economy and the climate? Consumption drives extraction and carbon emissions. But there is more. The inequalities of the global economy don't just shape what goes into the atmosphere. They affect our understanding of the climate and our perspectives when it comes to possible solutions.
+
+### Evaluating the effect of a new myopia control spectacle lens among children in Israel: 24-month results
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41433-026-04455-8
+
+### Multi-omics integration predicts the incidence of 17 diseases in the UK Biobank
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41467-026-73017-z
+
+### Associations between body fat percentage estimated by the CUN-BAE equation and cardiometabolic risk indicators in adults with intellectual disabilities
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-52133-2
+
+### Elastokines are potentially associated with a poor prognosis in idiopathic pulmonary fibrosis
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-51836-w
+
+### Dataset documentation for responsible AI: analysis of suitability and usage for health datasets
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41746-026-02714-2
+
+### Clinician engagement shapes the impact of AI-based ECG screening for chronic liver disease in primary care
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41746-026-02718-y
+
+### Dose-dependent effects of radiotherapy on body composition, nutritional status, and clinical symptoms in head and neck cancer
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-51384-3
+
+### Multi-focal ultrasound neuromodulation to the dorsal anterior cingulate cortex disrupts behavioural and neural pain processing
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41467-026-72934-3
+
+### Randomized trial of carbonated water consumption on snacking behavior, alcohol intake, and health indices in healthy Japanese adults
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-51479-x
+
+### Polyphenol-rich extra-virgin olive oil influences bioenergetics and may modulate NLRP3 inflammasome in PBMCs from children and adolescents with obesity
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-51300-9
+
+### The influences of mandible-first versus maxilla-first sequencing on postoperative occlusion
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-52284-2
+
+### A dataset of clinical pediatric brain MRI with and without motion correction
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41597-026-07379-w
+
+### Flow dynamics and pressure modulation in a patient-specific upper airway using a pulsating nasal jet
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-52238-8
+
+### Advanced computer-aided diagnosis for age-related macular degeneration: integrating segmentation and feature extraction for precise diagnosis
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-46569-9
+
+### Plastination of biological materials using a vinyl-based polymer as an alternative method for preserving anatomical specimens
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-49665-y
+
+### Bayesian joint and individual component regression for multigroup physiological data
+- Source: Nature
+- Published: 2026-05-09 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-52063-z
 
 ### Laid-off Oracle workers tried to negotiate better severance. Oracle said no.
 - Source: TechCrunch
@@ -840,20 +781,6 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/
 - Summary: More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. "This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsidiaries."
 
-### Myanmar says giant 11,000-carat ruby found in Mogok could rank among most valuable
-- Source: Phys.org
-- Published: 2026-05-08 18:00
-- Topics: Other
-- Link: https://phys.org/news/2026-05-myanmar-giant-carat-ruby-mogok.html
-- Summary: A huge 11,000-carat ruby has been discovered in Myanmar, state media reported Friday, one of the largest ever found in the country renowned for its precious gemstones.
-
-### Spiral galaxy's brilliant heart shines bright in a new picture from NASA's Webb telescope
-- Source: Phys.org
-- Published: 2026-05-08 17:36
-- Topics: Other
-- Link: https://phys.org/news/2026-05-spiral-galaxy-brilliant-heart-bright.html
-- Summary: A spiral galaxy's brilliant heart outshines everything within sight in a new picture from NASA's Webb Space Telescope.
-
 ### Uber partner Avride is under investigation for self-driving crashes
 - Source: TechCrunch
 - Published: 2026-05-08 17:33
@@ -867,13 +794,6 @@ Generated: 2026-05-09 07:29 UTC
 - Topics: Other
 - Link: https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/
 - Summary: MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Eight passengers aboard a Dutch-flagged cruise ship have contracted a type of hantavirus, a rare virus transmitted by rats. Three of them have died. As the ship&#8230;
-
-### Understanding Japan's complex religious landscape
-- Source: Phys.org
-- Published: 2026-05-08 16:00
-- Topics: Other
-- Link: https://phys.org/news/2026-05-japan-complex-religious-landscape.html
-- Summary: On New Year's Day, millions of people in Japan visit Shinto shrines to pray for good fortune. In summer, many return to their hometowns to honor ancestors in Buddhist rituals. Families often maintain household altars, and seasonal festivals remain a central part of community life. Though this may look like a religious practice, many of them may identify themselves as nonreligious.
 
 ### First-of-its-kind electromagnetic spectrum exercise tests senior leaders in Arctic conditions
 - Source: Breaking Defense
@@ -910,54 +830,12 @@ Generated: 2026-05-09 07:29 UTC
 - Link: https://www.defensenews.com/global/asia-pacific/2026/05/08/india-to-build-strategic-outpost-near-key-shipping-lane-in-indo-pacific/
 - Summary: “This is what I call the Hormuz Strait effect," one analyst said, referring to the collapse of shipping through the vital waterway due to war.
 
-### Nanoscale design channels hybrid light–vibration waves to carry heat more efficiently
-- Source: Phys.org
-- Published: 2026-05-08 13:40
-- Topics: Other
-- Link: https://phys.org/news/2026-05-nanoscale-channels-hybrid-lightvibration-efficiently.html
-- Summary: Your phone warms up after a 20-minute FaceTime call. Your laptop hums loudly while editing a large video file. Heat is a by-product of modern electronics—from everyday gadgets to the high-resolution screens and processors that power electric vehicles.
-
-### Lime, the Uber-backed micromobility company, files for IPO
-- Source: TechCrunch
-- Published: 2026-05-08 13:21
-- Topics: Other
-- Link: https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/
-- Summary: After years of hints and preparation, Lime plans to enter the public markets. The company intends to list on ​Nasdaq under the ticker symbol "LIME." Lime did not share terms of the offering.
-
-### What makes some couples bounce back from stress so quickly? New clues emerge from cortisol and partner behavior
-- Source: Phys.org
-- Published: 2026-05-08 13:20
-- Topics: Other
-- Link: https://phys.org/news/2026-05-couples-stress-quickly-clues-emerge.html
-- Summary: How partners respond to stress may be as important as the stress itself, according to two new Canadian studies of lesbian, gay, bisexual, transgender and nonbinary couples. Known collectively as sexual and gender diverse (SGD) couples, these partners recover more efficiently from acute stress and display more engaged and coordinated support behaviors than cisgender heterosexual couples, the Université de Montréal studies found.
-
-### Nearly 3,000 peer-reviewed medical papers have fake citations, AI-assisted audit finds
-- Source: Phys.org
-- Published: 2026-05-08 13:00
-- Topics: Other
-- Link: https://phys.org/news/2026-05-peer-medical-papers-fake-citations.html
-- Summary: A new Columbia University School of Nursing AI-assisted audit reveals nearly 3,000 peer-reviewed medical papers have fake citations that do not exist in scientific databases. The results highlight an alarming trend in academic publishing as the use of AI grows.
-
-### The biggest US power grid is under strain from AI — and no one is happy
-- Source: TechCrunch
-- Published: 2026-05-08 13:00
-- Topics: Other
-- Link: https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/
-- Summary: PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.
-
 ### Rheinmetall Q1 sales jump 8% year on year, as naval business era begins with promise
 - Source: Breaking Defense
 - Published: 2026-05-08 12:55
 - Topics: Other
 - Link: https://breakingdefense.com/2026/05/rheinmetall-q1-sales-jump-8-percent-year-on-year-as-naval-business-era-begins-with-promise/
 - Summary: “The technology group’s order books remain at record levels,” said the Dusseldorf-based firm as it also predicted &#8220;significant growth acceleration&#8221; for Q2.
-
-### Airbnb says AI now writes 60% of its new code
-- Source: TechCrunch
-- Published: 2026-05-08 12:49
-- Topics: Other
-- Link: https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/
-- Summary: Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.
 
 ### Fiber optic cables can eavesdrop on nearby conversations
 - Source: Science
@@ -972,187 +850,3 @@ Generated: 2026-05-09 07:29 UTC
 - Topics: Other
 - Link: https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/
 - Summary: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’ve entered the era of AI malaise AI is spreading everywhere, and it is not going away. But what will it do? What effect will it have on our society? Will&#8230;
-
-### Trump administration cuts CDC’s key role in global program to stop HIV
-- Source: Science
-- Published: 2026-05-08 03:55
-- Topics: Other
-- Link: https://www.science.org/content/article/trump-administration-cuts-cdc-s-key-role-global-program-stop-hiv
-- Summary: State Department would send PEPFAR money directly to countries, which could then pay fees to health agency for help
-
-### Efsubaglutide alfa added to metformin improves glycaemia with β-cell functional responses in type 2 diabetes: a randomised, double-blind, placebo-controlled, two-stage adaptive phase 2b/3 trial (SUPER 2)
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41467-026-72574-7
-
-### Quality, reliability, and treatment misinformation risk of epilepsy content on Chinese short-video platforms TikTok (Douyin) and Bilibili: a cross-sectional analysis
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-52532-5
-
-### CD38⁺ endothelial remodeling marks spatially patterned vasculopathy in rapidly advancing periodontitis and peri-implantitis
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41467-026-72452-2
-
-### Maternal RSV vaccination generates high-affinity antibodies that efficiently transfer to infants, providing enhanced passive immunity
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41467-026-72659-3
-
-### Combination of dysfunctional beliefs about sleep and excessive daytime sleepiness as a psychobehavioral characteristic of comorbid insomnia and sleep apnea
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-50792-9
-
-### Simultaneous PET/fMRI distinguishes the separate and synergistic effects of T2DM and MCI on cerebral glucose metabolism and fALFF
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-51990-1
-
-### Association of serum Wnt1-inducible signaling pathway protein 1 (WISP1) levels with osteoarthritis and obesity-related inflammation in obese adults
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-52502-x
-
-### Prenatal maternal antibiotic use increases the risk of childhood eczema: a systematic review and meta-analysis
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-51441-x
-
-### The effects of tissue flossing on neuromuscular activation in patients with chronic ankle instability: a randomized controlled trial
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-50154-5
-
-### Sex-stratified associations of TyG index and HOMA-IR changes with incident type 2 diabetes
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-52072-y
-
-### Sequential versus upfront oxaliplatin-based therapy in metastatic colorectal cancer: long-term outcomes of a randomized phase 3 trial
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s43856-026-01633-3
-
-### Real-world evidence of the impact of polypharmacy on mortality and recovery after hip fracture in elderly patients
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-52300-5
-
-### Comparative efficacy of zinc oxide nanoparticles, MSC-derived microvesicles, and platelet-rich fibrin in rabbit tendon regeneration
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-46509-7
-
-### Macular thickness profile in an adult population using Spectralis spectral-domain optical coherence tomography
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-52064-y
-
-### Akkermansia muciniphila drives viscero-visceral crosstalk via 5-HT3aR-mediated sensitization of dichotomizing gut–bladder neurons
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s12276-026-01720-4
-
-### Effects of providing access to a cycling exergaming platform on cardiorespiratory fitness and cardiometabolic health in adolescents: a randomised, controlled trial
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-48327-3
-
-### A rare mutation (p.Ala264Thr) of GATA4 is responsible for atrial septal defect and pulmonary valve stenosis
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-52332-x
-
-### Infectious disease outcomes of NASA’s health stabilization program
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41526-026-00593-1
-
-### A community-based exercise intervention to reduce functional risk factors for injury among stroke survivors in South Korea: a pilot randomized controlled trial
-- Source: Nature
-- Published: 2026-05-08 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-50927-y
-
-### MDA Space Satellite Revenue Grows 40% in Q1, Greenley Says ‘No Change’ Due to Globalstar Deal
-- Source: Satellite Today
-- Published: 2026-05-07 19:51
-- Topics: Other
-- Link: https://www.satellitetoday.com/finance/2026/05/07/mda-space-satellite-revenue-grows-40-in-q1-greenley-says-no-change-due-to-globalstar-deal/
-- Summary: MDA Space posted 32% year-over-year revenue growth in the first quarter of 2026 and more than 40% growth for its satellite manufacturing business, driven by work for Telesat Lightspeed and [&#8230;] The post MDA Space Satellite Revenue Grows 40% in Q1, Greenley Says &#8216;No Change&#8217; Due to Globalstar Deal appeared first on Via Satellite .
-
-### AI ‘explainability’ is a ‘major concern’ for National Reconnaissance Office: Director
-- Source: Breaking Defense
-- Published: 2026-05-07 14:38
-- Topics: Other
-- Link: https://breakingdefense.com/2026/05/ai-explainability-is-a-major-concern-for-national-reconnaissance-office-director/
-- Summary: Outgoing NRO Director Chris Scolese said the agency is expanding its work to allow analysts to understand how AI does its analysis.
-
-### The Download: the tech reshaping IVF and the rise of balcony solar
-- Source: MIT Technology Review
-- Published: 2026-05-07 12:10
-- Topics: Other
-- Link: https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/
-- Summary: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed&#8230;
-
-### Ancient ice core could help explain mysterious shift in Earth’s ice ages
-- Source: Science
-- Published: 2026-05-07 11:45
-- Topics: Other
-- Link: https://www.science.org/content/article/ancient-ice-core-could-help-explain-mysterious-shift-earth-s-ice-ages
-- Summary: Record-setting Antarctic archive reveals sharp swings in carbon dioxide 1 million years ago
-
-### AI ‘blueprint’ coming soon to NGA to help ‘operationalize’ GEOINT
-- Source: Breaking Defense
-- Published: 2026-05-07 11:30
-- Topics: Other
-- Link: https://breakingdefense.com/2026/05/ai-blueprint-coming-soon-to-nga-to-help-operationalize-geoint/
-- Summary: In her first major speech since taking the reins at NGA, Lt. Gen. Michelle Bredenkamp also said the agency has stood up a new Rapid Capabilities Office to speed integration of innovative commercial tech.
-
-### The balcony solar boom is coming to the US
-- Source: MIT Technology Review
-- Published: 2026-05-07 10:00
-- Topics: Other
-- Link: https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/
-- Summary: Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for&#8230;
-
-### Dueling Victory Day ceasefires for war in Ukraine collapse almost immediately
-- Source: Defense News
-- Published: 2026-05-07 09:18
-- Topics: Other
-- Link: https://www.defensenews.com/global/europe/2026/05/07/dueling-victory-day-ceasefires-for-war-in-ukraine-collapse-almost-immediately/
-- Summary: Both sides had proclaimed a ceasefire surrounding the important celebration marking the Soviet Union’s contribution to victory over Nazi Germany.
-
-### What’s next for IVF
-- Source: MIT Technology Review
-- Published: 2026-05-07 09:04
-- Topics: Other
-- Link: https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/
-- Summary: MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered&#8230;
-
-### What to do with the passengers on the cruise ship hit by hantavirus?
-- Source: Science
-- Published: 2026-05-07 08:10
-- Topics: Other
-- Link: https://www.science.org/content/article/what-do-passengers-cruise-ship-hit-hantavirus
-- Summary: Past studies of Andes virus offer scant evidence on transmission risks, and have sparked debate
