@@ -1,6 +1,6 @@
 # Daily Intelligence Report
 
-Generated: 2026-07-05 08:36 UTC
+Generated: 2026-07-06 09:50 UTC
 
 ## AI
 
@@ -11,41 +11,28 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
 - Summary: Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 
-### AI must be built with Indigenous Knowledges, not against them
-- Source: Phys.org
-- Published: 2026-07-04 02:20
-- Topics: AI
-- Link: https://phys.org/news/2026-07-ai-built-indigenous-knowledges.html
-- Summary: As Australia marks 50 years of NAIDOC Week, honoring the world's oldest living culture, humanity's newest technology has yet to reckon with a simple principle: "nothing about us, without us." The concern is that artificial intelligence (AI), like so many technologies before it, will become another extractive force that "takes" Indigenous Knowledges without consent, credit or return.
-
-### pH-sensitive gelatin–montmorillonite–cerium oxide nanocarriers for controlled quercetin delivery and machine learning release prediction
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: AI
-- Link: https://www.nature.com/articles/s41598-026-59424-8
-
-### How generative AI and physics can help design new antibiotics
-- Source: Phys.org
-- Published: 2026-07-03 22:00
-- Topics: Science, AI
-- Link: https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html
-- Summary: By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.
-
-### Free-text answers and LLMs reveal hidden reasons behind human choices
-- Source: Phys.org
-- Published: 2026-07-03 19:00
-- Topics: Science, AI
-- Link: https://phys.org/news/2026-07-free-text-llms-reveal-hidden.html
-- Summary: Why do people make the choices they do? Researchers from the Center Synergy of Systems (SynoSys) at TUD Dresden University of Technology, the Max Planck Institute for Human Development, and the University of Basel present their new approach to finding answers to that question. The approach combines observed choices with participants' own descriptions of their decision processes, allowing researchers to study human behavior in greater detail than is possible with behavioral data alone.
-
-### London’s geoSurge raises €10 million to help brands understand AI-generated outputs
-- Source: EU-Startups
-- Published: 2026-07-03 10:50
-- Topics: AI, Funding
-- Link: https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/
-- Summary: geoSurge, a British DeepTech AI company helping brands shape how they are represented inside generative AI systems, announced a €10 million ($12 million) Seed round to expand its global research and engineering teams, invest in AI infrastructure and compute capacity, and accelerate development of its Corpus Engineering discipline. The round was led by AlbionVC, with [&#8230;] The post London&#8217;s geoSurge raises €10 million to help brands understand AI-generated outputs appeared first on EU-S
-
 ## Defense
+
+### A Catholic Security Scholar’s Case for Responsible Military AI
+- Source: War on the Rocks
+- Published: 2026-07-06 07:30
+- Topics: Defense
+- Link: https://warontherocks.com/a-catholic-security-scholars-case-for-responsible-military-ai/
+- Summary: What do you do when two identities that make up your deepest self find themselves on opposite sides of a moral and spiritual battlefield?I am Catholic. I have been one for over 20 years since I made the life-altering decision to join a friend for Mass one day. My faith became a spiritual and ethical foundation at a time I sorely needed it, so much so that for a time, I contemplated entering the priesthood, which replaced my previous career goal of entering the CIA. I eventually realized that tea
+
+### Airbus to build Aeolus-2 wind-monitoring satellite
+- Source: SpaceNews
+- Published: 2026-07-05 15:17
+- Topics: Defense
+- Link: https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/
+- Summary: The European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite. The post Airbus to build Aeolus-2 wind-monitoring satellite appeared first on SpaceNews .
+
+### Japan space probe skims asteroid in test for planetary defense
+- Source: Phys.org
+- Published: 2026-07-05 14:30
+- Topics: Defense
+- Link: https://phys.org/news/2026-07-japan-space-probe-skims-asteroid.html
+- Summary: A Japanese space probe performed a flyby of a near-Earth asteroid on Sunday in a test mission for technology that could help protect the planet from space rocks.
 
 ### GAO flags satellite costs, launch risks in Space Force portfolio
 - Source: SpaceNews
@@ -54,59 +41,93 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/
 - Summary: Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches The post GAO flags satellite costs, launch risks in Space Force portfolio appeared first on SpaceNews .
 
-### Europeans to fill almost all gaps left by US in NATO defense plans, source says
-- Source: Defense News
-- Published: 2026-07-03 14:00
-- Topics: Defense
-- Link: https://www.defensenews.com/global/europe/2026/07/03/europeans-to-fill-almost-all-gaps-left-by-us-in-nato-defense-plans-source-says/
-- Summary: The U.S. told its allies in May that it had decided to shrink the pool of military capabilities committed to the transatlantic alliance in a crisis.
-
 ## Biotech
 
-### Therapeutic potential of crude protein extracts from two Egyptian freshwater snails Lanistes carinatus and Bellamya unicolor
+### AI-guided CRISPR screening reveals therapeutic targets in psoriasis
 - Source: Nature
-- Published: 2026-07-04 00:00
+- Published: 2026-07-06 00:00
 - Topics: Biotech
-- Link: https://www.nature.com/articles/s41598-026-60044-5
+- Link: https://www.nature.com/articles/s41467-026-75249-5
 
-### Conservation genomics faces growing calls to center Indigenous knowledge and data rights
-- Source: Phys.org
-- Published: 2026-07-03 23:40
+### Assessment of the therapeutic efficacy of Holothuria polii extract during the muscular phase of Trichinella spiralis infection in albino mice
+- Source: Nature
+- Published: 2026-07-05 00:00
 - Topics: Biotech
-- Link: https://phys.org/news/2026-07-genomics-center-indigenous-knowledge-rights.html
-- Summary: Throughout human ecological history, we have played a variety of roles within ecosystems around the world. In this so-called Anthropocene era, genomic innovations have given us new and powerful ways to influence the environment and the countless species with whom we share the planet.
-
-### Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues
-- Source: Phys.org
-- Published: 2026-07-03 20:40
-- Topics: Science, Biotech
-- Link: https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html
-- Summary: In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence.
+- Link: https://www.nature.com/articles/s41598-026-60075-y
 
 ## Startups
 
-### Weekly funding round-up! All of the European startup funding rounds we tracked this week (June 29-July 03)
+### Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine compounding
 - Source: EU-Startups
-- Published: 2026-07-03 15:01
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-29-july-03/
-- Summary: This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you [&#8230;] The post Weekly funding round-up! All of the European startup funding rounds we tracked this week (June 29-July 03) appeared first on EU-Startups .
-
-### Espoo-based IQM goes public on Nasdaq in European quantum first with €127 million in PIPE financing
-- Source: EU-Startups
-- Published: 2026-07-03 11:46
+- Published: 2026-07-06 09:16
 - Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/07/espoo-based-iqm-goes-public-on-nasdaq-in-european-quantum-first-with-e127-million-in-pipe-financing/
-- Summary: Espoo-based quantum computing company IQM Quantum Computers has become publicly traded, raising €127 million ($146 million) in PIPE financing as part of its move onto the public markets in both the U.S. and Finland. The PIPE financing, a private investment arranged alongside the listing, included participation from Tesi. Additional shareholders at listing include Ilmarinen, Elo, [&#8230;] The post Espoo-based IQM goes public on Nasdaq in European quantum first with €127 million in PIPE financing
+- Link: https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/
+- Summary: CurifyLabs, a Helsinki-based HealthTech company transforming how personalised medicines are made, today announced the closing of a €12 million ($14 million) Series A round to expand U.S. operations, strengthen supply chain infrastructure, enhance customer support, and accelerate product innovation. The round was co-led by Sandwater and HealthCap, with participation from Tesi (Finnish Industry Investment Ltd.) [&#8230;] The post Finland&#8217;s CurifyLabs raises €12 million to expand 3D printing-
 
-### Why legal literacy is becoming startup currency
+### France’s Skello secures €200 million to grow its AI tools for frontline workforce management
 - Source: EU-Startups
-- Published: 2026-07-03 08:49
+- Published: 2026-07-06 08:38
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/
+- Summary: Paris-based Skello, an AI-powered HR management solution for frontline teams, announces a €200 million investment in order to accelerate its European expansion and its ongoing investments in AI. The investment was sourced from Bridgepoint, becoming Skello&#8217;s lead minority shareholder through Bridgepoint Development Capital V, a lower middle-market fund focused on fast-growing European businesses. Past investors [&#8230;] The post France&#8217;s Skello secures €200 million to grow its AI too
+
+### This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon
+- Source: TechCrunch
+- Published: 2026-07-06 06:05
+- Topics: Startups
+- Link: https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/
+- Summary: While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+### Almost 90 new unicorns have been minted so far this year — here they are
+- Source: TechCrunch
+- Published: 2026-07-05 12:47
 - Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/07/why-legal-literacy-is-becoming-startup-currency/
-- Summary: For most of the last decade, legal has been the thing founders put off. You raise a round, you sign a stack of documents you half-read, and you tell yourself you’ll &#8220;sort the legal stuff out properly&#8221; once you can afford a lawyer. Legal sits in the same mental bucket as a nice office or a [&#8230;] The post Why legal literacy is becoming startup currency appeared first on EU-Startups .
+- Link: https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/
+- Summary: With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
 
 ## Funding
+
+### Finland’s CurifyLabs raises €12 million to expand 3D printing-based medicine compounding
+- Source: EU-Startups
+- Published: 2026-07-06 09:16
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/07/finlands-curifylabs-raises-e12-million-to-expand-3d-printing-based-medicine-compounding/
+- Summary: CurifyLabs, a Helsinki-based HealthTech company transforming how personalised medicines are made, today announced the closing of a €12 million ($14 million) Series A round to expand U.S. operations, strengthen supply chain infrastructure, enhance customer support, and accelerate product innovation. The round was co-led by Sandwater and HealthCap, with participation from Tesi (Finnish Industry Investment Ltd.) [&#8230;] The post Finland&#8217;s CurifyLabs raises €12 million to expand 3D printing-
+
+### Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent
+- Source: TechCrunch
+- Published: 2026-07-06 09:00
+- Topics: Funding
+- Link: https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
+- Summary: Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation.
+
+### France’s Skello secures €200 million to grow its AI tools for frontline workforce management
+- Source: EU-Startups
+- Published: 2026-07-06 08:38
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/07/frances-skello-secures-e200-million-to-grow-its-ai-tools-for-frontline-workforce-management/
+- Summary: Paris-based Skello, an AI-powered HR management solution for frontline teams, announces a €200 million investment in order to accelerate its European expansion and its ongoing investments in AI. The investment was sourced from Bridgepoint, becoming Skello&#8217;s lead minority shareholder through Bridgepoint Development Capital V, a lower middle-market fund focused on fast-growing European businesses. Past investors [&#8230;] The post France&#8217;s Skello secures €200 million to grow its AI too
+
+### NASA and Small Business Administration partner on funding key space technologies
+- Source: SpaceNews
+- Published: 2026-07-06 01:43
+- Topics: Funding
+- Link: https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/
+- Summary: NASA is partnering with the U.S. Small Business Administration (SBA) on an effort to attract capital to invest in companies producing critical space components. The post NASA and Small Business Administration partner on funding key space technologies appeared first on SpaceNews .
+
+### Trump memecoin investors lost $3.8 billion, analysis finds
+- Source: TechCrunch
+- Published: 2026-07-05 20:29
+- Topics: Funding
+- Link: https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/
+- Summary: Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.
+
+### Almost 90 new unicorns have been minted so far this year — here they are
+- Source: TechCrunch
+- Published: 2026-07-05 12:47
+- Topics: Startups, Funding
+- Link: https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/
+- Summary: With AI igniting an investor frenzy, more startups are achieving unicorn status every month.
 
 ### What is Mistral AI? Everything to know about the OpenAI competitor
 - Source: TechCrunch
@@ -115,42 +136,14 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/
 - Summary: Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”
 
-### Weekly funding round-up! All of the European startup funding rounds we tracked this week (June 29-July 03)
-- Source: EU-Startups
-- Published: 2026-07-03 15:01
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/07/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-june-29-july-03/
-- Summary: This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you [&#8230;] The post Weekly funding round-up! All of the European startup funding rounds we tracked this week (June 29-July 03) appeared first on EU-Startups .
-
-### Chinese satellite manufacturer Hongqing raises $191 million
-- Source: SpaceNews
-- Published: 2026-07-03 13:10
-- Topics: Funding
-- Link: https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/
-- Summary: HELSINKI — Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round, announced [&#8230;] The post Chinese satellite manufacturer Hongqing raises $191 million appeared first on SpaceNews .
-
-### Espoo-based IQM goes public on Nasdaq in European quantum first with €127 million in PIPE financing
-- Source: EU-Startups
-- Published: 2026-07-03 11:46
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/07/espoo-based-iqm-goes-public-on-nasdaq-in-european-quantum-first-with-e127-million-in-pipe-financing/
-- Summary: Espoo-based quantum computing company IQM Quantum Computers has become publicly traded, raising €127 million ($146 million) in PIPE financing as part of its move onto the public markets in both the U.S. and Finland. The PIPE financing, a private investment arranged alongside the listing, included participation from Tesi. Additional shareholders at listing include Ilmarinen, Elo, [&#8230;] The post Espoo-based IQM goes public on Nasdaq in European quantum first with €127 million in PIPE financing
-
-### London’s geoSurge raises €10 million to help brands understand AI-generated outputs
-- Source: EU-Startups
-- Published: 2026-07-03 10:50
-- Topics: AI, Funding
-- Link: https://www.eu-startups.com/2026/07/londons-geosurge-raises-e10-million-to-help-brands-understand-ai-generated-outputs/
-- Summary: geoSurge, a British DeepTech AI company helping brands shape how they are represented inside generative AI systems, announced a €10 million ($12 million) Seed round to expand its global research and engineering teams, invest in AI infrastructure and compute capacity, and accelerate development of its Corpus Engineering discipline. The round was led by AlbionVC, with [&#8230;] The post London&#8217;s geoSurge raises €10 million to help brands understand AI-generated outputs appeared first on EU-S
-
-### Why legal literacy is becoming startup currency
-- Source: EU-Startups
-- Published: 2026-07-03 08:49
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/07/why-legal-literacy-is-becoming-startup-currency/
-- Summary: For most of the last decade, legal has been the thing founders put off. You raise a round, you sign a stack of documents you half-read, and you tell yourself you’ll &#8220;sort the legal stuff out properly&#8221; once you can afford a lawyer. Legal sits in the same mental bucket as a nice office or a [&#8230;] The post Why legal literacy is becoming startup currency appeared first on EU-Startups .
-
 ## Space
+
+### The Biggest Fundraises of H1 2026
+- Source: Payload Space
+- Published: 2026-07-06 02:42
+- Topics: Space
+- Link: https://payloadspace.com/the-biggest-fundraises-of-h1-2026/
+- Summary: This is a case where a rising rocket lifts all payloads, around the world. The post The Biggest Fundraises of H1 2026 appeared first on Payload .
 
 ### Planned 1.7 million satellites 'devastating' for astronomy: Study
 - Source: Phys.org
@@ -166,14 +159,77 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/
 - Summary: Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches The post GAO flags satellite costs, launch risks in Space Force portfolio appeared first on SpaceNews .
 
-### Pegasus launches Swift reboost mission
-- Source: SpaceNews
-- Published: 2026-07-03 20:55
-- Topics: Space
-- Link: https://spacenews.com/pegasus-launches-swift-reboost-mission/
-- Summary: A Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket. The post Pegasus launches Swift reboost mission appeared first on SpaceNews .
-
 ## Science
+
+### Researchers use AI to evaluate a systematic framework to describe molecular order in liquid water
+- Source: Phys.org
+- Published: 2026-07-06 09:00
+- Topics: Science
+- Link: https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html
+- Summary: Water is the most abundant liquid on Earth's surface, and it is highly anomalous compared with other liquids because it expands upon freezing. The anomalies in water have been linked to how its microscopic structure changes with temperature and pressure. However, there is no systematic scheme for characterizing these structural changes.
+
+### How we can coexist with coyotes, and other lessons from Stanley Park: Q&A with zoologists
+- Source: Phys.org
+- Published: 2026-07-06 09:00
+- Topics: Science
+- Link: https://phys.org/news/2026-07-coexist-coyotes-lessons-stanley-qa.html
+- Summary: Researchers are sharing lessons from the unprecedented Stanley Park coyote attacks from 2020 to 2021 to help people better coexist with urban wildlife.
+
+### China's space probe reaches asteroid after 1-billion-kilometer chase for first sample return
+- Source: Phys.org
+- Published: 2026-07-06 08:17
+- Topics: Science
+- Link: https://phys.org/news/2026-07-china-space-probe-asteroid-billion.html
+- Summary: China's Tianwen-2 space probe, which is set to bring back samples from an asteroid for research, has reached its target after traveling 1 billion kilometers (620 million miles) over more than a year, the Chinese space agency said Monday.
+
+### Rats show empathy, according to model
+- Source: Phys.org
+- Published: 2026-07-05 20:00
+- Topics: Science
+- Link: https://phys.org/news/2026-07-rats-empathy.html
+- Summary: A rat first frees a cagemate rat and then shares food with it. Is this animal just as empathetic as humans? In an American study from 2011, researchers observed that rats first freed their fellow rats from a cage and then shared food with them instead of leaving them in the cage and eating alone; this means they showed empathy. But do they have the same capacity for empathy as we humans, or do we differ in that regard?
+
+### Spring songbirds may help pollinate UK trees, with pollen on 89% of studied birds
+- Source: Phys.org
+- Published: 2026-07-05 20:00
+- Topics: Science
+- Link: https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html
+- Summary: The warblers—those harbingers of spring in the U.K.—have an unappreciated talent of a different sort. Common U.K. birds, including chiffchaffs and blackcaps, are playing a real role in the pollination of plants, according to new research in the Journal of Ecology.
+
+### A nearby black hole as a window into the early universe
+- Source: Phys.org
+- Published: 2026-07-05 16:00
+- Topics: Science
+- Link: https://phys.org/news/2026-07-nearby-black-hole-window-early.html
+- Summary: An international team led by Stefanie Komossa from the Max Planck Institute for Radio Astronomy (MPIfR) in Bonn has studied a galaxy that has been shining exceptionally brightly in the radio regime for more than eight years. Although it is only 1.8 billion light-years away from us, the central black hole in the galaxy exhibits properties typical of the early universe. New observations and archival data suggest that, for several years now, more matter has been falling into the black hole, trigger
+
+### Laughter may date back 15 million years, shared by humans and great apes
+- Source: Phys.org
+- Published: 2026-07-05 15:20
+- Topics: Science
+- Link: https://phys.org/news/2026-06-humans-great-apes-similar-giggles.html
+- Summary: Humans and great apes have been giggling in similar ways since branching off the evolutionary tree, a new study suggests.
+
+### Rare 309-million-year-old fossils suggest early tetrapods developed without tadpole phase
+- Source: Phys.org
+- Published: 2026-07-05 13:20
+- Topics: Science
+- Link: https://phys.org/news/2026-06-rare-million-year-fossils-early.html
+- Summary: Scientists have long posited that the earliest water animals to transition to land had amphibious tadpole features, going through a metamorphosis akin to that of today's frogs.
+
+### Wild yeast discovery enables non-GM brewing of ornithine-enriched craft beer
+- Source: Phys.org
+- Published: 2026-07-05 11:40
+- Topics: Science
+- Link: https://phys.org/news/2026-07-wild-yeast-discovery-enables-gm.html
+- Summary: As consumer interest grows in foods and beverages with added nutritional value, brewers are exploring ways to improve fermentation itself rather than relying on post-production additives. Ornithine, a naturally occurring amino acid involved in several biological processes, has attracted attention as a promising ingredient for value-added products. However, increasing ornithine production in brewing yeast is difficult because the metabolic pathway is tightly regulated, making conventional improve
+
+### Spain data on 5.5 million convictions challenges immigration-crime link
+- Source: Phys.org
+- Published: 2026-07-05 11:00
+- Topics: Science
+- Link: https://phys.org/news/2026-07-spain-million-convictions-immigration-crime.html
+- Summary: When analyzing crime, the foreign population typically shows higher rates than the native population. However, crime statistics change significantly when comparing groups of the same age and gender. A detailed data analysis conducted in a study by the Universidad Carlos III de Madrid (UC3M) demonstrates that the apparent crime gap between the foreign and native populations is primarily due to the fact that the immigrant profile tends to concentrate more young men—the demographic sector with the 
 
 ### How proteins are inserted into cell membranes
 - Source: Phys.org
@@ -196,119 +252,166 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://phys.org/news/2026-07-optical-antiferromagnets-storage-devices-energy.html
 - Summary: A German-Japanese research team involving the University of Augsburg has made a significant breakthrough in the use of antiferromagnets. For the first time, the team has succeeded in writing magnetic information using only ultrashort laser pulses—without the need for electric currents or magnetic fields.
 
-### Ancient teeth from Siberia rewrite the plague's timeline, dating back to over 5,500 years ago
-- Source: Phys.org
-- Published: 2026-07-04 18:40
-- Topics: Science
-- Link: https://phys.org/news/2026-06-ancient-teeth-siberia-rewrite-plague.html
-- Summary: Scientists have found the oldest known evidence of the plague, which sparked deadly outbreaks dating back about 5,500 years ago—some 200 years earlier than previously thought.
-
-### Common nanostructures may explain shared photoproperties in two widespread dark materials
-- Source: Phys.org
-- Published: 2026-07-04 18:00
-- Topics: Science
-- Link: https://phys.org/news/2026-06-common-nanostructures-photoproperties-widespread-dark.html
-- Summary: A newly developed framework for understanding the photoproperties of both natural organic matter and eumelanin, a natural pigment responsible for dark colors in organisms, may inspire advanced sustainable technologies, scientists say.
-
-### Greenland meltwater adds to AMOC weakening, but updated model finds no tipping point in sight
-- Source: Phys.org
-- Published: 2026-07-04 17:00
-- Topics: Science
-- Link: https://phys.org/news/2026-07-greenland-meltwater-amoc-weakening-sight.html
-- Summary: The state of the Atlantic Meridional Overturning Circulation (AMOC) has been a hot topic among climate scientists in recent years. The AMOC is crucial for climate regulation because it pulls warm surface water from the tropics north and sends colder, deeper water south, redistributing large amounts of heat, helping to sustain marine ecosystems and keeping global weather patterns steady. However, most standard AMOC-focused climate models may be missing an important piece of the puzzle—they don't 
-
-### A rare dinosaur fossil from Antarctica is found tucked away in a drawer
-- Source: Phys.org
-- Published: 2026-07-04 16:00
-- Topics: Science
-- Link: https://phys.org/news/2026-06-rare-dinosaur-fossil-antarctica-tucked.html
-- Summary: Scientists have stumbled on a rare dinosaur fossil from Antarctica, tucked away for decades in a drawer.
-
-### Rising seas make once-rare coastal floods 12 times more likely
-- Source: Phys.org
-- Published: 2026-07-04 14:30
-- Topics: Science
-- Link: https://phys.org/news/2026-06-seas-rare-coastal.html
-- Summary: Extreme floods that once swamped coastal communities only rarely are becoming far more common as climate change caused by humans pushes sea levels higher, according to new research published Wednesday. Experts say the findings are crucial for making plans about floods and coastal infrastructure as the planet warms.
-
-### Astronomers may have caught an early galaxy in the process of dying
-- Source: Phys.org
-- Published: 2026-07-04 13:40
-- Topics: Science
-- Link: https://phys.org/news/2026-06-astronomers-caught-early-galaxy-dying.html
-- Summary: Astronomers have spotted many "red and dead" galaxies in the early universe. These are massive systems that stopped forming stars surprisingly early in cosmic history. Now, they may have found evidence of one in the act of becoming dead: a massive galaxy being stripped of its star-forming gas just 1.4 billion years after the Big Bang. The clues behind why it lost its star-forming material are detailed in a paper posted to the arXiv preprint server on June 16.
-
-### Trained AI outperforms biologists at spotting salmon lice
-- Source: Phys.org
-- Published: 2026-07-04 13:00
-- Topics: Science
-- Link: https://phys.org/news/2026-07-ai-outperforms-biologists-salmon-lice.html
-- Summary: Researchers have taken over 120,000 images of salmon lice larvae in seawater and used them to train AI models. The models were much faster and more accurate than experienced biologists at identifying the parasites that feed on the skin and blood of salmonids.
-
-### Scientists find yeast in ancient Iceman's guts—and make bread
-- Source: Phys.org
-- Published: 2026-07-04 08:00
-- Topics: Science
-- Link: https://phys.org/news/2026-06-scientists-yeast-ancient-iceman-guts.html
-- Summary: Yeast has been growing in the guts of a frozen mummy called Oetzi the Iceman for thousands of years, scientists have discovered, telling AFP they used it to make a tasty sourdough bread.
-
-### New species of ghost shark may have been found in Costa Rica
-- Source: Phys.org
-- Published: 2026-07-04 07:50
-- Topics: Science
-- Link: https://phys.org/news/2026-07-species-ghost-shark-costa-rica.html
-- Summary: Costa Rican scientists may have discovered a new species of ghost shark in Pacific waters near Cabo Blanco and Cano Island.
-
-### Insect-borne diseases in the Amazon linked to land use and rural economies
-- Source: Phys.org
-- Published: 2026-07-04 00:40
-- Topics: Science
-- Link: https://phys.org/news/2026-07-insect-borne-diseases-amazon-linked.html
-- Summary: Diseases spread by insects in the Brazilian Amazon are not randomly distributed but form distinct regional patterns linked to land use, rural economies and environmental change, according to new research led by the Environmental Change Institute (ECI) at the University of Oxford.
-
-### Plug-and-play single-photon source can work at room temperature
-- Source: Phys.org
-- Published: 2026-07-03 22:40
-- Topics: Science
-- Link: https://phys.org/news/2026-07-play-photon-source-room-temperature.html
-- Summary: The Korea Research Institute of Standards and Science (KRISS) has developed a room-temperature single-photon source built into a compact 19-inch rack-mounted device that operates without cryogenic cooling. Designed as a plug-and-play system that works as soon as it is powered on, the device moves quantum light source technology beyond the laboratory and closer to practical, onsite use.
-
-### How generative AI and physics can help design new antibiotics
-- Source: Phys.org
-- Published: 2026-07-03 22:00
-- Topics: Science, AI
-- Link: https://phys.org/news/2026-07-generative-ai-physics-antibiotics.html
-- Summary: By 2050, scientists estimate that antibiotic-resistant infections will be associated with more than 8 million deaths around the world every year.
-
-### Small-molecule switches put therapeutic CRISPR editing under on-demand control in living tissues
-- Source: Phys.org
-- Published: 2026-07-03 20:40
-- Topics: Science, Biotech
-- Link: https://phys.org/news/2026-07-small-molecule-therapeutic-crispr-demand.html
-- Summary: In a study published in Science Translational Medicine, a team of researchers led by Dr. Wang Yu from the Shenzhen Institutes of Advanced Technology of the Chinese Academy of Sciences developed PRINCE and Little Prince, dual small-molecule-controlled genome editing systems that allow CRISPR activity to be switched on by drug inducers and kept largely silent in their absence.
-
-### Gentle nudges for increased animal welfare
-- Source: Phys.org
-- Published: 2026-07-03 20:00
-- Topics: Science
-- Link: https://phys.org/news/2026-07-gentle-nudges-animal-welfare.html
-- Summary: Gentle purchase incentives can lead customers to choose groceries with higher animal husbandry standards more often. A recent study at the University of Bonn at least suggests this. The researchers used two different animal welfare label posters as "nudges." Each poster changed the consumer behavior of participants shopping in a virtual supermarket. The share of products with higher animal welfare standards in the shopping cart was highest when both posters were combined. Further studies have ye
-
-### Free-text answers and LLMs reveal hidden reasons behind human choices
-- Source: Phys.org
-- Published: 2026-07-03 19:00
-- Topics: Science, AI
-- Link: https://phys.org/news/2026-07-free-text-llms-reveal-hidden.html
-- Summary: Why do people make the choices they do? Researchers from the Center Synergy of Systems (SynoSys) at TUD Dresden University of Technology, the Max Planck Institute for Human Development, and the University of Basel present their new approach to finding answers to that question. The approach combines observed choices with participants' own descriptions of their decision processes, allowing researchers to study human behavior in greater detail than is possible with behavioral data alone.
-
-### A device that revives eyeballs from dead donors could make eye transplants possible
-- Source: MIT Technology Review
-- Published: 2026-07-03 17:34
-- Topics: Science
-- Link: https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/
-- Summary: It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains&#8230;
-
 ## Other
+
+### Tianwen-2 arrives at asteroid Kamo’oalewa, first image revealed
+- Source: SpaceNews
+- Published: 2026-07-06 09:14
+- Topics: Other
+- Link: https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/
+- Summary: HELSINKI — China’s Tianwen-2 sample return spacecraft has arrived at Kamoʻoalewa, revealing the near Earth asteroid to be a small, elongated rocky body. Tianwen-2 launched May 29, 2025, and traveled [&#8230;] The post Tianwen-2 arrives at asteroid Kamo&#8217;oalewa, first image revealed appeared first on SpaceNews .
+
+### Neutral lipids enable precision control over supramolecular polymerization
+- Source: Phys.org
+- Published: 2026-07-06 09:00
+- Topics: Other
+- Link: https://phys.org/news/2026-07-neutral-lipids-enable-precision-supramolecular.html
+- Summary: The formation of supramolecular polymers within living cells is an emerging strategy for regulating cellular functions, and lipid droplets (LDs) are promising environments for such processes. LDs are cellular organelles composed mainly of neutral lipids, such as triacylglycerols and cholesterol esters, and are deeply involved in cellular functions. However, the self-assembly of supramolecular polymers in neutral lipid-rich environments such as LDs is not well understood.
+
+### South Korea’s hottest new bachelors are chip workers
+- Source: MIT Technology Review
+- Published: 2026-07-06 09:00
+- Topics: Other
+- Link: https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/
+- Summary: Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be&#8230;
+
+### 'Major' damage as super typhoon hits US islands
+- Source: Phys.org
+- Published: 2026-07-06 08:20
+- Topics: Other
+- Link: https://phys.org/news/2026-07-major-super-typhoon-islands.html
+- Summary: A "super typhoon" with the force of a Category 5 hurricane tore through the U.S. Pacific territories of the Northern Marianas and Guam on Monday, with authorities saying they had received reports of "major" damage on the small island of Rota.
+
+### Thousands flee raging wildfires in southern Europe
+- Source: Phys.org
+- Published: 2026-07-06 08:07
+- Topics: Other
+- Link: https://phys.org/news/2026-07-thousands-raging-wildfires-southern-europe.html
+- Summary: Wildfires raged across Southern Europe on Monday, forcing thousands of people to evacuate their homes and prompting officials to ban spectators from a stage of the storied Tour de France cycling race.
+
+### Euclid discovers the most ancient quasars in the universe
+- Source: Phys.org
+- Published: 2026-07-06 06:30
+- Topics: Other
+- Link: https://phys.org/news/2026-07-euclid-ancient-quasars-universe.html
+- Summary: The European Space Agency's Euclid space telescope has discovered 31 of the most ancient quasars ever found. Two of these giant and dazzling galaxy cores, powered by gargantuan black holes, are the earliest quasars yet observed in cosmic history. They shone with the light of a trillion suns when the universe was 670 million years old—just 5% of its current age.
+
+### British ‘First Fleet’ brought smallpox to Australia—and may have killed millions
+- Source: Science
+- Published: 2026-07-06 05:00
+- Topics: Other
+- Link: https://www.science.org/content/article/precontact-australia-nid
+- Summary: Two papers pin the deadly disease’s introduction on British colonists and suggest the continent held far more people than previously believed
+
+### Fabrication and evaluation of a bi-layered electrospun polyacrylonitrile/polycaprolactone-chitosan/gelatin/polyethylene oxide nanofibers containing antibiotics and nanoparticles: antibacterial and antibiofilm activity
+- Source: Nature
+- Published: 2026-07-06 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-60945-5
+
+### Gold nanoparticles as dual-action antiviral agents: disruption of SARS-CoV-2 viral envelopes and RNA integrity
+- Source: Nature
+- Published: 2026-07-06 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-60666-9
+
+### The world's oceans are the hottest on record for June—and El Niño is set to turn up the heat even more
+- Source: Phys.org
+- Published: 2026-07-05 23:00
+- Topics: Other
+- Link: https://phys.org/news/2026-07-world-oceans-hottest-june-el.html
+- Summary: The world's oceans are the hottest on record for June, pushing past records set during the 2023–24 El Niño years.
+
+### Uber’s European expansion plans may have hit a speed bump
+- Source: TechCrunch
+- Published: 2026-07-05 21:35
+- Topics: Other
+- Link: https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/
+- Summary: Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold.
+
+### An island of calm at the violent heart of the galaxy
+- Source: Phys.org
+- Published: 2026-07-05 21:30
+- Topics: Other
+- Link: https://phys.org/news/2026-06-island-calm-violent-heart-galaxy.html
+- Summary: Where would you go to watch a star being born? Probably not the heart of the Milky Way, which is about the most violent neighborhood our galaxy has to offer, a maelstrom of gas churning so fast and so chaotically that you would think nothing could ever settle there long enough to collapse into a star. And yet stars do form in that turmoil, and astronomers have just begun to work out how by finding an unexpected pocket of calm in the chaos.
+
+### Deuterium in comets tells interesting tales
+- Source: Phys.org
+- Published: 2026-07-05 18:40
+- Topics: Other
+- Link: https://phys.org/news/2026-06-deuterium-comets-tales.html
+- Summary: Comets have played an interesting role in the history of astronomy. Since antiquity, many cultures saw them as omens or spirits, portending good or bad news for kings, queens and emperors. Over the past few hundred years, however, astronomers have studied them intently to understand the science behind these visitors to the inner solar system. Today, we know that these ghostly apparitions in the sky are dirty balls of ice and rock blasting through space, scattering dust and gases as they go.
+
+### Amazon will stop accepting new customers for Mechanical Turk
+- Source: TechCrunch
+- Published: 2026-07-05 17:43
+- Topics: Other
+- Link: https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/
+- Summary: These may be the last days of Amazon’s Mechanical Turk.
+
+### European cities short on shade as heat waves hit, urban mapping reveals
+- Source: Phys.org
+- Published: 2026-07-05 17:00
+- Topics: Other
+- Link: https://phys.org/news/2026-06-european-cities-short-urban-reveals.html
+- Summary: More than four in five homes and workplaces across 25 European cities have less nearby tree canopy than what is needed for meaningful cooling, according to an open-data analysis by an urban greening expert.
+
+### Mars express captures dozens of dust devils in Mars valley
+- Source: Phys.org
+- Published: 2026-07-05 17:00
+- Topics: Other
+- Link: https://phys.org/news/2026-06-mars-captures-dozens-devils-valley.html
+- Summary: Dust devils are a regular feature on Mars. Just like those found on Earth, these mini whirlwinds form when parts of Mars are warmed by the sun, causing air above the surface to swirl upward and carry dust with it. But in Mars' lower gravity (38% that of Earth), these devils grow much larger, reaching up to 8 km (5 miles) in height and speeds of up to 45 meters per second (150 feet per second). They are also a major part of Mars' meteorological cycles, playing a key role in distributing dust acro
+
+### 5 desk gadgets that can make your workday better
+- Source: TechCrunch
+- Published: 2026-07-05 15:00
+- Topics: Other
+- Link: https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/
+- Summary: The right desk gadgets can help you reduce clutter, stay focused, and add a little extra convenience to your day.
+
+### Scattered bronze bells in Chinese lord's 2,600-year-old tomb point to ritual deactivation
+- Source: Phys.org
+- Published: 2026-07-05 14:20
+- Topics: Other
+- Link: https://phys.org/news/2026-06-bronze-bells-chinese-lord-year.html
+- Summary: When archaeologists opened the 2,600-year-old tomb of an ancient Chinese lord, they discovered his magnificent bronze bells had been scattered, their wooden hangings broken. But the most mysterious part of all: This was apparently no accident, with the family of the tomb's owner having chosen to "deactivate" the bells when their powers were no longer needed.
+
+### What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public
+- Source: TechCrunch
+- Published: 2026-07-05 13:33
+- Topics: Other
+- Link: https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/
+- Summary: Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.
+
+### Mini monitor measures artificial heartbeat
+- Source: Phys.org
+- Published: 2026-07-05 13:00
+- Topics: Other
+- Link: https://phys.org/news/2026-06-mini-artificial-heartbeat.html
+- Summary: An international team, including the University of Tokyo, has created a sensor inspired by the lateral line in fish—their "sixth sense" organ—which measures the pulse of lab-grown 3D heart tissue (cardiac organoids). The device, called a biomechanical well plate, looks like a small white box containing four liquid-filled wells.
+
+### Controlling magnetic chirality could help memory pack in more data
+- Source: Phys.org
+- Published: 2026-07-05 10:40
+- Topics: Other
+- Link: https://phys.org/news/2026-07-magnetic-chirality-memory.html
+- Summary: Magnetic storage devices, like a computer's hard disk drive, utilize magnets to represent binary data. However, as these devices are downsized, stray magnetic fields generated by individual magnetic components can interact with neighboring elements to cause operational malfunctions, limiting how much data we can densely pack into memory devices.
+
+### 'Very dangerous' super typhoon nears US Pacific islands
+- Source: Phys.org
+- Published: 2026-07-05 08:55
+- Topics: Other
+- Link: https://phys.org/news/2026-07-dangerous-super-typhoon-nears-pacific.html
+- Summary: Howling winds and lashing rain battered Guam and the Northern Marianas late Sunday, hours before the projected arrival of a "super typhoon" with force equivalent to a Category 5 hurricane over the U.S. Pacific territories.
+
+### Astronomers find biggest super-puff planets yet that are lighter than cotton candy
+- Source: Phys.org
+- Published: 2026-07-05 08:40
+- Topics: Other
+- Link: https://phys.org/news/2026-06-astronomers-biggest-super-puff-planets.html
+- Summary: Astronomers have uncovered a pair of giant planets that are lighter than cotton candy—super-puffs the size of Jupiter.
 
 ### 'This was something new': What people in Greenland told us about learning to live with wildfires
 - Source: Phys.org
@@ -316,6 +419,18 @@ Generated: 2026-07-05 08:36 UTC
 - Topics: Other
 - Link: https://phys.org/news/2026-06-people-greenland-told-wildfires.html
 - Summary: After several quieter years, wildfires have returned to western Greenland.
+
+### BSA-curcumin nanoparticles selectively target breast cancer cells and reprogram the immunosuppressive tumor microenvironment in vitro
+- Source: Nature
+- Published: 2026-07-05 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-60753-x
+
+### Green HPTLC–densitometry for simultaneous determination of antibiotic residues in milk with greenness assessment and application to real samples
+- Source: Nature
+- Published: 2026-07-05 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-60367-3
 
 ### When companies face hostile takeover threats, they turn to ESG, and the whole community benefits
 - Source: Phys.org
@@ -331,13 +446,6 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/
 - Summary: Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?
 
-### Europe's baked rice bowl seeks escape from drought
-- Source: Phys.org
-- Published: 2026-07-04 20:00
-- Topics: Other
-- Link: https://phys.org/news/2026-07-europe-rice-bowl-drought.html
-- Summary: Summer came too early to Europe's most important rice-growing region, and weeds are taking over Sharon Angoli's parched paddies in Italy's Pavia province.
-
 ### Midjourney wants Hollywood studios to reveal the details of their AI usage
 - Source: TechCrunch
 - Published: 2026-07-04 18:00
@@ -345,214 +453,9 @@ Generated: 2026-07-05 08:36 UTC
 - Link: https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/
 - Summary: As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.
 
-### BC and Alberta fall behind on fracking safety distances for residents
-- Source: Phys.org
-- Published: 2026-07-04 17:00
-- Topics: Other
-- Link: https://phys.org/news/2026-07-bc-alberta-fall-fracking-safety.html
-- Summary: In May, Prime Minister Mark Carney announced plans to double the capacity of Canada's electricity grid by 2050, using natural gas in the name of "powering Canada strong." Almost all Canadian natural gas these days is derived from hydraulic fracturing—known as fracking—an industrial process involving large amounts of water laced with chemicals pumped long distances underground.
-
 ### Alibaba reportedly bans employees from using Claude Code
 - Source: TechCrunch
 - Published: 2026-07-04 16:32
 - Topics: Other
 - Link: https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/
 - Summary: Alibaba has reportedly classified Claude Code as high-risk software.
-
-### Bacterial protein reveals a hidden rule for controlling calcium
-- Source: Phys.org
-- Published: 2026-07-04 15:20
-- Topics: Other
-- Link: https://phys.org/news/2026-07-bacterial-protein-reveals-hidden-calcium.html
-- Summary: A small change in acidity can transform the world around us. A squeeze of lemon changes the taste of food. Vinegar preserves vegetables. Stomach acid helps break down a meal. These familiar effects come from protons—tiny charged particles that can reshape chemical interactions.
-
-### A young gull's mottled brown plumage acts as a 'not a threat' signal to territorial adults
-- Source: Phys.org
-- Published: 2026-07-04 12:00
-- Topics: Other
-- Link: https://phys.org/news/2026-07-young-gull-mottled-brown-plumage.html
-- Summary: Birds are known for their distinctive plumage that helps them attract mates during the breeding season. For some birds, the path to adulthood is quite linear. One day they are chicks, and a few months later they are fully grown adults with their mature plumage, all set to find and fight for a mate. However, some seabirds linger much longer in the awkward adolescent phase. Species like the American herring gull take several years to develop their adult feathers, a process called delayed plumage m
-
-### El Nino set to be 'strong', UN warns
-- Source: Phys.org
-- Published: 2026-07-04 10:00
-- Topics: Other
-- Link: https://phys.org/news/2026-07-el-nino-strong.html
-- Summary: El Nino is here and will quickly develop into a strong event between July and September, fueling the likelihood of extreme weather, the United Nations' climate agency warned Friday.
-
-### One for the history books: What we know about the European heat wave
-- Source: Phys.org
-- Published: 2026-07-04 08:10
-- Topics: Other
-- Link: https://phys.org/news/2026-07-history-european.html
-- Summary: Europe is still taking stock of a powerful heat wave in late June, but experts are already confident it ranks among the worst ever recorded—even rivaling a freak 2003 episode.
-
-### Dangerous heat wave roasts America's big birthday party
-- Source: Phys.org
-- Published: 2026-07-04 07:49
-- Topics: Other
-- Link: https://phys.org/news/2026-07-dangerous-roasts-america-big-birthday.html
-- Summary: A punishing heat wave threatened America's July Fourth celebrations, World Cup matches and power grids as near-record temperatures scorched the eastern United States on Friday.
-
-### Happy 250th Birthday, America!
-- Source: War on the Rocks
-- Published: 2026-07-04 07:30
-- Topics: Other
-- Link: https://warontherocks.com/happy-250th-birthday-america/
-- Summary: Editor&#8217;s Note: Few rivalries in American history have been as consequential &#8212; or as personal &#8212; as the one between John Adams and Thomas Jefferson. &#160;The two men could hardly have been more different. Adams, the stocky and combative Massachusetts lawyer, was blunt to a fault and quick to suspicion. Jefferson, the tall, elegant Virginia planter, was reserved and idealistic. The two held diverging political philosophies as well. Adams preferred a strong, central government whi
-
-### Elucidating the tolerance mechanisms of faba bean (Vicia faba L.) to bean broomrape (Orobanche crenata Forssk.) infested soil
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-59757-4
-
-### Valorization of Moringa oleifera pericarp via semi-synthetic sugar-based enone derivatives with anticancer potential: phytochemical isolation, cytotoxic evaluation, and dual EGFR/CAIX targeting
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-59686-2
-
-### Metabolic profiling and microbiological evaluation of Staphylococcus aureus in a poly-microbial system in soft white cheese
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-59959-w
-
-### Multi-omics profiling of high-carotenoid hybrid potato lines reveals coordinated metabolic reprogramming and associates with distinct tuber microbiota
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41538-026-00842-3
-
-### Green synthesis of silver and zinc oxide nanoparticles using Justicia adhatoda leaf extract for antimicrobial and anticancer applications
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-59930-9
-
-### Cinnamyl alcohol dehydrogenase (CAD) underlies the orange lemma trait and lignin reduction in barley
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-59416-8
-
-### Antimicrobial activity of plasma-activated water against Paenibacillus larvae, the causative agent of American foulbrood
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-58906-z
-
-### Ginger essential oil nanoemulsions outperform ginger extract nanoemulsions in extending the shelf life of tilapia fillets
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-025-32420-0
-
-### Fabrication of hybrid PCL-Chitosan/PVA nanofibers by hybrid electrospinning for Local melanoma skin cancer therapy
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-60308-0
-
-### EGFR mimotope alleviates renal fibrosis by promoting EGFR/RPL6/PCBP2 ternary complex formation
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41541-026-01513-w
-
-### Sulfur-doped CuZn single-atom nanozyme for treating deep sensory organ infections
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s43246-026-01257-z
-
-### Targeted long-read sequencing enables comprehensive analysis of the genetic and epigenetic landscape of inherited myopathies
-- Source: Nature
-- Published: 2026-07-04 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41467-026-75144-z
-
-### Megalodon's legendary life revealed by fossil rediscovery
-- Source: Phys.org
-- Published: 2026-07-03 21:20
-- Topics: Other
-- Link: https://phys.org/news/2026-07-megalodon-legendary-life-revealed-fossil.html
-- Summary: Museums are supposed to be havens for the collective cultural and scientific heritage of the planet, but specimens sometimes go missing.
-
-### The only AI glossary you’ll need this year
-- Source: TechCrunch
-- Published: 2026-07-03 21:20
-- Topics: Other
-- Link: https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/
-- Summary: The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.
-
-### US withdrew forces from Nigeria after operation against ISIS, AFRICOM chief says
-- Source: Defense News
-- Published: 2026-07-03 21:09
-- Topics: Other
-- Link: https://www.defensenews.com/news/pentagon-congress/2026/07/03/us-withdrew-forces-from-nigeria-after-operation-against-isis-africom-chief-says/
-- Summary: AFRICOM Commander Gen. Dagvin Anderson described May’s joint U.S.-Nigerian as a model for future security cooperation in Africa.
-
-### The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari
-- Source: TechCrunch
-- Published: 2026-07-03 18:43
-- Topics: Other
-- Link: https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/
-- Summary: We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.
-
-### The Dune keypad device can be your meeting controller and more
-- Source: TechCrunch
-- Published: 2026-07-03 18:28
-- Topics: Other
-- Link: https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/
-- Summary: The gadget has three buttons, and it changes context based on what app you are looking at. For instance, in meeting apps and sites, it could be toggle mic, toggle video, and bring window to the front.
-
-### Chevy built an all-American EV truck — why is nobody buying it?
-- Source: TechCrunch
-- Published: 2026-07-03 16:30
-- Topics: Other
-- Link: https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/
-- Summary: The Chevy Silverado EV is a solid first draft of an EV pickup truck. Here's what could make it better.
-
-### Multibillion-dollar contract secures ‘major step forward’ for GCAP fighter jet
-- Source: Defense News
-- Published: 2026-07-03 16:13
-- Topics: Other
-- Link: https://www.defensenews.com/global/europe/2026/07/03/multibillion-dollar-contract-secures-major-step-forward-for-gcap-fighter-jet/
-- Summary: Japan, Italy and the U.K. have handed a £4.6 billion ($6.1 billion) development contract to their national champions building the GCAP jet.
-
-### Poland teams up with Spain to double tanker aircraft purchase
-- Source: Defense News
-- Published: 2026-07-03 15:09
-- Topics: Other
-- Link: https://www.defensenews.com/global/europe/2026/07/03/poland-teams-up-with-spain-to-double-tanker-aircraft-purchase/
-- Summary: The agreement with Madrid will allow Warsaw to increase its tanker order to four units.
-
-### Novartis’ strategy in 2026: rebuilding the pipeline after Entresto
-- Source: Labiotech
-- Published: 2026-07-03 13:00
-- Topics: Other
-- Link: https://www.labiotech.eu/top-pharma-strategy/novartis-pipeline/
-- Summary: Find out what Novartis' pipeline strategy since it spun off its biosimilars and generics business Sandoz, and engage in intensive dealmaking. The post Novartis&#8217; strategy in 2026: rebuilding the pipeline after Entresto appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and cl
-
-### Taiwan needs a ‘hornet’s nest’ of drones to deter conflict, US diplomat says
-- Source: Defense News
-- Published: 2026-07-03 12:30
-- Topics: Other
-- Link: https://www.defensenews.com/industry/techwatch/2026/07/03/taiwan-needs-a-hornets-nest-of-drones-to-deter-conflict-us-diplomat-says/
-- Summary: Taiwan says it needs to bolster its defenses in the face of a stepped-up threat from China, which claims the island as its own territory.
-
-### The Download: a smoking “endgame” and a new Elizabeth Bear story
-- Source: MIT Technology Review
-- Published: 2026-07-03 12:10
-- Topics: Other
-- Link: https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/
-- Summary: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;
-
-### The UK’s generational tobacco ban might not work. I’m supporting it anyway.
-- Source: MIT Technology Review
-- Published: 2026-07-03 09:00
-- Topics: Other
-- Link: https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/
-- Summary: As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;
