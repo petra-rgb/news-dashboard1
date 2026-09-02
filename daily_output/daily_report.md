@@ -1,22 +1,69 @@
 # Daily Intelligence Report
 
-Generated: 2026-09-01 10:37 UTC
+Generated: 2026-09-02 10:02 UTC
 
 ## AI
 
-### Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
+### AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
 - Source: TechCrunch
-- Published: 2026-09-01 00:13
-- Topics: AI
-- Link: https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/
-- Summary: Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.
+- Published: 2026-09-01 22:08
+- Topics: Funding, AI
+- Link: https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/
+- Summary: AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.
 
-### The Pentagon now has its own version of ChatGPT and Grok
+### OpenAI’s Astra model is on the way — and very good at breaking into computer systems
 - Source: TechCrunch
-- Published: 2026-08-31 20:13
-- Topics: AI, Defense
-- Link: https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
-- Summary: Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.
+- Published: 2026-09-01 21:06
+- Topics: AI
+- Link: https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/
+- Summary: OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.
+
+### Anthropic’s new Fable release is cheaper, less restrictive
+- Source: TechCrunch
+- Published: 2026-09-01 19:39
+- Topics: AI
+- Link: https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/
+- Summary: Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.
+
+### ChatGPT Health adds Epic integration for clinicians to import patient data
+- Source: TechCrunch
+- Published: 2026-09-01 17:00
+- Topics: AI
+- Link: https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/
+- Summary: OpenAI said that the integration provides read-only access to health records for clinicians.
+
+### Waymo goes on offense ahead of Tesla’s Cybercab launch
+- Source: TechCrunch
+- Published: 2026-09-01 16:49
+- Topics: AI
+- Link: https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/
+- Summary: Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.
+
+### The Download: engineered microbes for crops, and OpenAI’s culture problem
+- Source: MIT Technology Review
+- Published: 2026-09-01 12:10
+- Topics: AI
+- Link: https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/
+- Summary: This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;
+
+### 10 promising Dublin-based startups to watch
+- Source: EU-Startups
+- Published: 2026-09-01 10:58
+- Topics: Startups, AI
+- Link: https://www.eu-startups.com/2026/09/10-promising-dublin-based-startups-to-watch/
+- Summary: Dublin has long been one of Europe’s leading technology hubs, combining a deep pool of international talent with a growing community of locally founded startups. Alongside the multinational technology companies with major operations in the Irish capital, a new generation of founders is building companies across artificial intelligence, biotech, FinTech, EdTech, AgriTech and enterprise software. [&#8230;] The post 10 promising Dublin-based startups to watch appeared first on EU-Startups .
+
+### Artificial intelligence-guided optimization of Suillus lakei extracts enhancing bioactive profile and functional properties for future food applications
+- Source: Nature
+- Published: 2026-09-01 00:00
+- Topics: AI
+- Link: https://www.nature.com/articles/s41598-026-69481-8
+
+### Ensuring multiomics data reproducibility for artificial intelligence with reference materials as a common calibrator
+- Source: Nature
+- Published: 2026-09-01 00:00
+- Topics: AI
+- Link: https://www.nature.com/articles/s41587-026-03267-1
 
 ### The Hugging Face hack could indicate cultural issues at OpenAI
 - Source: MIT Technology Review
@@ -25,26 +72,189 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/
 - Summary: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;
 
-### Stop Using AI. Start Commanding It
-- Source: War on the Rocks
-- Published: 2026-08-31 07:30
-- Topics: Defense, AI
-- Link: https://warontherocks.com/stop-using-ai-start-commanding-it/
-- Summary: Walk into the Pentagon, climb the escalator, and an Uncle Sam-style poster points at you: &#8220;I want YOU to use AI.&#8221; It worked. GenAI.mil hit 1.5 million users in six months, and I have heard enough OpenAI-in-disguise pitches to last a lifetime. The adoption really is great, but the poster contains a problem. &#8220;Use&#8221; is the verb of tools, and the Department of Defense does not win by using tools. It wins by commanding forces.North of the Pentagon, a task force few know about o
-
-### Artificial intelligence tools in sepsis prediction: a systematic review and meta-analysis
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: AI
-- Link: https://www.nature.com/articles/s41746-026-03168-2
-
-### Explainable machine learning analysis of immunology assay patterns among hospitalized patients undergoing immunology testing
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: AI
-- Link: https://www.nature.com/articles/s41598-026-68588-2
-
 ## Defense
+
+### Europe’s airpower future is evolving. Here’s what to know.
+- Source: Breaking Defense
+- Published: 2026-09-02 08:45
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/europes-airpower-future-is-evolving-heres-what-to-know/
+- Summary: Breaking Defense kicks off a new video series focused on how Europe is modernizing its manned and unmanned aircraft.
+
+### German government blames Russia for Leipzig airport drone attack with explosives
+- Source: Defense News
+- Published: 2026-09-02 08:33
+- Topics: Defense
+- Link: https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/
+- Summary: Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.
+
+### European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations
+- Source: War on the Rocks
+- Published: 2026-09-02 08:00
+- Topics: Defense, Space
+- Link: https://warontherocks.com/cogs-of-war/european-resilience-in-digital-infrastructure-the-changing-nature-of-state-business-relations/
+- Summary: As the war in Ukraine progressed, Russian strikes increasingly degraded Ukraine&#8217;s terrestrial communications infrastructure, steadily deepening Kyiv&#8217;s dependence on SpaceX&#8217;s Starlink. The satellite constellation became indispensable for crucial military functions, including command and control, drone operations, and artillery fire coordination, with no readily available European alternative should access be withdrawn.This reality exemplifies the idea that today, governments rel
+
+### How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US
+- Source: Defense News
+- Published: 2026-09-02 08:00
+- Topics: Defense
+- Link: https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/
+- Summary: China’s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks.
+
+### Ukraine’s Ground Robots and the Economics of Survival
+- Source: War on the Rocks
+- Published: 2026-09-02 07:30
+- Topics: Defense
+- Link: https://warontherocks.com/ukraines-ground-robots-and-the-economics-of-survival/
+- Summary: In August 2024, special forces from five Ukrainian military intelligence units crossed the Black Sea to raid Russian-held Kinburn Spit. The commandos of these units &#8212; Chimera, Aratta, Stuhna, Paragon, Terror, and the Siberian Battalion &#8212; landed, fought, destroyed equipment, and withdrew. Two years later, in July 2026, Ukraine returned, but left the soldiers behind. Instead, an uncrewed surface vessel carried a ground robot across the water and released it onto the shore. The robot, e
+
+### Why Are People Talking About a German Reset with Russia?
+- Source: War on the Rocks
+- Published: 2026-09-02 07:15
+- Topics: Defense, Funding
+- Link: https://warontherocks.com/why-are-people-talking-about-a-german-reset-with-russia/
+- Summary: The summer of 2026 has raised questions once again among politicians, diplomats, and academics about whether Germany might be about to dither on Russia. Last month, a drone attack on German soil seemed designed to coerce Germany back into business as usual. Earlier, there had been rumblings about two German ex-chancellors brokering a peace treaty between Kyiv and Moscow. Both Angela Merkel and Gerhard Schr&#246;der are living embodiments of the ill-reputed Ostpolitik, Germany&#8217;s tradition o
+
+### The Commercial-First Shift in National Security Space
+- Source: Payload Space
+- Published: 2026-09-02 02:12
+- Topics: Space, Defense
+- Link: https://payloadspace.com/the-commercial-first-shift-in-national-security-space/
+- Summary: For decades, the model for building national security space systems was relatively straightforward. The government defined a mission, established requirements, funded a spacecraft designed specifically to meet them, and ultimately owned and operated the resulting capability. The post The Commercial-First Shift in National Security Space appeared first on Payload .
+
+### Trump to formally nominate Cao as Navy Secretary
+- Source: Breaking Defense
+- Published: 2026-09-01 23:59
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/trump-to-formally-nominate-cao-as-navy-secretary/
+- Summary: Navy veteran Hung Cao has been the service&#8217;s acting secretary since April.
+
+### Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture
+- Source: Defense News
+- Published: 2026-09-01 23:42
+- Topics: Defense, Startups
+- Link: https://www.defensenews.com/global/europe/2026/09/01/ousted-ukrainian-defense-chief-lands-palantir-ceo-as-first-investor-in-new-venture/
+- Summary: Ukraine’s recently ousted defense minister Mykhailo Fedorov is teaming up with Palantir CEO Alex Karp to launch a new defense company.
+
+### How the new stopgap funding bill affects the Defense Department
+- Source: Breaking Defense
+- Published: 2026-09-01 20:58
+- Topics: Defense, Funding
+- Link: https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department/
+- Summary: The new continuing resolution keeps the government open, but it also comes with certain restrictions on spending.
+
+### Kymeta Lands $20M DoD Order for Osprey u8 Satcom Terminals
+- Source: Satellite Today
+- Published: 2026-09-01 19:47
+- Topics: Space, Defense
+- Link: https://www.satellitetoday.com/technology/2026/09/01/kymeta-lands-20m-dod-order-for-osprey-u8-satcom-terminals/
+- Summary: Kymeta secured an order from a branch within the U.S. Department of Defense for 100 Osprey u8 multi-orbit satcom terminals worth $20 million. The award announced Tuesday includes multi-orbit connectivity [&#8230;] The post Kymeta Lands $20M DoD Order for Osprey u8 Satcom Terminals appeared first on Via Satellite .
+
+### Army seeks tracked howitzer candidates following award for wheeled platforms
+- Source: Breaking Defense
+- Published: 2026-09-01 19:25
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/army-seeks-tracked-howitzer-candidates-following-award-for-wheeled-platforms/
+- Summary: The new solicitation comes weeks after the Army awarded Hanwha Defense USA a deal up to $233 million to deliver wheeled K9 mobile howitzer prototypes.
+
+### The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence
+- Source: War on the Rocks
+- Published: 2026-09-01 18:45
+- Topics: Defense
+- Link: https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/
+- Summary: Date: Wednesday, Sept. 23, 2026Time: 12:00-1:00 PM ETThe second joint webinar by RUSI and War on the Rocks: Two leading defense publications from both sides of the Atlantic present their expert panel.&#160;OverviewFor this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks will present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of fi
+
+### US approves possible $800 million military helicopter sale to Iraq
+- Source: Defense News
+- Published: 2026-09-01 18:14
+- Topics: Defense
+- Link: https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/
+- Summary: The United States has approved a potential $800 million sale of Bell helicopters, weapons and related equipment to Iraq, according to the State Department.
+
+### Army awards Georgia Tech $33M to be lead weapons integrator for CAML program
+- Source: Breaking Defense
+- Published: 2026-09-01 17:59
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/army-awards-georgia-tech-33m-to-be-lead-weapons-integrator-for-caml-program/
+- Summary: Georgia Tech will lead the integration of the autonomous mobility platform and the modular munitions pallets — the components that make up the CAML system.
+
+### The defense intelligence community’s AI and cyber view forward
+- Source: Breaking Defense
+- Published: 2026-09-01 17:49
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/
+- Summary: From AI adoption and agentic systems to Zero Trust and cyber resilience, Breaking Defense’s latest eBook brings together key reporting from DoDIIS 2026 on the technologies and strategies shaping the future of defense intelligence.
+
+### French army chief releases first agenda, shares ambitions for service
+- Source: Breaking Defense
+- Published: 2026-09-01 17:12
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/french-army-chief-releases-first-agenda-shares-ambitions-for-service/
+- Summary: French Army Chief of Staff Army Chief of Staff Gen. Jacques de Montgros said he wants “an Army that is feared, proud, and bold.”
+
+### Space Defense in 2040: A Networked, Weaponized, and Contested Frontier
+- Source: Satellite Today
+- Published: 2026-09-01 16:46
+- Topics: Space, Defense
+- Link: https://www.satellitetoday.com/government-military/2026/09/01/space-defense-in-2040-a-networked-weaponized-and-contested-frontier/
+- Summary: Autonomous systems, ubiquitous sensors, and AI-optimized targeting are positioned to transform tomorrow’s warfighting domain, where the ability to see, decide, and act first may rest with constellations in orbit rather [&#8230;] The post Space Defense in 2040: A Networked, Weaponized, and Contested Frontier appeared first on Via Satellite .
+
+### MH-139 helo tasked with nuclear missile escort role is operational, Air Force says
+- Source: Breaking Defense
+- Published: 2026-09-01 16:02
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says/
+- Summary: The Grey Wolf achieved initial operational capability Aug. 10, and will replace the Vietnam-era UH-1N to protect the Air Force’s nuclear missile fields.
+
+### Dataminr AI tech to go live on NATO Maven system: CEO
+- Source: Breaking Defense
+- Published: 2026-09-01 15:49
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo/
+- Summary: The company also recently nabbed a $318 million &#8220;situational awareness&#8221; contract with the Pentagon.
+
+### An Army leadership shakeup, plus lasers on the border
+- Source: Breaking Defense
+- Published: 2026-09-01 15:37
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/an-army-leadership-shakeup-plus-lasers-on-the-border/
+- Summary: US soldiers are demonstrating new systems to shoot down drones while the Army starts the search for a new secretary.
+
+### US Navy unveils new specs for carrier-based Collaborative Combat Aircraft
+- Source: Defense News
+- Published: 2026-09-01 13:23
+- Topics: Defense
+- Link: https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/
+- Summary: The U.S. Navy has submitted a Request for Information that reveals new specifications for its future carrier-based Combat Collaborative Aircraft.
+
+### Lessons learned that bring factory speed, adaptability and scalability to air-and-missile defense
+- Source: Breaking Defense
+- Published: 2026-09-01 12:27
+- Topics: Defense
+- Link: https://breakingdefense.com/2026/09/lessons-learned-that-bring-factory-speed-adaptability-and-scalability-to-air-and-missile-defense/
+- Summary: [Sponsored] Dwindling stockpiles and lessons learned from Ukraine and Iran are driving urgent needs for revamping manufacturing.
+
+### Poland readies for record-breaking defense show as opulent budget lures vendors
+- Source: Defense News
+- Published: 2026-09-01 12:26
+- Topics: Defense
+- Link: https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors/
+- Summary: Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.
+
+### Defense startup raises $61 million to put AI into a wrist-worn display
+- Source: C4ISRNET
+- Published: 2026-09-01 12:24
+- Topics: Defense, Funding
+- Link: https://www.c4isrnet.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/
+- Summary: A defense startup has raised $61 million to put AI into a wrist-worn display that connects field operators to real-time data.
+
+### Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics raises €20 million for drone defence
+- Source: EU-Startups
+- Published: 2026-09-01 11:20
+- Topics: Funding, Defense
+- Link: https://www.eu-startups.com/2026/09/drone-attack-at-leipzig-halle-airport-underscores-threat-as-inleap-photonics-raises-e20-million-for-drone-defence/
+- Summary: Hannover-based DeepTech company INLEAP Photonics has closed a €20 million Seed funding round for its laser-based drone defence in order to accelerate the scaling of its technology for defence applications and the protection of critical infrastructure. The round was led by UVC Partners, with participation from HTGF, Balnord, Sentries, and Scale Capital. “Our technology has [&#8230;] The post Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics raises €20 million for drone 
 
 ### The Educated Operator: Rethinking Lethality in Special Operations
 - Source: War on the Rocks
@@ -60,26 +270,12 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://warontherocks.com/the-political-constraint-on-americas-data-center-power-buildout/
 - Summary: In April, President Donald Trump issued two Defense Production Act determinations covering grid infrastructure and large-scale energy infrastructure. One found that the country&#8217;s constrained electric grid posed an increasing threat to national defense and made grid infrastructure and its supply chains essential to national defense. The other found that financing risks, regulatory delays, and market barriers were preventing large-scale energy infrastructure essential to national defense fro
 
-### Drones take farming to new heights
-- Source: Phys.org
-- Published: 2026-09-01 01:20
-- Topics: Science, Defense
-- Link: https://phys.org/news/2026-08-drones-farming-heights.html
-- Summary: High above the fields of the Morven Sustainability Lab, drones equipped with heat and light sensors are changing what it means to farm smarter. This month, researchers and students from the University of Virginia, NASA and the University at Buffalo tested drone technology by flying more than 100 feet (30 meters) above crops to measure plant health at UVA's 2,900-acre (1,170-hectare) research facility.
-
-### Important role of plastid ion channels in plant stress response identified
-- Source: Phys.org
-- Published: 2026-08-31 23:40
-- Topics: Defense
-- Link: https://phys.org/news/2026-08-important-role-plastid-ion-channels.html
-- Summary: When plants are attacked by herbivores or pathogens, they must respond rapidly while also preparing for potential future attacks. Calcium, a cellular second messenger, and the plant hormone jasmonic acid play important roles in this response. Within seconds of an injury, the plant generates calcium waves that relay information about the attack. At the same time, the synthesis of jasmonic acid is initiated in the chloroplast, triggering, through several intermediate steps, the expression of defen
-
 ### Army Secretary Dan Driscoll resigns
 - Source: Breaking Defense
 - Published: 2026-08-31 22:24
 - Topics: Defense
 - Link: https://breakingdefense.com/2026/08/army-secretary-dan-driscoll-resigns-reports/
-- Summary: Dan Driscoll, a former soldier who came into the roll from the finance world, reportedly had a strained relationship with Defense Secretary Pete Hegseth.
+- Summary: Dan Driscoll, a former soldier who came into the role from the finance world, reportedly had a strained relationship with Defense Secretary Pete Hegseth.
 
 ### Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production
 - Source: Defense News
@@ -88,13 +284,6 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.defensenews.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/
 - Summary: The Pentagon's framework agreements with General Dynamics and Lockheed include tripling Patriot production and quadrupling THAAD interceptor output.
 
-### The Pentagon now has its own version of ChatGPT and Grok
-- Source: TechCrunch
-- Published: 2026-08-31 20:13
-- Topics: AI, Defense
-- Link: https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/
-- Summary: Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.
-
 ### US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials
 - Source: Defense News
 - Published: 2026-08-31 20:09
@@ -102,26 +291,12 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.defensenews.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/
 - Summary: U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials.
 
-### All.Space Wins DIU Award Focused on Increasing Production Rate
-- Source: Satellite Today
-- Published: 2026-08-31 19:36
-- Topics: Defense
-- Link: https://www.satellitetoday.com/government-military/2026/08/31/all-space-wins-diu-award-focused-on-increasing-production-rate/
-- Summary: All.Space has received a contract from the Defense Innovation Unit (DIU) for its Hydra satcom terminal under a contract focused on increasing production rates in the U.S. defense supply chain. [&#8230;] The post All.Space Wins DIU Award Focused on Increasing Production Rate appeared first on Via Satellite .
-
 ### Japan seeks new extended-range missiles in record $55B defense budget request
 - Source: Breaking Defense
 - Published: 2026-08-31 17:53
 - Topics: Defense
 - Link: https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/
 - Summary: Other weapons sought include submarine-launched missiles and missile modules for underwater drones.
-
-### Greece inks $3.4B deal for multi-layered Israeli air defense system
-- Source: Breaking Defense
-- Published: 2026-08-31 17:16
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/08/greece-inks-3-4b-deal-for-multi-layered-israeli-air-defense-system/
-- Summary: Defense cooperation between the two countries has increased in recent years as Israel sees Greece as a strategic partner in the Eastern Mediterranean.
 
 ### Sweden signs French warship order to boost defense
 - Source: Defense News
@@ -151,13 +326,6 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.defensenews.com/news/pentagon-congress/2026/08/31/trial-for-accused-mastermind-of-911-attacks-set-for-june-2028/
 - Summary: Khalid Sheikh Mohammed, the accused mastermind of the 9/11 attacks, and three co-defendants are slated for a trial before a military tribunal in June 2028.
 
-### 5 key questions the Army is still working out for its nuclear microreactor plan
-- Source: Breaking Defense
-- Published: 2026-08-31 13:54
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/08/5-key-questions-the-army-is-still-working-out-for-its-nuclear-microreactor-plan/
-- Summary: The Army&#8217;s top energy official recently walked reporters through a series of questions he’s grappling with as part of the push to deploy nuclear microreactors at military installations around the country.
-
 ### Speed to Field Starts Below the Prime
 - Source: SpaceNews
 - Published: 2026-08-31 13:30
@@ -172,13 +340,6 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.defensenews.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/
 - Summary: The Pentagon says cuts to its independent weapons testing office will save money, while critics warn they could lead to costly mistakes.
 
-### Space Force struggling to integrate commercial space data: Officials
-- Source: Breaking Defense
-- Published: 2026-08-31 12:42
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/08/space-force-struggling-to-integrate-commercial-space-data-officials/
-- Summary: &#8220;We have to have a better linkage between our acquisitions officers, or staff, and our operators,&#8221; Col. Tim Trimailo, head of the Space Systems Command&#8217;s Commercial Space Office, told Breaking Defense.
-
 ### Germany is stepping up on defense — and Washington should celebrate
 - Source: Defense News
 - Published: 2026-08-31 10:30
@@ -186,50 +347,43 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.defensenews.com/opinion/2026/08/31/germany-is-stepping-up-on-defense-and-washington-should-celebrate/
 - Summary: German defense firms are creating industrial partnerships with American companies, deepening the transatlantic defense production relationship.
 
-### Stop Using AI. Start Commanding It
-- Source: War on the Rocks
-- Published: 2026-08-31 07:30
-- Topics: Defense, AI
-- Link: https://warontherocks.com/stop-using-ai-start-commanding-it/
-- Summary: Walk into the Pentagon, climb the escalator, and an Uncle Sam-style poster points at you: &#8220;I want YOU to use AI.&#8221; It worked. GenAI.mil hit 1.5 million users in six months, and I have heard enough OpenAI-in-disguise pitches to last a lifetime. The adoption really is great, but the poster contains a problem. &#8220;Use&#8221; is the verb of tools, and the Department of Defense does not win by using tools. It wins by commanding forces.North of the Pentagon, a task force few know about o
-
-### The Mecca pact explained, tankers for Qatar, and CENTCOM’s new drone force
-- Source: Breaking Defense
-- Published: 2026-08-31 04:30
-- Topics: Defense
-- Link: https://breakingdefense.com/2026/08/the-mecca-pact-explained-tankers-for-qatar-and-centcoms-new-drone-force/
-- Summary: Middle East Bureau Chief Agnes Helou recaps leading developments from the region before speaking with Dubai-based analyst Riad Kahwaji.
-
 ## MedTech
 
-### Novel Wasserstein distance-based sleep-activity regularity metrics from wearable data for healthy aging: J-HAS
+### A fully integrated sample-to-answer diagnostic platform enables rapid quantification of post-transplant infection at the point-of-care
 - Source: Nature
-- Published: 2026-09-01 00:00
+- Published: 2026-09-02 00:00
 - Topics: MedTech
-- Link: https://www.nature.com/articles/s41514-026-00477-4
+- Link: https://www.nature.com/articles/s41467-026-77054-6
 
-### 'One-pot' CRISPR platform delivers lab-like sensitivity in 30 minutes for at-home testing
+### LEDs let archaeologists see the past in a new light
 - Source: Phys.org
-- Published: 2026-08-31 22:40
-- Topics: Science, MedTech
-- Link: https://phys.org/news/2026-08-pot-crispr-platform-lab-sensitivity.html
-- Summary: A research team from The Hong Kong University of Science and Technology (HKUST) has developed an innovative "one-pot" testing platform, known as TEMPO, that could transform highly sensitive nucleic acid testing from a laboratory-based procedure into a simple, single-step test that can be performed at home. With a single reaction tube, users can obtain results comparable to those of professional laboratory tests in as little as 30 minutes. The breakthrough has the potential to bridge the technolo
-
-### Femtosecond nano-imaging reveals ultrafast optical control of phonon polaritons
-- Source: Phys.org
-- Published: 2026-08-31 22:00
-- Topics: Science, MedTech
-- Link: https://phys.org/news/2026-08-femtosecond-nano-imaging-reveals-ultrafast.html
-- Summary: A collaborative research team has successfully visualized in real space the ultrafast optical modulation of hyperbolic phonon polaritons (HPhPs) in a van der Waals heterostructure composed of hBN and WS2. The research is published in the journal Nano Letters, and was led by Kazuki Kamada of the Institute for Molecular Science (IMS) and Osaka Metropolitan University, along with Dr. Jun Nishida, assistant professor at IMS, and Takashi Kumagai, associate professor at IMS.
-
-### Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson
-- Source: TechCrunch
-- Published: 2026-08-31 18:10
-- Topics: MedTech
-- Link: https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/
-- Summary: The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.
+- Published: 2026-09-01 22:40
+- Topics: MedTech, Science
+- Link: https://phys.org/news/2026-09-archaeologists.html
+- Summary: An archaeological excavation is a little like eating a layered cake: Once you have removed a layer, you cannot put it back. The problem becomes even trickier if two layers look almost exactly the same. Researchers from Aarhus University and Moesgaard Museum in Denmark have now developed a relatively inexpensive multispectral imaging system that gives archaeologists more ways of looking at the soil before they dig into it.
 
 ## Biotech
+
+### The biggest biotech funding rounds in August 2026
+- Source: Labiotech
+- Published: 2026-09-02 08:01
+- Topics: Biotech, Funding
+- Link: https://www.labiotech.eu/in-depth/biotech-funding-rounds-august-2026/
+- Summary: The companies Moderna, Amylyx Pharmaceuticals, and Braveheart Bio bagged the biggest biotech funding rounds overall in August 2026. The post The biggest biotech funding rounds in August 2026 appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech 
+
+### Single amino acid swap expands nanoparticle vaccine approach to influenza viruses
+- Source: Phys.org
+- Published: 2026-09-01 23:20
+- Topics: Biotech
+- Link: https://phys.org/news/2026-09-amino-acid-swap-nanoparticle-vaccine.html
+- Summary: Influenza viruses constantly shapeshift to evade recognition by the immune system. This shapeshifting occurs in critical proteins like hemagglutinin (HA), which controls how the virus attaches to human cells before entering them. Influenza viruses can evade immunity in two major ways: through the gradual accumulation of mutations that make HA harder for the immune system to recognize or through reassortment events that can introduce substantially different viral proteins and potentially lead to 
+
+### AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery
+- Source: Phys.org
+- Published: 2026-09-01 21:00
+- Topics: Science, Biotech
+- Link: https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html
+- Summary: Researchers today announced AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules with a 1,000-fold reduction in computational costs over existing methods. Developed and validated by scientists from St. Jude Children's Research Hospital, University of Pavia, Dana Farber Cancer Institute and Harvard Medical School, AdaptiveFlow allows prohibitively expensive ultra-large virtual drug screens to be conducted routinely. The open-source platform was published
 
 ### How AOCs are advancing targeted therapeutics
 - Source: Labiotech
@@ -238,13 +392,77 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.labiotech.eu/in-depth/aoc-targeted-therapeutics/
 - Summary: The concept of targeted therapeutics is often traced back to German Nobel laureate&#160;Paul Ehrlich’s “magic bullet” in 1907, which envisioned a single entity that could both recognize a disease target and deliver a therapeutic effect specifically to it. This vision laid the conceptual foundation for modern conjugate drugs that followed.&#160; The first major success in [&#8230;] The post How AOCs are advancing targeted therapeutics appeared first on Labiotech.eu . © Labiotech UG and Labiotech.
 
-### Analysis of digital therapeutics patterns by economic level: evidence from the United States Patents and Trademark Offices and ClinicalTrials.gov
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Biotech
-- Link: https://www.nature.com/articles/s41746-026-03146-8
-
 ## Startups
+
+### Oslo-based Pistachio acquires Hugin.io to expand into cybersecurity compliance
+- Source: EU-Startups
+- Published: 2026-09-02 08:37
+- Topics: Startups
+- Link: https://www.eu-startups.com/2026/09/oslo-based-pistachio-acquires-hugin-io-to-expand-into-cybersecurity-compliance/
+- Summary: Pistachio, an Oslo-based AI-powered human risk platform, today announced its IP acquisition of Hugin.io, a Norwegian cyber-risk management platform that helps growing businesses assess, manage and demonstrate their cybersecurity posture and regulatory compliance. With this acquisition, Pistachio aims to broaden its offering beyond human risk to compliance management, strengthening its proposition for SMBs and mid-market [&#8230;] The post Oslo-based Pistachio acquires Hugin.io to expand into cyb
+
+### Germany’s Uplift Ventures debuts €100 million fund to bridge Europe’s DeepTech financing gap
+- Source: EU-Startups
+- Published: 2026-09-02 07:20
+- Topics: Startups, Funding
+- Link: https://www.eu-startups.com/2026/09/germanys-uplift-ventures-debuts-e100-million-fund-to-bridge-europes-deeptech-financing-gap/
+- Summary: Uplift Ventures, the Hamburg- and Berlin-based venture platform, has launched its inaugural €100 million venture capital fund to back Europe&#8217;s next generation of DeepTech founders. The fund is backed by Jungheinrich, the German intralogistics group that founded Uplift Ventures. It will deploy the €100 million across up to 20 startups and selected DeepTech funds, primarily [&#8230;] The post Germany’s Uplift Ventures debuts €100 million fund to bridge Europe’s DeepTech financing gap appeare
+
+### German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s sovereign launch capabilities
+- Source: EU-Startups
+- Published: 2026-09-02 07:00
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/
+- Summary: HyImpulse Technologies, a Neuenstadt am Kocher-based manufacturer and system provider of commercial rockets for suborbital and orbital launch services, today announced a Series A Extension round of more than €50 million in equity. The round was co-led by JOIN Capital and Ace Capital Partners, with participation from new investors, including North Ventures, BW-Capital, Bayern Kapital [&#8230;] The post German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s sovereign launch cap
+
+### Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture
+- Source: Defense News
+- Published: 2026-09-01 23:42
+- Topics: Defense, Startups
+- Link: https://www.defensenews.com/global/europe/2026/09/01/ousted-ukrainian-defense-chief-lands-palantir-ceo-as-first-investor-in-new-venture/
+- Summary: Ukraine’s recently ousted defense minister Mykhailo Fedorov is teaming up with Palantir CEO Alex Karp to launch a new defense company.
+
+### Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer
+- Source: TechCrunch
+- Published: 2026-09-01 19:30
+- Topics: Startups
+- Link: https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/
+- Summary: New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.
+
+### Sequoia-incubated Empirik launches with $21M to predict outages before they happen
+- Source: TechCrunch
+- Published: 2026-09-01 16:31
+- Topics: Startups
+- Link: https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/
+- Summary: The startup wants to do for IT infrastructure what Cursor did for software engineering.
+
+### The problem in Europe’s DefenceTech bottleneck
+- Source: EU-Startups
+- Published: 2026-09-01 14:28
+- Topics: Startups
+- Link: https://www.eu-startups.com/2026/09/europes-defencetech-bottleneck/
+- Summary: According to reports, Europe’s weapons factories are expanding at three times the rate they did in peacetime, covering some 7 million square metres of new industrial development. This, the report goes on, “represents rearmament on a historic scale”. Indeed, around the world, governments are investing a fortune in building the manufacturing capacity for critical technologies [&#8230;] The post The problem in Europe’s DefenceTech bottleneck appeared first on EU-Startups .
+
+### Want to switch to European tech? Start with these 8 websites
+- Source: EU-Startups
+- Published: 2026-09-01 14:01
+- Topics: Startups
+- Link: https://www.eu-startups.com/2026/09/want-to-switch-to-european-tech-start-with-these-8-websites/
+- Summary: Over the past month, we have been doing quite a bit of digging into European alternatives to US technology. First, we looked at 10 work-related US tools you can replace right now with European alternatives, before turning to the consumer side with European alternatives for everything else. While researching those lists, one thing quickly became [&#8230;] The post Want to switch to European tech? Start with these 8 websites appeared first on EU-Startups .
+
+### Zurich-based xorlab secures €5 million to scale sovereign email security across Europe
+- Source: EU-Startups
+- Published: 2026-09-01 11:40
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/
+- Summary: xorlab, a Zurich-based startup offering email security solutions for on-premises or cloud environments, has raised €5 million in a Series A+ financing round to accelerate its expansion across Europe, starting with DACH, Benelux, and the Nordics. The round was led by existing investor Spicehaus Partners, with continued participation from Grapha Holding, EquityPitcher Ventures, and ZKB [&#8230;] The post Zurich-based xorlab secures €5 million to scale sovereign email security across Europe appeare
+
+### 10 promising Dublin-based startups to watch
+- Source: EU-Startups
+- Published: 2026-09-01 10:58
+- Topics: Startups, AI
+- Link: https://www.eu-startups.com/2026/09/10-promising-dublin-based-startups-to-watch/
+- Summary: Dublin has long been one of Europe’s leading technology hubs, combining a deep pool of international talent with a growing community of locally founded startups. Alongside the multinational technology companies with major operations in the Irish capital, a new generation of founders is building companies across artificial intelligence, biotech, FinTech, EdTech, AgriTech and enterprise software. [&#8230;] The post 10 promising Dublin-based startups to watch appeared first on EU-Startups .
 
 ### After securing €158.9 million ESA award, PLD Space adds €108 million to Series C, bringing round to €288 million
 - Source: EU-Startups
@@ -260,55 +478,6 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.eu-startups.com/2026/09/berlins-auxxo-closes-female-catalyst-fund-ii-at-e33-3-million-and-launches-founder-matchmaking-platform/
 - Summary: Auxxo, a Berlin-based venture capital firm dedicated to backing teams with at least one female founder, has announced the final closing of its Auxxo Female Catalyst Fund II at €33.3 million, surpassing its prior fund by more than 75%. The VC firm announced the first close of Female Catalyst Fund II at €26 million in [&#8230;] The post Berlin’s Auxxo closes Female Catalyst Fund II at €33.3 million and launches founder matchmaking platform appeared first on EU-Startups .
 
-### Berlin-based Cloover secures €86.2 million facility as it reaches profitability and launches AI-native neo-utility
-- Source: EU-Startups
-- Published: 2026-09-01 06:59
-- Topics: Startups
-- Link: https://www.eu-startups.com/2026/09/berlin-based-cloover-secures-e86-2-million-facility-as-it-reaches-profitability-and-launches-ai-native-neo-utility/
-- Summary: Cloover, a Berlin-based AI-native energy platform for residential solar, heat pumps, and home electrification, has secured a new €86.2 million ($100 million) facility. It also announced that it became profitable three years after its launch, with a revenue run rate exceeding €301.7 million ($350 million). In January 2026, the company announced that it had secured [&#8230;] The post Berlin-based Cloover secures €86.2 million facility as it reaches profitability and launches AI-native neo-utility 
-
-### Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year
-- Source: TechCrunch
-- Published: 2026-09-01 00:30
-- Topics: Startups
-- Link: https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/
-- Summary: Founded by a 20-year-old, Alteon is developing autonomous aircraft that hopes to harvest wind energy to stay aloft for several months.
-
-### a16z brings growth fund to $8.5B days after launching new $1.1B fund
-- Source: TechCrunch
-- Published: 2026-08-31 23:14
-- Topics: Startups
-- Link: https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/
-- Summary: Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.
-
-### Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt
-- Source: TechCrunch
-- Published: 2026-08-31 17:14
-- Topics: Startups, Funding
-- Link: https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/
-- Summary: The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.
-
-### Clipto uses AI to search terabytes of video and is now valued at $250M
-- Source: TechCrunch
-- Published: 2026-08-31 16:00
-- Topics: Startups
-- Link: https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/
-- Summary: The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.
-
-### Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7 million
-- Source: EU-Startups
-- Published: 2026-08-31 14:37
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/reducing-preterm-birth-risks-in-foetal-surgery-kove-medical-secures-e1-7-million/
-- Summary: Zurich-based MedTech startup KOVE Medical has closed a €1.7 million (CHF 1.6 million) to develop an implantable medical device designed to reduce the risk of preterm birth following foetal surgery, with the fresh capital set to support the company as it progresses towards First-in-Human studies. The round was backed by a syndicate of angel investors. [&#8230;] The post Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7 million appeared first on EU-Startups .
-
-### Stockholm-based Elekta secures €100 million EIB loan to advance cancer and neurological treatments
-- Source: EU-Startups
-- Published: 2026-08-31 13:18
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/08/stockholm-based-elekta-secures-e100-million-eib-loan-to-advance-cancer-and-neurological-treatments/
-- Summary: Stockholm-based HealthTech company Elekta has secured a loan of up to €100 million from the European Investment Bank (EIB), the European Union&#8217;s financing arm. The financing falls under the EIB Group&#8217;s TechEU programme, which is designed to strengthen European investment in strategic technologies and innovation, and it also feeds into EU objectives around health research, [&#8230;] The post Stockholm-based Elekta secures €100 million EIB loan to advance cancer and neurological treatm
-
 ### Diffraqtion Adds to Pre-Seed Round for Quantum Camera Tech
 - Source: Payload Space
 - Published: 2026-08-31 13:00
@@ -316,42 +485,91 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://payloadspace.com/diffraqtion-adds-to-pre-seed-round-for-quantum-camera-tech/
 - Summary: The investments from Lockheed Martin Ventures and Sumitomo Corporation’s Presidio Ventures bring the startup’s total funding to $10M+. The post Diffraqtion Adds to Pre-Seed Round for Quantum Camera Tech appeared first on Payload .
 
-### 10 mental health startups that died from poor financial health
-- Source: EU-Startups
-- Published: 2026-08-31 11:21
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/10-mental-health-startups-that-died-from-poor-financial-health/
-- Summary: Europe’s mental-health startup boom has given us a treasure trove of new treatments, useful tech, and a look into where HealthTech is heading when it comes to the brain. According to our coverage, this year alone has given us 11 mental health funding rounds totalling almost €39 million. But, unfortunately, innovation does not always translate [&#8230;] The post 10 mental health startups that died from poor financial health appeared first on EU-Startups .
-
-### UK-based BatteryTech firm Nexeon secures €116.7 million with National Wealth Fund backing
-- Source: EU-Startups
-- Published: 2026-08-31 10:42
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/08/uk-based-batterytech-firm-nexeon-secures-e116-7-million-with-national-wealth-fund-backing/
-- Summary: Nexeon, an Oxfordshire-based developer of advanced silicon-based battery materials, has completed its latest investment round totalling €116.7 million (£100 million/$133 million), with the National Wealth Fund committing €61.4 million (£52.6 million/$70 million). Other new investors include the Korea Development Bank and Honda Xcelerator Ventures. The company plans to use this capital to support the expansion [&#8230;] The post UK-based BatteryTech firm Nexeon secures €116.7 million with Nationa
-
-### What does your stress reveal about your leadership?
-- Source: EU-Startups
-- Published: 2026-08-31 10:12
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/what-does-your-stress-reveal-about-your-leadership/
-- Summary: Venture capital has spent decades trying to quantify what makes an exceptional founder. Investors analyse unit economics, burn multiples and product-market fit. Yet one of the hardest variables to measure is also one of the most consequential: how a leader processes and responds to stress. Pressure is unavoidable in high-growth companies. Competitors emerge, markets contract, [&#8230;] The post What does your stress reveal about your leadership? appeared first on EU-Startups .
-
-### Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard
-- Source: EU-Startups
-- Published: 2026-08-31 09:00
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
-- Summary: S-Transistors, a newly launched Finnish startup and a spin-off from VTT Technical Research Centre of Finland, has raised €2.6 million in pre-Seed funding to deliver a new class of integrated circuits based on superconducting transistors. The round was led by Lifeline Ventures, a leading Nordic investor, and joined by an angel investor. The company plans [&#8230;] The post Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard appeared first on EU-Startups .
-
-### Redstone unveils €10 million fund targeting DeepTech, defence and energy transition in Finland
-- Source: EU-Startups
-- Published: 2026-08-31 08:39
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/redstone-unveils-e10-million-fund-targeting-deeptech-defence-and-energy-transition-in-finland/
-- Summary: German VC Redstone, today announced they are launching North Karelia Growth Fund II at €10 million, with intial tickets ranging from €100k to €300k &#8211; the new fund builds on the North Karelia Growth Fund established in 2020. Investors include the City of Joensuu, Broman Group, University of Eastern Finland, LähiTapiola Itä, North Karelia Cooperative [&#8230;] The post Redstone unveils €10 million fund targeting DeepTech, defence and energy transition in Finland appeared first on EU-Startups
-
 ## Funding
+
+### Bovine stem cells offer new approach to future cultivated steak research
+- Source: Phys.org
+- Published: 2026-09-02 09:00
+- Topics: Science, Funding
+- Link: https://phys.org/news/2026-08-bovine-stem-cells-approach-future.html
+- Summary: Cultivated meat aims to produce meat from animal cells in the laboratory without needing to raise a living animal for meat production. It has been proposed as a potentially more sustainable alternative to conventional meat production. Yet recreating something as complex as a steak—rather than minced meat—remains a major scientific challenge.
+
+### The biggest biotech funding rounds in August 2026
+- Source: Labiotech
+- Published: 2026-09-02 08:01
+- Topics: Biotech, Funding
+- Link: https://www.labiotech.eu/in-depth/biotech-funding-rounds-august-2026/
+- Summary: The companies Moderna, Amylyx Pharmaceuticals, and Braveheart Bio bagged the biggest biotech funding rounds overall in August 2026. The post The biggest biotech funding rounds in August 2026 appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech 
+
+### Germany’s Uplift Ventures debuts €100 million fund to bridge Europe’s DeepTech financing gap
+- Source: EU-Startups
+- Published: 2026-09-02 07:20
+- Topics: Startups, Funding
+- Link: https://www.eu-startups.com/2026/09/germanys-uplift-ventures-debuts-e100-million-fund-to-bridge-europes-deeptech-financing-gap/
+- Summary: Uplift Ventures, the Hamburg- and Berlin-based venture platform, has launched its inaugural €100 million venture capital fund to back Europe&#8217;s next generation of DeepTech founders. The fund is backed by Jungheinrich, the German intralogistics group that founded Uplift Ventures. It will deploy the €100 million across up to 20 startups and selected DeepTech funds, primarily [&#8230;] The post Germany’s Uplift Ventures debuts €100 million fund to bridge Europe’s DeepTech financing gap appeare
+
+### Why Are People Talking About a German Reset with Russia?
+- Source: War on the Rocks
+- Published: 2026-09-02 07:15
+- Topics: Defense, Funding
+- Link: https://warontherocks.com/why-are-people-talking-about-a-german-reset-with-russia/
+- Summary: The summer of 2026 has raised questions once again among politicians, diplomats, and academics about whether Germany might be about to dither on Russia. Last month, a drone attack on German soil seemed designed to coerce Germany back into business as usual. Earlier, there had been rumblings about two German ex-chancellors brokering a peace treaty between Kyiv and Moscow. Both Angela Merkel and Gerhard Schr&#246;der are living embodiments of the ill-reputed Ostpolitik, Germany&#8217;s tradition o
+
+### German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s sovereign launch capabilities
+- Source: EU-Startups
+- Published: 2026-09-02 07:00
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/09/german-spacetech-hyimpulse-secures-over-e50-million-to-accelerate-europes-sovereign-launch-capabilities/
+- Summary: HyImpulse Technologies, a Neuenstadt am Kocher-based manufacturer and system provider of commercial rockets for suborbital and orbital launch services, today announced a Series A Extension round of more than €50 million in equity. The round was co-led by JOIN Capital and Ace Capital Partners, with participation from new investors, including North Ventures, BW-Capital, Bayern Kapital [&#8230;] The post German SpaceTech HyImpulse secures over €50 million to accelerate Europe’s sovereign launch cap
+
+### AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
+- Source: TechCrunch
+- Published: 2026-09-01 22:08
+- Topics: Funding, AI
+- Link: https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/
+- Summary: AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.
+
+### How the new stopgap funding bill affects the Defense Department
+- Source: Breaking Defense
+- Published: 2026-09-01 20:58
+- Topics: Defense, Funding
+- Link: https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department/
+- Summary: The new continuing resolution keeps the government open, but it also comes with certain restrictions on spending.
+
+### House passes funding stopgap, averting government shutdown in October
+- Source: Breaking Defense
+- Published: 2026-09-01 18:10
+- Topics: Funding
+- Link: https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/
+- Summary: The bill, which now heads to the president&#8217;s desk, gives Congress until Dec. 11 to pass full-year appropriations.
+
+### AIR raises $50M to help companies vet the skills and add-ons AI agents use
+- Source: TechCrunch
+- Published: 2026-09-01 15:45
+- Topics: Funding
+- Link: https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/
+- Summary: AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.
+
+### Defense startup raises $61 million to put AI into a wrist-worn display
+- Source: C4ISRNET
+- Published: 2026-09-01 12:24
+- Topics: Defense, Funding
+- Link: https://www.c4isrnet.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/
+- Summary: A defense startup has raised $61 million to put AI into a wrist-worn display that connects field operators to real-time data.
+
+### Zurich-based xorlab secures €5 million to scale sovereign email security across Europe
+- Source: EU-Startups
+- Published: 2026-09-01 11:40
+- Topics: Funding, Startups
+- Link: https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/
+- Summary: xorlab, a Zurich-based startup offering email security solutions for on-premises or cloud environments, has raised €5 million in a Series A+ financing round to accelerate its expansion across Europe, starting with DACH, Benelux, and the Nordics. The round was led by existing investor Spicehaus Partners, with continued participation from Grapha Holding, EquityPitcher Ventures, and ZKB [&#8230;] The post Zurich-based xorlab secures €5 million to scale sovereign email security across Europe appeare
+
+### Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics raises €20 million for drone defence
+- Source: EU-Startups
+- Published: 2026-09-01 11:20
+- Topics: Funding, Defense
+- Link: https://www.eu-startups.com/2026/09/drone-attack-at-leipzig-halle-airport-underscores-threat-as-inleap-photonics-raises-e20-million-for-drone-defence/
+- Summary: Hannover-based DeepTech company INLEAP Photonics has closed a €20 million Seed funding round for its laser-based drone defence in order to accelerate the scaling of its technology for defence applications and the protection of critical infrastructure. The round was led by UVC Partners, with participation from HTGF, Balnord, Sentries, and Scale Capital. “Our technology has [&#8230;] The post Drone attack at Leipzig/Halle Airport underscores threat as INLEAP Photonics raises €20 million for drone 
 
 ### After securing €158.9 million ESA award, PLD Space adds €108 million to Series C, bringing round to €288 million
 - Source: EU-Startups
@@ -359,6 +577,13 @@ Generated: 2026-09-01 10:37 UTC
 - Topics: Funding, Startups
 - Link: https://www.eu-startups.com/2026/09/after-securing-e158-9-million-esa-award-pld-space-adds-e108-million-to-series-c-bringing-round-to-e288-million/
 - Summary: PLD Space, an Elche-based space transportation company, today announced that it has extended its Series C funding round, originally launched in March 2026, with an additional €108 million investment. The Series C extension was led once again by Mitsubishi Electric Corporation. The Spanish public funds management company COFIDES is co-investing again following its participation in [&#8230;] The post After securing €158.9 million ESA award, PLD Space adds €108 million to Series C, bringing round t
+
+### Investor confidence is built beyond the data
+- Source: Labiotech
+- Published: 2026-09-01 08:00
+- Topics: Funding
+- Link: https://www.labiotech.eu/partner/investor-confidence-advanced-therapies/
+- Summary: See why investor confidence in cell and gene therapies now depends on execution and supply chain strategy—not strong science alone. The post Investor confidence is built beyond the data appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG an
 
 ### Berlin’s Auxxo closes Female Catalyst Fund II at €33.3 million and launches founder matchmaking platform
 - Source: EU-Startups
@@ -374,47 +599,12 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://warontherocks.com/the-political-constraint-on-americas-data-center-power-buildout/
 - Summary: In April, President Donald Trump issued two Defense Production Act determinations covering grid infrastructure and large-scale energy infrastructure. One found that the country&#8217;s constrained electric grid posed an increasing threat to national defense and made grid infrastructure and its supply chains essential to national defense. The other found that financing risks, regulatory delays, and market barriers were preventing large-scale energy infrastructure essential to national defense fro
 
-### Magna increases bet on battery swapping in India with $35M for Yuma
-- Source: TechCrunch
+### NASA’s New Horizons mission may shut down two instruments over lack of funding
+- Source: Science
 - Published: 2026-09-01 05:00
-- Topics: Funding
-- Link: https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/
-- Summary: Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.
-
-### Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund
-- Source: TechCrunch
-- Published: 2026-08-31 23:41
-- Topics: Funding
-- Link: https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/
-- Summary: The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion.
-
-### Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
-- Source: TechCrunch
-- Published: 2026-08-31 18:35
-- Topics: Funding
-- Link: https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/
-- Summary: Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.
-
-### Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt
-- Source: TechCrunch
-- Published: 2026-08-31 17:14
-- Topics: Startups, Funding
-- Link: https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/
-- Summary: The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.
-
-### Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7 million
-- Source: EU-Startups
-- Published: 2026-08-31 14:37
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/reducing-preterm-birth-risks-in-foetal-surgery-kove-medical-secures-e1-7-million/
-- Summary: Zurich-based MedTech startup KOVE Medical has closed a €1.7 million (CHF 1.6 million) to develop an implantable medical device designed to reduce the risk of preterm birth following foetal surgery, with the fresh capital set to support the company as it progresses towards First-in-Human studies. The round was backed by a syndicate of angel investors. [&#8230;] The post Reducing preterm birth risks in foetal surgery, KOVE Medical secures €1.7 million appeared first on EU-Startups .
-
-### Stockholm-based Elekta secures €100 million EIB loan to advance cancer and neurological treatments
-- Source: EU-Startups
-- Published: 2026-08-31 13:18
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/08/stockholm-based-elekta-secures-e100-million-eib-loan-to-advance-cancer-and-neurological-treatments/
-- Summary: Stockholm-based HealthTech company Elekta has secured a loan of up to €100 million from the European Investment Bank (EIB), the European Union&#8217;s financing arm. The financing falls under the EIB Group&#8217;s TechEU programme, which is designed to strengthen European investment in strategic technologies and innovation, and it also feeds into EU objectives around health research, [&#8230;] The post Stockholm-based Elekta secures €100 million EIB loan to advance cancer and neurological treatm
+- Topics: Science, Funding
+- Link: https://www.science.org/content/article/nasa-s-new-horizons-mission-may-shut-down-two-instruments-over-lack-funding
+- Summary: Decision risks “incalculable loss” of data from the edge of the Sun’s influence, scientists say
 
 ### Diffraqtion Adds to Pre-Seed Round for Quantum Camera Tech
 - Source: Payload Space
@@ -423,72 +613,240 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://payloadspace.com/diffraqtion-adds-to-pre-seed-round-for-quantum-camera-tech/
 - Summary: The investments from Lockheed Martin Ventures and Sumitomo Corporation’s Presidio Ventures bring the startup’s total funding to $10M+. The post Diffraqtion Adds to Pre-Seed Round for Quantum Camera Tech appeared first on Payload .
 
-### 10 mental health startups that died from poor financial health
-- Source: EU-Startups
-- Published: 2026-08-31 11:21
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/10-mental-health-startups-that-died-from-poor-financial-health/
-- Summary: Europe’s mental-health startup boom has given us a treasure trove of new treatments, useful tech, and a look into where HealthTech is heading when it comes to the brain. According to our coverage, this year alone has given us 11 mental health funding rounds totalling almost €39 million. But, unfortunately, innovation does not always translate [&#8230;] The post 10 mental health startups that died from poor financial health appeared first on EU-Startups .
-
-### UK-based BatteryTech firm Nexeon secures €116.7 million with National Wealth Fund backing
-- Source: EU-Startups
-- Published: 2026-08-31 10:42
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/08/uk-based-batterytech-firm-nexeon-secures-e116-7-million-with-national-wealth-fund-backing/
-- Summary: Nexeon, an Oxfordshire-based developer of advanced silicon-based battery materials, has completed its latest investment round totalling €116.7 million (£100 million/$133 million), with the National Wealth Fund committing €61.4 million (£52.6 million/$70 million). Other new investors include the Korea Development Bank and Honda Xcelerator Ventures. The company plans to use this capital to support the expansion [&#8230;] The post UK-based BatteryTech firm Nexeon secures €116.7 million with Nationa
-
-### What does your stress reveal about your leadership?
-- Source: EU-Startups
-- Published: 2026-08-31 10:12
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/what-does-your-stress-reveal-about-your-leadership/
-- Summary: Venture capital has spent decades trying to quantify what makes an exceptional founder. Investors analyse unit economics, burn multiples and product-market fit. Yet one of the hardest variables to measure is also one of the most consequential: how a leader processes and responds to stress. Pressure is unavoidable in high-growth companies. Competitors emerge, markets contract, [&#8230;] The post What does your stress reveal about your leadership? appeared first on EU-Startups .
-
-### Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard
-- Source: EU-Startups
-- Published: 2026-08-31 09:00
-- Topics: Funding, Startups
-- Link: https://www.eu-startups.com/2026/08/finlands-s-transistors-raises-e2-6-million-to-build-the-worlds-first-quantum-motherboard/
-- Summary: S-Transistors, a newly launched Finnish startup and a spin-off from VTT Technical Research Centre of Finland, has raised €2.6 million in pre-Seed funding to deliver a new class of integrated circuits based on superconducting transistors. The round was led by Lifeline Ventures, a leading Nordic investor, and joined by an angel investor. The company plans [&#8230;] The post Finland’s S-Transistors raises €2.6 million to build the world’s first quantum motherboard appeared first on EU-Startups .
-
-### Redstone unveils €10 million fund targeting DeepTech, defence and energy transition in Finland
-- Source: EU-Startups
-- Published: 2026-08-31 08:39
-- Topics: Startups, Funding
-- Link: https://www.eu-startups.com/2026/08/redstone-unveils-e10-million-fund-targeting-deeptech-defence-and-energy-transition-in-finland/
-- Summary: German VC Redstone, today announced they are launching North Karelia Growth Fund II at €10 million, with intial tickets ranging from €100k to €300k &#8211; the new fund builds on the North Karelia Growth Fund established in 2020. Investors include the City of Joensuu, Broman Group, University of Eastern Finland, LähiTapiola Itä, North Karelia Cooperative [&#8230;] The post Redstone unveils €10 million fund targeting DeepTech, defence and energy transition in Finland appeared first on EU-Startups
-
-### In autism advisory committee’s funding plan, critics see a veiled antivaccine focus
-- Source: Science
-- Published: 2026-08-31 06:30
-- Topics: Science, Funding
-- Link: https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus
-- Summary: The new plan, marked by a turbulent rollout and vote, urges more research on poorly understood “regression” to autism
-
 ## Space
 
-### OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award
-- Source: Satellite Today
-- Published: 2026-08-31 19:29
-- Topics: Space
-- Link: https://www.satellitetoday.com/connectivity/2026/08/31/ohb-to-build-18-meo-satellites-for-iris%c2%b2-in-nearly-e1b-award/
-- Summary: SES awarded a contract to OHB to manufacture 18 Medium-Earth Orbit (MEO) satellites for Europe’s IRIS² constellation in a deal announced Monday. OHB said the contract is worth nearly 1 [&#8230;] The post OHB to Build 18 MEO Satellites for IRIS² in Nearly €1B Award appeared first on Via Satellite .
+### European Resilience in Digital Infrastructure: The Changing Nature of State-Business Relations
+- Source: War on the Rocks
+- Published: 2026-09-02 08:00
+- Topics: Defense, Space
+- Link: https://warontherocks.com/cogs-of-war/european-resilience-in-digital-infrastructure-the-changing-nature-of-state-business-relations/
+- Summary: As the war in Ukraine progressed, Russian strikes increasingly degraded Ukraine&#8217;s terrestrial communications infrastructure, steadily deepening Kyiv&#8217;s dependence on SpaceX&#8217;s Starlink. The satellite constellation became indispensable for crucial military functions, including command and control, drone operations, and artillery fire coordination, with no readily available European alternative should access be withdrawn.This reality exemplifies the idea that today, governments rel
 
-### Roman Space Telescope Begins Its Journey to L2
+### The Commercial-First Shift in National Security Space
 - Source: Payload Space
-- Published: 2026-08-30 21:29
+- Published: 2026-09-02 02:12
+- Topics: Space, Defense
+- Link: https://payloadspace.com/the-commercial-first-shift-in-national-security-space/
+- Summary: For decades, the model for building national security space systems was relatively straightforward. The government defined a mission, established requirements, funded a spacecraft designed specifically to meet them, and ultimately owned and operated the resulting capability. The post The Commercial-First Shift in National Security Space appeared first on Payload .
+
+### Precision optics to make plant health visible from space
+- Source: Phys.org
+- Published: 2026-09-01 21:00
+- Topics: Space, Science
+- Link: https://phys.org/news/2026-09-precision-optics-health-visible-space.html
+- Summary: When the ESA Earth observation mission FLEX launches into space on September 15, 2026, as scheduled, it will carry high-precision optical components from Jena, Germany. Researchers at the Fraunhofer Institute for Applied Optics and Precision Engineering IOF have developed and manufactured a silicon-based double-slit assembly as well as two high-precision mirrors for the spectrometer on board the satellite. The spectrometer is designed to detect the fluorescence of plants excited by sunlight from
+
+### Kymeta Lands $20M DoD Order for Osprey u8 Satcom Terminals
+- Source: Satellite Today
+- Published: 2026-09-01 19:47
+- Topics: Space, Defense
+- Link: https://www.satellitetoday.com/technology/2026/09/01/kymeta-lands-20m-dod-order-for-osprey-u8-satcom-terminals/
+- Summary: Kymeta secured an order from a branch within the U.S. Department of Defense for 100 Osprey u8 multi-orbit satcom terminals worth $20 million. The award announced Tuesday includes multi-orbit connectivity [&#8230;] The post Kymeta Lands $20M DoD Order for Osprey u8 Satcom Terminals appeared first on Via Satellite .
+
+### Space Defense in 2040: A Networked, Weaponized, and Contested Frontier
+- Source: Satellite Today
+- Published: 2026-09-01 16:46
+- Topics: Space, Defense
+- Link: https://www.satellitetoday.com/government-military/2026/09/01/space-defense-in-2040-a-networked-weaponized-and-contested-frontier/
+- Summary: Autonomous systems, ubiquitous sensors, and AI-optimized targeting are positioned to transform tomorrow’s warfighting domain, where the ability to see, decide, and act first may rest with constellations in orbit rather [&#8230;] The post Space Defense in 2040: A Networked, Weaponized, and Contested Frontier appeared first on Via Satellite .
+
+### Mapping the Future of Space in 2040: From Constant Connectivity to AI-Powered Intelligence
+- Source: Satellite Today
+- Published: 2026-09-01 16:45
 - Topics: Space
-- Link: https://payloadspace.com/roman-space-telescope-begins-its-journey-to-l2/
-- Summary: The Nancy Grace Roman Space Telescope launched at 7:26 am ET on Sunday from KSC aboard a SpaceX Falcon Heavy rocket, starting its journey to Lagrange Point 2 and beginning a lengthy commissioning period. The post Roman Space Telescope Begins Its Journey to L2 appeared first on Payload .
+- Link: https://www.satellitetoday.com/space-economy/2026/09/01/mapping-the-future-of-space-in-2040-from-constant-connectivity-to-ai-powered-intelligence/
+- Summary: Talk to space industry aficionados about their vision of the not so distant future and you’ll hear about a world of science fiction turned reality. Fleets of orbital data centers [&#8230;] The post Mapping the Future of Space in 2040: From Constant Connectivity to AI-Powered Intelligence appeared first on Via Satellite .
+
+### The ‘Impossible’ Shaping a Better Future
+- Source: Satellite Today
+- Published: 2026-09-01 16:44
+- Topics: Space
+- Link: https://www.satellitetoday.com/opinion/2026/09/01/the-impossible-shaping-a-better-future/
+- Summary: Happy 40th Birthday to Via Satellite! In 2025, ~4,500 satellites were launched into space globally – a greater than twenty times increase compared to an average, annual launch cadence 40 [&#8230;] The post The &#8216;Impossible&#8217; Shaping a Better Future appeared first on Via Satellite .
+
+### Exclusive: Helogen Plans Two In-Orbit Manufacturing Missions in October
+- Source: Payload Space
+- Published: 2026-09-01 13:00
+- Topics: Space
+- Link: https://payloadspace.com/exclusive-helogen-plans-two-in-orbit-manufacturing-missions-in-october/
+- Summary: While Helogen has flown subsystems in the past, the missions will mark the first flights of the entire HEL-IOS platform. The post Exclusive: Helogen Plans Two In-Orbit Manufacturing Missions in October appeared first on Payload .
 
 ## Science
 
-### In Japan's mountains, a different way to manage bears
+### Bovine stem cells offer new approach to future cultivated steak research
 - Source: Phys.org
-- Published: 2026-09-01 09:20
+- Published: 2026-09-02 09:00
+- Topics: Science, Funding
+- Link: https://phys.org/news/2026-08-bovine-stem-cells-approach-future.html
+- Summary: Cultivated meat aims to produce meat from animal cells in the laboratory without needing to raise a living animal for meat production. It has been proposed as a potentially more sustainable alternative to conventional meat production. Yet recreating something as complex as a steak—rather than minced meat—remains a major scientific challenge.
+
+### Eight-letter DNA alphabet is accurately transcribed by a natural enzyme
+- Source: Phys.org
+- Published: 2026-09-02 09:00
 - Topics: Science
-- Link: https://phys.org/news/2026-09-japan-mountains.html
-- Summary: As a sensor sounded, scientist Akiko Takii hurried to a bear trap deep in the forests of Nagano, Japan, where rising nationwide attacks have sparked fear and the culling of thousands of the animals.
+- Link: https://phys.org/news/2026-08-letter-dna-alphabet-accurately-natural.html
+- Summary: All known life on Earth uses the same genetic alphabet, consisting of four letters. Now, researchers at the University of California San Diego have demonstrated that one of biology's most essential enzymes can accurately read and transcribe an expanded, eight-letter genetic alphabet. The findings provide important evidence that cells can process synthetic genetic information using their natural molecular machinery, advancing a long-standing goal in synthetic biology to expand the language of DNA
+
+### Scientists discover the key ingredients that make birdsong pretty
+- Source: Phys.org
+- Published: 2026-09-02 04:00
+- Topics: Science
+- Link: https://phys.org/news/2026-08-scientists-key-ingredients-birdsong-pretty.html
+- Summary: What makes birdsong beautiful? Answering this question could help us understand how soundscapes make the natural world relaxing for humans, opening the door to improving parks, upgrading the design of stressful places like waiting rooms and promoting conservation through birds with especially lovely songs.
+
+### Community-led systems may curb illegal dumping in Indonesia's rural tourism areas
+- Source: Phys.org
+- Published: 2026-09-02 03:00
+- Topics: Science
+- Link: https://phys.org/news/2026-09-community-curb-illegal-dumping-indonesia.html
+- Summary: Local action may offer a model for waste management in rural tourism, according to research published in the International Journal of Tourism Anthropology. The study of waste problems in Kampung Nipah, a coastal tourism hamlet in North Sumatra, Indonesia, argues that rural communities with limited public services may need locally governed waste systems rather than relying solely on municipal services.
+
+### Children's picture books reflect changing attitudes to languages and can support revitalization
+- Source: Phys.org
+- Published: 2026-09-02 02:00
+- Topics: Science
+- Link: https://phys.org/news/2026-09-children-picture-attitudes-languages-revitalization.html
+- Summary: We know from a wealth of research that children's picture books support language learning.
+
+### Agentic AI accelerates search for crops that can harvest critical minerals
+- Source: Phys.org
+- Published: 2026-09-02 01:00
+- Topics: Science
+- Link: https://phys.org/news/2026-09-agentic-ai-crops-harvest-critical.html
+- Summary: For too long, the United States has relied on foreign sources for most of the raw materials powering its technological future: the essential minerals in every smartphone, battery pack and semiconductor. What if one answer to the supply crisis isn't buried in a mine shaft but growing quietly in a field? Scientists are betting on a resource-efficient, highly effective strategy: using engineered plants and symbiotic microbes to absorb critical minerals directly from the Earth in a process called ph
+
+### Many space missions are searching for life beyond Earth, but are we prepared for the fallout if they succeed?
+- Source: Phys.org
+- Published: 2026-09-02 00:40
+- Topics: Science
+- Link: https://phys.org/news/2026-09-space-missions-life-earth-fallout.html
+- Summary: Microbes from space have fueled the plots of science fiction mainstays like "Project Hail Mary" and "The Andromeda Strain." But with more space missions launching each year, finding extraterrestrial life in a microbial form is becoming more plausible. What will the response be back here on Earth if—or when—scientists discover extraterrestrial microbes? Will the international policy and security communities be prepared for the fallout?
+
+### Border toy screening finds 12% exceed toxic-metal limits
+- Source: Phys.org
+- Published: 2026-09-02 00:20
+- Topics: Science
+- Link: https://phys.org/news/2026-09-border-toy-screening-exceed-toxic.html
+- Summary: Nearly four out of five children's toys purchased in the El Paso-Ciudad Juárez region contain at least one toxic element, according to a new study led by researchers at The University of Texas at El Paso. The findings, just published in the journal Environmental Pollution, represent the first binational screening of hazardous metals in toys sold on both sides of the U.S.-Mexico border.
+
+### Magnetic beads streamline large-scale analysis of disease-linked glycopeptides
+- Source: Phys.org
+- Published: 2026-09-02 00:00
+- Topics: Science
+- Link: https://phys.org/news/2026-09-magnetic-beads-large-scale-analysis.html
+- Summary: A research team has developed a reliable, economical laboratory method that uses tiny magnetic beads to study proteins with sugar molecules attached to them in blood and tissue samples. A better understanding of their pathological changes could help researchers diagnose and treat diseases, including cancer.
+
+### New high-temperature, high-pressure isotope ratio analysis method developed for halogenated compounds
+- Source: Phys.org
+- Published: 2026-09-01 23:40
+- Topics: Science
+- Link: https://phys.org/news/2026-09-high-temperature-pressure-isotope-ratio.html
+- Summary: Halogenated organic compounds (HOCs) are widely used in industrial and consumer products, but some are highly persistent and difficult to analyze and manage. In a new study, researchers developed an innovative approach for carbon isotope ratio analysis of these compounds, which has previously been difficult. This approach will help track the sources and environmental pathways of such pollutants, contributing to the development of effective management strategies.
+
+### Firelight may have sparked human storytelling by extending social hours
+- Source: Phys.org
+- Published: 2026-09-01 23:10
+- Topics: Science
+- Link: https://phys.org/news/2026-08-firelight-human-storytelling-social-hours.html
+- Summary: New research from the University of St Andrews has developed a novel hypothesis of how firelight was critical to the evolution of sophisticated storytelling.
+
+### Muddying the waters makes stickleback fish more coordinated, study finds
+- Source: Phys.org
+- Published: 2026-09-01 23:10
+- Topics: Science
+- Link: https://phys.org/news/2026-08-muddying-stickleback-fish.html
+- Summary: Stickleback fish can change their social behavior to help them find food in cloudy water, according to a new University of Bristol study published in Proceedings of the Royal Society B.
+
+### Survey reveals marine biodiversity hotspot needs protection
+- Source: Phys.org
+- Published: 2026-09-01 23:00
+- Topics: Science
+- Link: https://phys.org/news/2026-09-survey-reveals-marine-biodiversity-hotspot.html
+- Summary: An environmental DNA study by a multi-institutional research collaboration has revealed distinct regions of extraordinary marine biodiversity that can help inform management of a proposed marine park in Western Australia's Exmouth Gulf.
+
+### LEDs let archaeologists see the past in a new light
+- Source: Phys.org
+- Published: 2026-09-01 22:40
+- Topics: MedTech, Science
+- Link: https://phys.org/news/2026-09-archaeologists.html
+- Summary: An archaeological excavation is a little like eating a layered cake: Once you have removed a layer, you cannot put it back. The problem becomes even trickier if two layers look almost exactly the same. Researchers from Aarhus University and Moesgaard Museum in Denmark have now developed a relatively inexpensive multispectral imaging system that gives archaeologists more ways of looking at the soil before they dig into it.
+
+### Giant impact could have formed an intact moon within five hours, simulations suggest
+- Source: Phys.org
+- Published: 2026-09-01 22:20
+- Topics: Science
+- Link: https://phys.org/news/2026-09-giant-impact-intact-moon-hours.html
+- Summary: New Southwest Research Institute (SwRI) modeling, conducted in collaboration with scientists at the University of Arizona, shows fundamental differences in how the moon may have formed from the giant impact that created the Earth–moon system. The new results used state-of-the-art computational techniques that factor in the material strength of the two colliding planets. These impact simulations could change how researchers understand moon formation and may help constrain the timing of the event.
+
+### Elementary school teachers report increased student hunger and anxiety after universal free school meals ended
+- Source: Phys.org
+- Published: 2026-09-01 22:20
+- Topics: Science
+- Link: https://phys.org/news/2026-09-elementary-school-teachers-student-hunger.html
+- Summary: A recent study published in the Journal of Nutrition Education and Behavior explored elementary school teachers' experiences before and after the end of the federal universal free school meals (UFSM) policy. Researchers found that teachers perceived the policy had helped reduce student hunger and family stress, while its expiration was associated with increased hunger, anxiety about meal costs and decreased participation in school meal programs.
+
+### A roadmap for animal-free chemical testing
+- Source: Phys.org
+- Published: 2026-09-01 21:40
+- Topics: Science
+- Link: https://phys.org/news/2026-09-roadmap-animal-free-chemical.html
+- Summary: For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of chemicals.
+
+### A sustainable flame retardant derived from corn steep liquor
+- Source: Phys.org
+- Published: 2026-09-01 21:20
+- Topics: Science
+- Link: https://phys.org/news/2026-09-sustainable-flame-retardant-derived-corn.html
+- Summary: Certain phosphorus compounds are highly effective at suppressing fires, which is why they are widely used in flame retardants. Phosphorus, however, is a finite resource. Estimates suggest it could be depleted within the next 50–300 years. That is why, as part of the ScaleAmP project, a research team is working to extract phosphorus from corn steep liquor, a byproduct of starch production.
+
+### Ocean heat waves linked with poorer health among children in coastal communities
+- Source: Phys.org
+- Published: 2026-09-01 21:20
+- Topics: Science
+- Link: https://phys.org/news/2026-09-ocean-linked-poorer-health-children.html
+- Summary: Marine heat waves—periods of abnormally warm ocean temperatures—may have negative health effects on children who live in coastal communities in low- and middle-income countries, according to a study led by researchers at Penn State and the University of North Carolina at Chapel Hill.
+
+### AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery
+- Source: Phys.org
+- Published: 2026-09-01 21:00
+- Topics: Science, Biotech
+- Link: https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html
+- Summary: Researchers today announced AdaptiveFlow, an AI-informed platform that can virtually screen billions of drug-like molecules with a 1,000-fold reduction in computational costs over existing methods. Developed and validated by scientists from St. Jude Children's Research Hospital, University of Pavia, Dana Farber Cancer Institute and Harvard Medical School, AdaptiveFlow allows prohibitively expensive ultra-large virtual drug screens to be conducted routinely. The open-source platform was published
+
+### Precision optics to make plant health visible from space
+- Source: Phys.org
+- Published: 2026-09-01 21:00
+- Topics: Space, Science
+- Link: https://phys.org/news/2026-09-precision-optics-health-visible-space.html
+- Summary: When the ESA Earth observation mission FLEX launches into space on September 15, 2026, as scheduled, it will carry high-precision optical components from Jena, Germany. Researchers at the Fraunhofer Institute for Applied Optics and Precision Engineering IOF have developed and manufactured a silicon-based double-slit assembly as well as two high-precision mirrors for the spectrometer on board the satellite. The spectrometer is designed to detect the fluorescence of plants excited by sunlight from
+
+### Larger catalyst batches could make carbon recycling cheaper and easier to scale
+- Source: Phys.org
+- Published: 2026-09-01 20:40
+- Topics: Science
+- Link: https://phys.org/news/2026-09-larger-catalyst-batches-carbon-recycling.html
+- Summary: Turning carbon dioxide into industrial chemicals used in everything from synthetic fuels to plastics and pharmaceuticals is costly. But new research shows it does not have to be.
+
+### Tests reveal how thermoplastic composites lose strength at elevated temperatures
+- Source: Phys.org
+- Published: 2026-09-01 20:40
+- Topics: Science
+- Link: https://phys.org/news/2026-09-reveal-thermoplastic-composites-strength-elevated.html
+- Summary: Researchers from Skoltech together with colleagues from Xi'an Jiaotong University and the Blagonravov Institute of Mechanical Engineering of the Russian Academy of Sciences, have conducted a systematic study of the flexural properties of pultruded glass fiber composites based on three different thermoplastic matrices: polyphenylene sulfide (PPS), polyamide-6 (PA6) and polypropylene (PP).
+
+### Trump Orders Study To Establish US Space Academy
+- Source: Payload Space
+- Published: 2026-09-01 17:45
+- Topics: Science
+- Link: https://payloadspace.com/trump-orders-study-to-establish-us-space-academy/
+- Summary: Is the US about to add a new service-academy rivalry to college football Saturdays? The post Trump Orders Study To Establish US Space Academy appeared first on Payload .
+
+### World’s biggest dark matter detector spots a single weird particle
+- Source: Science
+- Published: 2026-09-01 10:00
+- Topics: Science
+- Link: https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle
+- Summary: It’s far too early to declare a discovery, physicists with the LZ detector say
 
 ### How engineered microbes could help feed the world’s crops
 - Source: MIT Technology Review
@@ -497,151 +855,38 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/
 - Summary: Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help&#8230;
 
-### Researchers catch sharks off NY's Hamptons, attach trackers to toothy predators
-- Source: Phys.org
-- Published: 2026-09-01 08:50
-- Topics: Science
-- Link: https://phys.org/news/2026-09-sharks-ny-hamptons-trackers-toothy.html
-- Summary: Just off one of New York's famed Hamptons beaches, shark researcher Greg Metzger reels in one of the day's prize catches: a young but powerful sand tiger shark.
-
-### Scientists identify early signal of dangerous pregnancy complications
+### California to vote on spending $16 billion to boost research after Trump cuts
 - Source: Science
-- Published: 2026-09-01 05:10
+- Published: 2026-09-01 07:05
 - Topics: Science
-- Link: https://www.science.org/content/article/scientists-identify-early-signal-dangerous-pregnancy-complications
-- Summary: Low levels of a placenta-made protein predict preeclampsia and fetal growth restriction and could offer new target for prevention
+- Link: https://www.science.org/content/article/california-vote-spending-16-billion-boost-research-after-trump-cuts
+- Summary: State initiatives this fall and in early 2028 will gauge voters’ appetite for science, but controversy has grown around one proposal
 
-### Higher cutting could reduce annual bluegrass contamination in tall fescue seed
-- Source: Phys.org
-- Published: 2026-09-01 03:40
+### NASA’s New Horizons mission may shut down two instruments over lack of funding
+- Source: Science
+- Published: 2026-09-01 05:00
+- Topics: Science, Funding
+- Link: https://www.science.org/content/article/nasa-s-new-horizons-mission-may-shut-down-two-instruments-over-lack-funding
+- Summary: Decision risks “incalculable loss” of data from the edge of the Sun’s influence, scientists say
+
+### Fearing traumatic seal die-off, Australia moves to evacuate polar research station
+- Source: Science
+- Published: 2026-09-01 03:30
 - Topics: Science
-- Link: https://phys.org/news/2026-08-higher-annual-bluegrass-contamination-tall.html
-- Summary: Harvesting tall fescue above annual bluegrass seed heads could help reduce contamination and seed-cleaning costs. Preliminary Oregon research found that cutting at 28 centimeters (11 inches) rather than 5 centimeters (2 inches) reduced annual bluegrass collected with the crop without consistently reducing tall fescue seed yield.
+- Link: https://www.science.org/content/article/fearing-traumatic-seal-die-australia-moves-evacuate-polar-research-station
+- Summary: Witnessing thousands of seal pups die from bird flu could harm staff mental health, officials say
 
-### New policy brief outlines how EU policies can better support sponge restoration
-- Source: Phys.org
-- Published: 2026-09-01 03:00
-- Topics: Science
-- Link: https://phys.org/news/2026-08-policy-outlines-eu-policies-sponge.html
-- Summary: Europe's water and climate resilience is under increasing pressure, with degraded soils, drained catchments and the loss of wetlands intensifying droughts and contributing to more destructive floods. In response, the EU-funded projects SpongeBoost, SpongeWorks and SpongeScapes have published a joint policy brief, "Achieving Better Implementation of EU Policies by Restoring the Sponge Function." The brief provides recommendations to strengthen Europe's water and climate resilience by restoring th
-
-### National survey measures full financial burden of community sport in Australia
-- Source: Phys.org
-- Published: 2026-09-01 02:20
-- Topics: Science
-- Link: https://phys.org/news/2026-08-national-survey-full-financial-burden.html
-- Summary: The cost of playing community sports in Australia is far higher than previously understood, with a new national study led by Federation University finding families spend an average of $4,567 per child each year to keep their children playing sports.
-
-### Cover crops could ease the shift from perennial seed to annual crops
-- Source: Phys.org
-- Published: 2026-09-01 02:00
-- Topics: Science
-- Link: https://phys.org/news/2026-08-crops-ease-shift-perennial-seed.html
-- Summary: Transitioning an aging perennial forage seed stand into annual cropping can be difficult, particularly when the original crop persists or weeds establish after termination. Preliminary Canadian research suggests cover crops could help by suppressing regrowth and weeds, retaining biomass and cycling nutrients.
-
-### Drones take farming to new heights
-- Source: Phys.org
-- Published: 2026-09-01 01:20
-- Topics: Science, Defense
-- Link: https://phys.org/news/2026-08-drones-farming-heights.html
-- Summary: High above the fields of the Morven Sustainability Lab, drones equipped with heat and light sensors are changing what it means to farm smarter. This month, researchers and students from the University of Virginia, NASA and the University at Buffalo tested drone technology by flying more than 100 feet (30 meters) above crops to measure plant health at UVA's 2,900-acre (1,170-hectare) research facility.
-
-### Advancing equity through community-led, globally connected infectious disease research
+### Discovery of plastid gene mutations causing albinism in chimeric Cornus cultivars (Cornaceae)
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Science
-- Link: https://www.nature.com/articles/s41564-026-02489-y
+- Link: https://www.nature.com/articles/s41598-026-67908-w
 
-### Even small amounts of ocean plastic can affect petrel chicks
-- Source: Phys.org
-- Published: 2026-08-31 23:20
+### From construction to application: a study on royal jelly-based Pickering emulsions for delivering Alpinia oxyphylla essential oil with 3D printing
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Science
-- Link: https://phys.org/news/2026-08-small-amounts-ocean-plastic-affect.html
-- Summary: Ocean plastic pollution is accidentally on the menu for southern giant petrel chicks. Even small nibbles of it may affect their physiology during development, according to a study from the University of California, Davis, and Argentina's National Research Council (CONICET).
-
-### Sliding sugars offer simpler, smarter route to precision liver-targeted therapies
-- Source: Phys.org
-- Published: 2026-08-31 23:20
-- Topics: Science
-- Link: https://phys.org/news/2026-08-sugars-simpler-smarter-route-precision.html
-- Summary: Targeted drug delivery directly to the liver has unlocked major breakthroughs across medicine, but constructing the chemical key to enter liver cells remains complex and costly. Today, researchers at Kumamoto University, in collaboration with the National University of Singapore, have unveiled a nature-inspired solution that bypasses synthetic bottlenecks by giving single sugar molecules room to move. Their findings are published in the journal Advanced Science.
-
-### Even ancient bacteria possessed intercellular communication structures like humans today, study finds
-- Source: Phys.org
-- Published: 2026-08-31 23:00
-- Topics: Science
-- Link: https://phys.org/news/2026-08-ancient-bacteria-intercellular-communication-humans.html
-- Summary: Communication between cells in plants, animals and humans takes place via specialized connecting structures. An international team led by biologists from Heinrich Heine University Düsseldorf (HHU) and involving the University of Tübingen has now discovered that the regulation of very similar structures was already present in multicellular bacteria, implying that it must have originated much earlier in the course of evolution. In their paper published in The EMBO Journal, the researchers describe
-
-### AI chatbot use for emotional support tied to loneliness in students
-- Source: Phys.org
-- Published: 2026-08-31 22:50
-- Topics: Science
-- Link: https://phys.org/news/2026-08-ai-chatbot-emotional-loneliness-students.html
-- Summary: Young people leaning on AI chatbots for emotional support or personal advice are significantly more likely to struggle with serious emotional problems, feel isolated and doubt that they truly matter to others, a new uOttawa study warns.
-
-### 'One-pot' CRISPR platform delivers lab-like sensitivity in 30 minutes for at-home testing
-- Source: Phys.org
-- Published: 2026-08-31 22:40
-- Topics: Science, MedTech
-- Link: https://phys.org/news/2026-08-pot-crispr-platform-lab-sensitivity.html
-- Summary: A research team from The Hong Kong University of Science and Technology (HKUST) has developed an innovative "one-pot" testing platform, known as TEMPO, that could transform highly sensitive nucleic acid testing from a laboratory-based procedure into a simple, single-step test that can be performed at home. With a single reaction tube, users can obtain results comparable to those of professional laboratory tests in as little as 30 minutes. The breakthrough has the potential to bridge the technolo
-
-### Q&A: What dinosaur teeth reveal about diet and evolution
-- Source: Phys.org
-- Published: 2026-08-31 22:00
-- Topics: Science
-- Link: https://phys.org/news/2026-08-qa-dinosaur-teeth-reveal-diet.html
-- Summary: What did dinosaurs eat? Teeth provide important clues to understanding the ecology of dinosaurs, which became extinct approximately 66 million years ago. Their shape, structure and patterns of wear can help scientists reconstruct how these animals obtained and processed their food.
-
-### Femtosecond nano-imaging reveals ultrafast optical control of phonon polaritons
-- Source: Phys.org
-- Published: 2026-08-31 22:00
-- Topics: Science, MedTech
-- Link: https://phys.org/news/2026-08-femtosecond-nano-imaging-reveals-ultrafast.html
-- Summary: A collaborative research team has successfully visualized in real space the ultrafast optical modulation of hyperbolic phonon polaritons (HPhPs) in a van der Waals heterostructure composed of hBN and WS2. The research is published in the journal Nano Letters, and was led by Kazuki Kamada of the Institute for Molecular Science (IMS) and Osaka Metropolitan University, along with Dr. Jun Nishida, assistant professor at IMS, and Takashi Kumagai, associate professor at IMS.
-
-### Managing chronic conditions together may be key to longer lifespan, canine study finds
-- Source: Phys.org
-- Published: 2026-08-31 21:50
-- Topics: Science
-- Link: https://phys.org/news/2026-08-chronic-conditions-key-longer-lifespan.html
-- Summary: As dogs age, many develop more than one chronic health condition. New research from Texas A&amp;M College of Veterinary Medicine and Biomedical Sciences (VMBS) shows those conditions can dramatically shorten a dog's lifespan, highlighting the importance of managing multiple diseases together rather than individually.
-
-### Organic crystal reveals how Joule heating stabilizes resistive switching
-- Source: Phys.org
-- Published: 2026-08-31 21:40
-- Topics: Science
-- Link: https://phys.org/news/2026-08-crystal-reveals-joule-stabilizes-resistive.html
-- Summary: Metal-insulator transitions (MITs), in which a material changes from a metallic state with low resistivity to an insulating state because of a change in an external parameter, such as temperature, pressure or an electric field, are a central topic in fundamental physics research.
-
-### Antarctica is home to microbes found nowhere else on Earth
-- Source: Phys.org
-- Published: 2026-08-31 21:30
-- Topics: Science
-- Link: https://phys.org/news/2026-08-antarctica-home-microbes-earth.html
-- Summary: Scientists have often wondered about species that are unique to Antarctica. But the focus has mainly been on animals, like feathery penguins. CIRES researchers wanted to dig deeper—into the soils—believing tiny organisms could be unique to the continent, too.
-
-### Keeping cool saves thousands of lives yearly, but at a cost of worsening global warming, experts say
-- Source: Phys.org
-- Published: 2026-08-31 21:20
-- Topics: Science
-- Link: https://phys.org/news/2026-08-cool-thousands-yearly-worsening-global.html
-- Summary: Cooling from air conditioning saves lives—more than 5,000 a year in the United States alone—but it also heats up the planet and taxes our electrical grid, scientists say.
-
-### Industrial-scale microbial foods—growth strategies for the next-generation protein market
-- Source: Phys.org
-- Published: 2026-08-31 21:00
-- Topics: Science
-- Link: https://phys.org/news/2026-08-industrial-scale-microbial-foods-growth.html
-- Summary: The question is no longer whether microbial foods can be made. The question now is who can be first to turn them into an industry. KAIST researchers have analyzed the conditions required for the microbial food industry to succeed across manufacturing, markets and regulation, and have proposed growth strategies for the next-generation protein industry.
-
-### NorthStar to Lead ESA Consortium on Uncontrolled Reentry
-- Source: Satellite Today
-- Published: 2026-08-31 19:32
-- Topics: Science
-- Link: https://www.satellitetoday.com/sustainability/2026/08/31/northstar-to-lead-esa-consortium-on-uncontrolled-reentry/
-- Summary: The European Space Agency (ESA) has selected NorthStar Earth &#38; Space to lead a study on uncontrolled atmospheric re-entry. NorthStar’s European subsidiary will lead a consortium for ESA’s Forecasting of [&#8230;] The post NorthStar to Lead ESA Consortium on Uncontrolled Reentry appeared first on Via Satellite .
+- Link: https://www.nature.com/articles/s41538-026-01113-x
 
 ### Will Meta’s settlement in social media addiction case be a boon for research?
 - Source: Science
@@ -650,74 +895,299 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research
 - Summary: A new foundation could help scientists assess the effects of fresh safety measures—if the company agrees to share its data
 
-### Snake embryos often coil in one direction. Now, we may know why
+### Scientists identify early signal of dangerous pregnancy complications
 - Source: Science
-- Published: 2026-08-31 09:00
+- Published: 2026-08-31 11:10
 - Topics: Science
-- Link: https://www.science.org/content/article/snake-embryos-often-coil-one-direction-now-we-may-know-why
-- Summary: Mismatch between growth of body and digestive system bends the body, study suggests
-
-### In autism advisory committee’s funding plan, critics see a veiled antivaccine focus
-- Source: Science
-- Published: 2026-08-31 06:30
-- Topics: Science, Funding
-- Link: https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus
-- Summary: The new plan, marked by a turbulent rollout and vote, urges more research on poorly understood “regression” to autism
-
-### Russia bets on new research facilities to rebuild foreign ties
-- Source: Science
-- Published: 2026-08-31 02:30
-- Topics: Science
-- Link: https://www.science.org/content/article/russia-bets-new-research-facilities-rebuild-foreign-ties
-- Summary: As Ukraine war drags on, a new synchrotron and two other megaprojects aim to attract scientists from “friendly” nations
-
-### Prevalence, patterns, and predictors of outpatient antibiotic prescribing in Saudi Arabia: an observational study
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-67734-0
-
-### Baseline statin therapy and short-term mortality in acute pulmonary embolism: a multicenter cohort study
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-67442-9
-
-### Cardiometabolic, thyroid, and cardiac biomarker associations with insulin resistance: cross-sectional study from a Romanian cohort
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Science
-- Link: https://www.nature.com/articles/s41598-026-67826-x
+- Link: https://www.science.org/content/article/scientists-identify-early-signal-dangerous-pregnancy-complications
+- Summary: Low levels of a placentamade protein predict preeclampsia and fetal growth restriction and could offer new target for prevention
 
 ## Other
 
-### If space data centers feel far-fetched, why not interstellar travel?
+### Global warming will exceed limit, UN says in a report that maps path to get back below danger zone
+- Source: Phys.org
+- Published: 2026-09-02 07:38
+- Topics: Other
+- Link: https://phys.org/news/2026-09-global-exceed-limit-path-danger.html
+- Summary: In a strategic retreat in the fight against climate change, the United Nations has acknowledged that Earth has lost its chance to prevent some of the worst of global warming's harms. So now the world must figure out how to get temperatures below the danger zone and back to safety, officials say.
+
+### After over 200 days at sea, USS Abraham Lincoln arrives in Thailand
+- Source: Defense News
+- Published: 2026-09-02 04:16
+- Topics: Other
+- Link: https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/
+- Summary: The USS Abraham Lincoln arrived in Thailand on Wednesday morning after more than 200 days at sea.
+
+### Microdroplet-based high-throughput screening for antagonistic bacteria targeting penaeid shrimp pathogenic Vibrio harveyi
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-68242-x
+
+### Phage treatment reduces multidrug resistant Pseudomonas aeruginosa biofilms and sewage pseudomonads
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s44454-026-00052-2
+
+### Self-organization of vascularized muscle from bovine embryonic stem cells
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41467-026-76569-2
+
+### Morphological, metabolic, and chemical changes in Candida albicans cells induced by the NaQSA complex
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41598-026-69531-1
+
+### Multifunctional antagonistic mechanisms of the soybean nodule endophyte Pseudomonas sp. JDE115 against Agroathelia rolfsii
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s44264-026-00188-z
+
+### Spatiotemporal lineage tracing reveals the dynamic spatial architecture of tumor growth and metastasis
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41588-026-02739-z
+
+### Dynamic biomass micro–nanofibre framework for entrapment and clearance of gastrointestinal microplastics
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41565-026-02266-2
+
+### Engineered genomic attachment sites for site-specific recombinases enable high-efficiency integration in plants and human cells
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s41587-026-03294-y
+
+### Beyond the single gene: Integrating genomic selection and genome editing for the improvement of polygenic traits in crop plants
+- Source: Nature
+- Published: 2026-09-02 00:00
+- Topics: Other
+- Link: https://www.nature.com/articles/s44573-026-00002-4
+
+### Larry Page’s flying car company Pivotal loses its CEO
 - Source: TechCrunch
-- Published: 2026-09-01 10:00
+- Published: 2026-09-01 23:59
 - Topics: Other
-- Link: https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/
-- Summary: The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.
+- Link: https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/
+- Summary: The company told TechCrunch he is "pursuing new endeavors." Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.
 
-### Food innovation in your kitchen: Giving peas, beans and lentils a surprisingly meat-like bite
+### Algorithm improves detection of differentially expressed genes in large single-cell trajectory data sets
 - Source: Phys.org
-- Published: 2026-09-01 09:00
+- Published: 2026-09-01 23:20
 - Topics: Other
-- Link: https://phys.org/news/2026-08-food-kitchen-peas-beans-lentils.html
-- Summary: Separating things and then putting them back together is a common principle in industrial food production. Agricultural raw materials are broken down into their individual constituents, such as proteins, starches and fats, and the food industry then reassembles these building blocks into specific products. In many cases, not all of the harvested crop ends up in the food we eat. In some instances, byproducts are formed that must be reused outside the food industry. These processing steps can also
+- Link: https://phys.org/news/2026-09-algorithm-differentially-genes-large-cell.html
+- Summary: Single-cell RNA sequencing (scRNA-seq) is a method for measuring gene expression in individual cells, allowing observation of various cellular processes, including cell differentiation, the cell cycle and stimulus response, for each unique cell instead of averaging across millions of cells. It provides high-resolution snapshots of biological processes. However, it does not track the same cell continuously over time. To address this limitation, trajectory inference approaches have been developed 
 
-### Declining star formation not caused by simple 'fuel crisis,' new measurements suggest
-- Source: Phys.org
-- Published: 2026-09-01 09:00
+### Reliance’s JioHotstar takes its streaming empire global — without sports
+- Source: TechCrunch
+- Published: 2026-09-01 23:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-declining-star-formation-simple-fuel.html
-- Summary: The universe has been having fewer and fewer stellar "babies." Over the past 4.5 billion years, the rate of star birth has crashed to less than half of what it once was. But here's the twist: the most essential "fuel" for making stars has barely decreased.
+- Link: https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/
+- Summary: JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.
 
-### Eruption of Sinabung volcano on Indonesia's Sumatra island prompts higher alert
+### To promote climate action, emotion may matter more than information
 - Source: Phys.org
-- Published: 2026-09-01 08:40
+- Published: 2026-09-01 22:40
 - Topics: Other
-- Link: https://phys.org/news/2026-09-eruption-sinabung-volcano-indonesia-sumatra.html
-- Summary: Mount Sinabung on Indonesia erupted Monday, spewing a column of black ash and smoke 3,500 meters (11,482 feet) from the top of the mountain into the sky over Sumatra island.
+- Link: https://phys.org/news/2026-09-climate-action-emotion.html
+- Summary: Every year, public authorities and nongovernmental organizations spend millions on communication campaigns designed to encourage people to take action on climate change. But which strategies work best? Should campaigns rely on fear or positive messages, prioritize facts or appeal to emotions, and focus on words or visuals?
+
+### Apple follows Google in adopting Trump’s ‘Lake America’ name
+- Source: TechCrunch
+- Published: 2026-09-01 22:13
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/
+- Summary: Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.
+
+### Salt of the Earth: How Egypt's coastal sabkhas tell a story of climate and change
+- Source: Phys.org
+- Published: 2026-09-01 22:00
+- Topics: Other
+- Link: https://phys.org/news/2026-08-salt-earth-egypt-coastal-sabkhas.html
+- Summary: Have you ever walked across a salt flat so expansive it feels like another planet? That's what it's like standing in Egypt's coastal sabkhas—those otherworldly landscapes where the ground crunches beneath your feet and the air shimmers with heat. These aren't just barren wastelands; they're living laboratories that record the pulse of our changing climate.
+
+### Saturn encounter may have set distant centaur on path to becoming a comet
+- Source: Phys.org
+- Published: 2026-09-01 22:00
+- Topics: Other
+- Link: https://phys.org/news/2026-09-saturn-encounter-distant-centaur-path.html
+- Summary: More than 3 billion miles (4.8 billion kilometers) from Earth, an ancient icy object is slowly awakening. As it drifts inward through the solar system, the frozen body known as Centaur 450P/LONEOS has begun releasing gas and dust—behavior more commonly associated with comets than with centaurs, the small icy objects that typically orbit between Jupiter and Neptune.
+
+### Canada's Labrador Shelf preserves climate records once thought erased by ice
+- Source: Phys.org
+- Published: 2026-09-01 21:40
+- Topics: Other
+- Link: https://phys.org/news/2026-09-canada-labrador-shelf-climate-thought.html
+- Summary: The Labrador Shelf is a shallow marine area on the margin of the Labrador Sea in the North Atlantic off the east coast of Canada. During the last ice age, this region was covered by the Laurentide Ice Sheet, one of the largest ice masses in Earth's history, which once covered vast parts of North America.
+
+### Inmarsat Maritime Launches New Safety Data Hub
+- Source: Satellite Today
+- Published: 2026-09-01 20:59
+- Topics: Other
+- Link: https://www.satellitetoday.com/mobility/2026/09/01/inmarsat-maritime-launches-new-safety-data-hub/
+- Summary: Inmarsat Maritime is launching a new product to provide new insights as well as direct access to the comprehensive analysis of risks shaping global shipping. Inmarsat Maritime, now a Viasat [&#8230;] The post Inmarsat Maritime Launches New Safety Data Hub appeared first on Via Satellite .
+
+### Google’s Android update tackles motion sickness, accessibility, and more
+- Source: TechCrunch
+- Published: 2026-09-01 20:53
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/
+- Summary: While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.
+
+### X says attackers are targeting user accounts after the launch of X Money
+- Source: TechCrunch
+- Published: 2026-09-01 20:48
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/
+- Summary: X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.
+
+### John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO
+- Source: TechCrunch
+- Published: 2026-09-01 19:45
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/
+- Summary: Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.
+
+### Telesat Considers Space-to-Ground Optical Coms with Cailabs
+- Source: Satellite Today
+- Published: 2026-09-01 19:41
+- Topics: Other
+- Link: https://www.satellitetoday.com/technology/2026/09/01/telesat-considers-space-to-ground-optical-coms-with-cailabs/
+- Summary: Telesat will consider adopting space-to-ground optical communications capabilities through a new strategic collaboration agreement with Cailabs. Under the agreement announced Tuesday, the companies will explore integrating Cailabs optical space-to-ground connectivity [&#8230;] The post Telesat Considers Space-to-Ground Optical Coms with Cailabs appeared first on Via Satellite .
+
+### Intuitive Machines Books 2-Satellite Order for Unnamed Customer
+- Source: Satellite Today
+- Published: 2026-09-01 19:38
+- Topics: Other
+- Link: https://www.satellitetoday.com/manufacturing/2026/09/01/intuitive-machines-books-2-satellite-order-for-unnamed-customer/
+- Summary: Intuitive Machines has secured a two-satellite order for an unnamed commercial customer. The order is for two IM 300 platforms, the same platform that has supported Space Development Agency missions. [&#8230;] The post Intuitive Machines Books 2-Satellite Order for Unnamed Customer appeared first on Via Satellite .
+
+### How AI plotted an interstellar journey to Alpha Centauri
+- Source: MIT Technology Review
+- Published: 2026-09-01 19:10
+- Topics: Other
+- Link: https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/
+- Summary: A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;
+
+### US launches new barrage of strikes on Iran around Strait of Hormuz
+- Source: Defense News
+- Published: 2026-09-01 18:13
+- Topics: Other
+- Link: https://www.defensenews.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/
+- Summary: The U.S. launched new air strikes on Iranian targets Tuesday following attempted attacks by the IRGC against American troops deployed to the region.
+
+### Who is John Ternus, the new Apple CEO?
+- Source: TechCrunch
+- Published: 2026-09-01 18:02
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/
+- Summary: Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.
+
+### Google’s answer to Canva is an AI tool where you prompt instead of design
+- Source: TechCrunch
+- Published: 2026-09-01 17:35
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/
+- Summary: With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.
+
+### Celebrating 40 Years of Via Satellite
+- Source: Satellite Today
+- Published: 2026-09-01 16:47
+- Topics: Other
+- Link: https://www.satellitetoday.com/opinion/2026/09/01/celebrating-40-years-of-via-satellite/
+- Summary: Welcome to the 40th Anniversary Edition of Via Satellite where we celebrate an absolutely remarkable 40 years. It is hard to believe this magazine started in 1986 and 40 years [&#8230;] The post Celebrating 40 Years of Via Satellite appeared first on Via Satellite .
+
+### Via Satellite Editors and Writers Share Industry Memories
+- Source: Satellite Today
+- Published: 2026-09-01 16:47
+- Topics: Other
+- Link: https://www.satellitetoday.com/people/2026/09/01/via-satellite-editors-and-writers-share-industry-memories/
+- Summary: Over a 40-year history, Via Satellite has told countless stories of the space and satellite industry. From its first edition in 1986 to today, the magazine’s writers and editors and [&#8230;] The post Via Satellite Editors and Writers Share Industry Memories appeared first on Via Satellite .
+
+### Some Highs and Lows of a 40-Year Journey in Space
+- Source: Satellite Today
+- Published: 2026-09-01 16:45
+- Topics: Other
+- Link: https://www.satellitetoday.com/opinion/2026/09/01/some-highs-and-lows-of-a-40-year-journey-in-space/
+- Summary: Viasat celebrates its 40-year anniversary in 2026, alongside Via Satellite. The enormous changes in the last four decades begat enormous opportunity, and fortunately Viasat has been able to convert opportunities [&#8230;] The post Some Highs and Lows of a 40-Year Journey in Space appeared first on Via Satellite .
+
+### GoPro to be acquired for $285M, will remain a public company
+- Source: TechCrunch
+- Published: 2026-09-01 15:57
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/
+- Summary: GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.
+
+### Amazon Alexa can now alert you when something new might tempt you to shop
+- Source: TechCrunch
+- Published: 2026-09-01 15:51
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/
+- Summary: Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.
+
+### Microsoft 365 outage drags on, but things are improving
+- Source: TechCrunch
+- Published: 2026-09-01 15:23
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/
+- Summary: Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.
+
+### Fambot introduces an ‘AI chief of staff’ for families
+- Source: TechCrunch
+- Published: 2026-09-01 15:10
+- Topics: Other
+- Link: https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/
+- Summary: Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.
+
+### American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle
+- Source: Defense News
+- Published: 2026-09-01 15:08
+- Topics: Other
+- Link: https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/
+- Summary: The move is the latest in the service’s yearslong effort to replace the Bradley Fighting Vehicle.
+
+### US tech found in Russian ballistic missiles
+- Source: Defense News
+- Published: 2026-09-01 14:35
+- Topics: Other
+- Link: https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/
+- Summary: Dozens of American- and European-made components are still being used to build Russia’s deadly ballistic missiles.
+
+### Making the AI-powered case for legacy modernization
+- Source: MIT Technology Review
+- Published: 2026-09-01 14:00
+- Topics: Other
+- Link: https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/
+- Summary: For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes&#8230;
+
+### US approves potential $800 million helicopter sale to Iraq
+- Source: Breaking Defense
+- Published: 2026-09-01 13:26
+- Topics: Other
+- Link: https://breakingdefense.com/2026/09/us-approves-potential-800-million-helicopter-sale-to-iraq/
+- Summary: The proposed sale “will improve Iraq’s capability to meet current and future threats by improving its rotary wing transport, reconnaissance, and air-to-surface targeting capabilities,&#8221; the State Department said.
+
+### ESC 2026: The drug development readouts that stood out
+- Source: Labiotech
+- Published: 2026-09-01 13:00
+- Topics: Other
+- Link: https://www.labiotech.eu/trends-news/esc-2026/
+- Summary: Find out what came out of the ESC Congress 2026, from phase 3 successes and failures to earlier-stage programs. The post ESC 2026: The drug development readouts that stood out appeared first on Labiotech.eu . © Labiotech UG and Labiotech.eu. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Labiotech UG and Labiotec
+
+### Fermi Explorer Wants to Reach Another Star for $15M
+- Source: Payload Space
+- Published: 2026-09-01 11:58
+- Topics: Other
+- Link: https://payloadspace.com/fermi-explorer-wants-to-reach-another-star-for-15m/
+- Summary: The Starcloud cofounders announced the Fermi Explorer mission, launching humanity’s first mission to Alpha Centauri by 2029, on a $15M budget. The post Fermi Explorer Wants to Reach Another Star for $15M appeared first on Payload .
 
 ### A Rulebook for Surprises: Commanding Autonomous Aircraft
 - Source: War on the Rocks
@@ -726,179 +1196,115 @@ Generated: 2026-09-01 10:37 UTC
 - Link: https://warontherocks.com/cogs-of-war/a-rulebook-for-surprises-commanding-autonomous-aircraft/
 - Summary: My greatest challenge while flight testing collaborative combat aircraft was not troubleshooting errors at high speed in the cockpit. It was when, in a single keystroke, my job shifted from pilot to something like a dog handler &#8212; a supervisor of an autonomous agent. As a test pilot, my instinct is to stop for surprise machine behavior, but that met a system where such unexpected behavior could be a good thing. Managing autonomy means accounting for a new phenomenon &#8212; machine behavior
 
-### Australia's reefs follow trend of global coral cover decline
-- Source: Phys.org
-- Published: 2026-09-01 00:20
+### Brain stimulation takes aim at improving women’s health
+- Source: Science
+- Published: 2026-09-01 04:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-australia-reefs-trend-global-coral.html
-- Summary: Australia's coral reefs are in relatively good condition compared with coral reefs globally, although coral cover on Australian reefs has declined over the past 40 years—reflecting the global trend, a major new report has found.
+- Link: https://www.science.org/content/article/brain-stimulation-takes-aim-improving-women-s-health
+- Summary: Trials of noninvasive technologies tackle postpartum depression, menstrual pain, and other conditions
 
-### Screening Luxembourg's older general population for probable REM sleep behaviour disorder with a nationwide online survey
+### Extreme black hole merger may be a cosmic illusion
+- Source: Science
+- Published: 2026-09-01 01:00
+- Topics: Other
+- Link: https://www.science.org/content/article/extreme-black-hole-merger-may-be-cosmic-illusion
+- Summary: Puzzling event could be an artifact of gravitational lensing, a new model suggests
+
+### Microbial fermentation for riboflavin biofortification in African traditional fermented foods
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-67511-z
+- Link: https://www.nature.com/articles/s41538-026-01099-6
 
-### First-line anlotinib versus bevacizumab plus CapeOX in RAS/BRAF wild-type unresectable metastatic colorectal cancer (ANCHOR): a multicenter, prospective, randomized, phase 3 trial
+### Low-MESF fluorescent reference particles for flow cytometry analysis of extracellular vesicles
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41392-026-02938-4
+- Link: https://www.nature.com/articles/s41598-026-60804-3
 
-### Multicenter evaluation of anatomical landmark versus technology-assisted techniques for chemotherapy venous access device implantation
+### Nanopore-enabled time-resolved monitoring of catecholamine-related phenylalanine metabolism
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-49241-4
+- Link: https://www.nature.com/articles/s41565-026-02273-3
 
-### Author Correction: Activating mutations in CSF1R and additional receptor tyrosine kinases in histiocytic neoplasms
+### Bioreactor-based production of eumelanin nanoparticles by Streptomyces glaucescens NEAE-H: physicochemical characterization, anticancer and anti-inflammatory activities, and in silico analysis
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41591-026-04613-1
+- Link: https://www.nature.com/articles/s41598-026-65150-y
 
-### Why early pathology input matters in biologically rich cancer trials
+### Coupling filter mating with nanopore selective sequencing expands capturable conjugative plasmid recovery in biological wastewater treatment systems
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41416-026-03605-9
+- Link: https://www.nature.com/articles/s44221-026-00695-w
 
-### A methodological approach for creating virtual patient cohorts reflecting real-world diabetes treatment outcomes
+### System-level design of lipid nanoparticles for targeted RNA delivery
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-67376-2
+- Link: https://www.nature.com/articles/s44286-026-00431-x
 
-### Comparative effects of silibinin and deferoxamine on skeletal muscle injury and regeneration in a rat model of compartment syndrome
+### Living commensal biofilms for corrosion prevention
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-69079-0
+- Link: https://www.nature.com/articles/s41522-026-01128-y
 
-### Spermidine mitigates acute lung injury through activation of the Keap1-Nrf2-ARE pathway
+### Cell wall-forming chitin synthases in a chytrid fungus
 - Source: Nature
 - Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-67384-2
+- Link: https://www.nature.com/articles/s44512-026-00002-3
 
-### Role of ethics education in accounting fraud prevention
-- Source: Phys.org
-- Published: 2026-08-31 22:40
+### Spatial chromatin architecture and accessibility co-profiling of mammalian tissues
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-role-ethics-accounting-fraud.html
-- Summary: Two SUNY Polytechnic Institute (SUNY Poly) College of Business faculty members are exploring how integrating ethics and values throughout accounting and business education can better prepare students to recognize and prevent fraud in the workplace.
+- Link: https://www.nature.com/articles/s41592-026-03217-4
 
-### Nature's color palette explains why everything we see is a mix of red, yellow, green and blue
-- Source: Phys.org
-- Published: 2026-08-31 22:30
+### A genome-guided phylogenetic framework predicts the phytochemical similarity and quality consistency of Lonicera japonica
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-nature-palette-red-yellow-green.html
-- Summary: Biologists and linguists alike have long puzzled over the universal human tendency to see and name colors as a combination of four "pure" hues—red, yellow, green and blue.
+- Link: https://www.nature.com/articles/s41598-026-66790-w
 
-### Faint far-infrared radiation drives a correlated insulator-to-metal transition in magic-angle graphene
-- Source: Phys.org
-- Published: 2026-08-31 22:20
+### Metabolomics reveals how culture cycles affect muscle quality changes in offshore vessel-farmed Larimichthys crocea
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-faint-infrared-insulator-metal-transition.html
-- Summary: One of the central ideas in modern physics is the phase transition—a sudden transformation of the state of a material. We encounter phase transitions throughout everyday life: water freezes into ice, wax melts in the warmth of a flame, and water vapor condenses into droplets on a cold window. In these familiar examples, the atoms themselves rearrange into a new structure, giving the material entirely different properties.
+- Link: https://www.nature.com/articles/s41598-026-60561-3
 
-### A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms
-- Source: TechCrunch
-- Published: 2026-08-31 22:14
+### Illumina TruPath genome towards comprehensive high-resolution analysis of genomic diversity and structural complexity
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/
-- Summary: Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dollars on ads.
+- Link: https://www.nature.com/articles/s41525-026-00610-y
 
-### A single fix reverses the case for rolling back vehicle emissions standards
-- Source: Phys.org
-- Published: 2026-08-31 22:10
+### Klebsiella variicola MSK86 as a novel agent for SDS bioremediation and phytochemical enhancement in chili plants
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-reverses-case-vehicle-emissions-standards.html
-- Summary: Two administrations, the Biden administration and the second Trump administration, reached opposite conclusions about whether vehicle emissions standards should be rolled back. These conclusions came from different assumptions, including whether avoiding air pollution has value to society and the degree to which car buyers value future fuel savings from getting a more efficient vehicle. Both assumptions matter, and disagreement over either accounts for hundreds of billions of dollars in the gove
+- Link: https://www.nature.com/articles/s41598-026-69739-1
 
-### ESA JUICE probe targets dark Jovian moon Kallichore in 2031
-- Source: Phys.org
-- Published: 2026-08-31 21:40
+### Promise, proof and practice: how to realize the clinical value of consumer wearables
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-esa-juice-probe-dark-jovian.html
-- Summary: Jupiter hosts more than 100 moons, with most attention focused on the four Galilean moons: Io, Europa, Ganymede and Callisto. This is primarily due to their active geology, including Io being the most volcanically active planetary body in the solar system and Europa having a vast subsurface liquid-water ocean beneath its icy crust. However, Jupiter's smaller, lesser-known moons could provide astronomers with key insights into the history of the solar system because they have remained largely unc
+- Link: https://www.nature.com/articles/s44460-026-00121-4
 
-### Looking for Earth 2.0 in binary systems
-- Source: Phys.org
-- Published: 2026-08-31 21:20
+### Recovery of pectin and hemicellulose from hibiscus sabdariffa and their application in biofilm production
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://phys.org/news/2026-08-earth-binary.html
-- Summary: While astronomers have found thousands of exoplanets over the last few decades, the true prize continues to elude them—they have yet to find an Earth-mass, rocky planet orbiting in the habitable zone of a sun-like star. That's partially due to cosmic geography—around half of all sun-like stars near us aren't alone. They have one or more companion stars that complicate their orbital dynamics, as well as those of any planets they might host.
+- Link: https://www.nature.com/articles/s41598-026-69488-1
 
-### FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit
-- Source: TechCrunch
-- Published: 2026-08-31 20:20
+### Effect of liposome rigidity on corona formation and its implications for uptake by cells
+- Source: Nature
+- Published: 2026-09-01 00:00
 - Topics: Other
-- Link: https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/
-- Summary: Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.
-
-### ViaSat-3 F3 Satellite Enters Service
-- Source: Satellite Today
-- Published: 2026-08-31 19:39
-- Topics: Other
-- Link: https://www.satellitetoday.com/connectivity/2026/08/31/viasat-3-f3-satellite-enters-service/
-- Summary: Viasat’s third ViaSat-3 satellite (F3) has officially entered service over the Asia-Pacific region, the operator confirmed Monday. The F3 satellite will add 1 terabit per second of capacity to Viasat’s [&#8230;] The post ViaSat-3 F3 Satellite Enters Service appeared first on Via Satellite .
-
-### Apply now to host a Side Event at TechCrunch Disrupt 2026
-- Source: TechCrunch
-- Published: 2026-08-31 19:32
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/
-- Summary: Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.
-
-### Instagram puts new limits on undisclosed AI profiles
-- Source: TechCrunch
-- Published: 2026-08-31 19:16
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/
-- Summary: As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.
-
-### Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down
-- Source: TechCrunch
-- Published: 2026-08-31 19:02
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/
-- Summary: The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.
-
-### Microsoft tests fix for latest hours-long Outlook outage
-- Source: TechCrunch
-- Published: 2026-08-31 18:56
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/
-- Summary: Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.
-
-### Kalshi bans George Santos for life over State of the Union bets
-- Source: TechCrunch
-- Published: 2026-08-31 18:53
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/
-- Summary: The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.
-
-### Tim Cook’s parting message: Apple is in the hands of a product builder
-- Source: TechCrunch
-- Published: 2026-08-31 17:02
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/
-- Summary: Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods, and other major hardware lines.
-
-### In the age of drones, a bigger fence around your facility doesn’t protect you anymore
-- Source: Breaking Defense
-- Published: 2026-08-31 16:25
-- Topics: Other
-- Link: https://breakingdefense.com/2026/08/in-the-age-of-drones-a-bigger-fence-around-your-facility-doesnt-protect-you-anymore/
-- Summary: [Sponsored] Traditional thinking about how to protect facilities must adapt to new threats such as drones or downstream attacks.
-
-### VLC crosses 7 billion downloads
-- Source: TechCrunch
-- Published: 2026-08-31 16:07
-- Topics: Other
-- Link: https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/
-- Summary: In our world of expensive streaming platforms, the very free and offline VLC media player has crossed 7 billion downloads.
+- Link: https://www.nature.com/articles/s41467-026-77231-7
 
 ### Commercial Space Federation (CSF) Welcomes Two New Associate Members
 - Source: SpaceNews
@@ -920,94 +1326,3 @@ Generated: 2026-09-01 10:37 UTC
 - Topics: Other
 - Link: https://www.defensenews.com/global/asia-pacific/2026/08/31/new-zealand-ground-forces-drill-to-dock-onto-larger-armies/
 - Summary: Kiwi ground forces train to integrate their units with larger armies, Australia's especially, for maximum effect in battle.
-
-### The Quantum Stack and the Countdown to Q-Day
-- Source: War on the Rocks
-- Published: 2026-08-31 08:00
-- Topics: Other
-- Link: https://warontherocks.com/cogs-of-war/the-quantum-stack-and-the-countdown-to-q-day/
-- Summary: Quantum&#8217;s hype obscures a reality with real geopolitical stakes: the technology works and is advancing every day. Cameron Chehreh (IonQ), JD Dulny (Booz Allen), and Ben Gianni (GDIT) join Jonathan to discuss the race to Q-Day. They cover the shift to post-quantum cryptography, competing hardware modalities, emerging use cases, and why talent gaps and fragile supply chains mean the United States could be at risk of falling behind.Image: Jonathan Steffen via DVIDS. The post The Quantum Stack
-
-### Long-term effects of cognitive-behavioral therapy for adults with ADHD: results from an 8-year randomized controlled trial follow-up
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-68665-6
-
-### A medical image classification algorithm based on a hierarchical and complementary attention-enhanced Swin Transformer model
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-69149-3
-
-### Short-term effects of combinations of heart failure therapies on blood pressure, kidney function and serum potassium
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41591-026-04623-z
-
-### Representativeness and inclusivity in pharmacological and nutraceutical interventions in youth mental health disorders: a systematic review and meta-analysis
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s44220-026-00722-5
-
-### Exogenous galectin-1 mitigates inflammation and lipopolysaccharide-induced myocardial injury in experimental sepsis
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-68896-7
-
-### Reliability and concurrent validity of a handheld smart spirometry system (Spirokit) in Korea and Vietnam
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-68903-x
-
-### Factors associated with hyperuricemia in overweight or obese adults of Shenzhen, China
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-68519-1
-
-### Correction: Model organisms in POLG-related disorders: insights from yeast to multicellular systems
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41419-026-09022-3
-
-### Global and national trends in alcohol-attributable deaths from 1990 to 2023 and projections to 2050
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41538-026-01067-0
-
-### Association of the CNP index with mortality risk in patients with pneumonia receiving glucocorticoid therapy
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-68462-1
-
-### Age-related changes in left ventricular systolic and diastolic function and their histological and ultrastructural correlates in male WKY rats
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-69469-4
-
-### Expanding access to spine surgery simulation through smartphone-based augmented reality
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-69091-4
-
-### Quantitative estimation of active motor-unit subpopulations in contracting muscles of children and adults, corroborated by independent findings
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-67617-4
-
-### Bmi1 is a key effect molecule of p27-Shh signal pathway in mouse alveolar bone formation
-- Source: Nature
-- Published: 2026-08-31 00:00
-- Topics: Other
-- Link: https://www.nature.com/articles/s41598-026-68481-y
